@@ -1,0 +1,25 @@
+# Possible journals avenues:
+
+- Cognitive Modelling journals to check out:
+- Computational Brain & Behavior
+- Journal of Mathematical Psychology
+- Cognitive Psychology
+- Cognitive Science
+- Psychological Review
+- Behavioral Research Methods
+- Memory & Cognition
+- Quarterly Journal of Experimental Psychology
+- Journal of memory and language
+- Computational Psychiatry
+- Judgment and Decision Making
+- Decision
+- Psychonomic Bulletin & Review
+- Journal of Experimental Psychology: General
+- Journal of Experimental Psychology: LMC
+- Journal of Experimental Psychology: HPP
+- Cognition
+- PLOS Computational Biology
+- Cognitive Systems Research
+- Frontiers in Psychology
+- Journal of Cognition (Twitter handle: @JCgntn)
+- Scientific Reports
