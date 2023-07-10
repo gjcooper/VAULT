@@ -4,16 +4,6 @@ aliases:
 ---
 # DCE Information
 
-## Thyroid DCE
-
-People:
-
-  - Nick Zdenkowski \<nick.zdenkowski@newcastle.edu.au\>;
-  - Jacob Hampton \<jacobphampton@gmail.com\>;
-  - Chris O'Neill \<chris\_<o_neill@icloud.com>\>
-
-[Correspondence on Thyroid
-DCE](Correspondence%20on%20Thyroid%20DCE.html)
 
 ## Sample Size
 
