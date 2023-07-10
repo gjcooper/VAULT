@@ -7,7 +7,7 @@ publication: "Psychonomic Bulletin & Review"
 date: 2002-03-01
 citekey: estes2002traps
 aliases: 
-    - Traps in the route to models of memory and decision
+    - "Traps in the route to models of memory and decision"
 ---
 
 # Traps in the route to models of memory and decision

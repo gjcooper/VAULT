@@ -7,7 +7,7 @@ publication: "Psychonomic Bulletin & Review"
 date: 2005-06-01
 citekey: estes2005risks
 aliases: 
-    - Risks of drawing inferences about cognitive processes from model fits to individual versus average performance
+    - "Risks of drawing inferences about cognitive processes from model fits to individual versus average performance"
 ---
 
 # Risks of drawing inferences about cognitive processes from model fits to individual versus average performance

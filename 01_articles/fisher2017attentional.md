@@ -7,7 +7,7 @@ publication: "Cognition"
 date: 2017-11-01
 citekey: fisher2017attentional
 aliases: 
-    - An attentional drift diffusion model over binary-attribute choice
+    - "An attentional drift diffusion model over binary-attribute choice"
 ---
 
 # An attentional drift diffusion model over binary-attribute choice

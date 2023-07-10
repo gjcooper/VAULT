@@ -7,7 +7,7 @@ publication: "Cognitive Psychology"
 date: 2016-01-01
 citekey: holmes2016new
 aliases: 
-    - A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model
+    - "A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model"
 ---
 
 # A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model

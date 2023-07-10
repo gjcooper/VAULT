@@ -7,7 +7,7 @@ publication: "Behavior Research Methods"
 date: 2008-01-01
 citekey: riedl2008identifying
 aliases: 
-    - Identifying decision strategies: A process-and outcome-based classification method
+    - "Identifying decision strategies: A process-and outcome-based classification method"
 ---
 
 # Identifying decision strategies: A process-and outcome-based classification method

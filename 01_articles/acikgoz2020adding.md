@@ -7,7 +7,7 @@ publication: "Journal of Behavioral Decision Making"
 date: 2020-01-01
 citekey: acikgoz2020adding
 aliases: 
-    - Adding versus averaging: Evaluability theory applied to job choice decisions
+    - "Adding versus averaging: Evaluability theory applied to job choice decisions"
 ---
 
 # Adding versus averaging: Evaluability theory applied to job choice decisions

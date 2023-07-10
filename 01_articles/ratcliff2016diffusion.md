@@ -7,7 +7,7 @@ publication: "Trends in Cognitive Sciences"
 date: 2016-04-01
 citekey: ratcliff2016diffusion
 aliases: 
-    - Diffusion Decision Model: Current Issues and History
+    - "Diffusion Decision Model: Current Issues and History"
 ---
 
 # Diffusion Decision Model: Current Issues and History

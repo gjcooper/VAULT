@@ -7,7 +7,7 @@ publication: "Organizational Behavior and Human Decision Processes"
 date: 1991-06-01
 citekey: stone1991numeric
 aliases: 
-    - Numeric and linguistic information representation in multiattribute choice
+    - "Numeric and linguistic information representation in multiattribute choice"
 ---
 
 # Numeric and linguistic information representation in multiattribute choice

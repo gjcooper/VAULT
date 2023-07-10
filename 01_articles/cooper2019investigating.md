@@ -7,7 +7,7 @@ publication: "Journal of Mathematical Psychology"
 date: 2019-10-01
 citekey: cooper2019investigating
 aliases: 
-    - Investigating consumer decision strategies with systems factorial technology
+    - "Investigating consumer decision strategies with systems factorial technology"
 ---
 
 # Investigating consumer decision strategies with systems factorial technology

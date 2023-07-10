@@ -6,7 +6,7 @@ title: "The Adaptive Decision Maker"
 date: 1993-05-28
 citekey: payne1993adaptive
 aliases: 
-    - The Adaptive Decision Maker
+    - "The Adaptive Decision Maker"
 ---
 
 # The Adaptive Decision Maker

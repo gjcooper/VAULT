@@ -7,7 +7,7 @@ publication: "Psychological Bulletin"
 date: 1956-03-01
 citekey: estes1956problem
 aliases: 
-    - The problem of inference from curves based on group data.
+    - "The problem of inference from curves based on group data."
 ---
 
 # The problem of inference from curves based on group data.

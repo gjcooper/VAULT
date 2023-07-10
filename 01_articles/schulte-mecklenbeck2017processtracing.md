@@ -7,7 +7,7 @@ publication: "Current Directions in Psychological Science"
 date: 2017-01-01
 citekey: schulte-mecklenbeck2017processtracing
 aliases: 
-    - Process-Tracing Methods in Decision Making: On Growing Up in the 70s
+    - "Process-Tracing Methods in Decision Making: On Growing Up in the 70s"
 ---
 
 # Process-Tracing Methods in Decision Making: On Growing Up in the 70s

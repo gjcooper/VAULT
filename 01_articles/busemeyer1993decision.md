@@ -7,7 +7,7 @@ publication: "Psychological review"
 date: 1993-07-01
 citekey: busemeyer1993decision
 aliases: 
-    - Decision field theory: a dynamic-cognitive approach to decision making in an uncertain environment.
+    - "Decision field theory: a dynamic-cognitive approach to decision making in an uncertain environment."
 ---
 
 # Decision field theory: a dynamic-cognitive approach to decision making in an uncertain environment.

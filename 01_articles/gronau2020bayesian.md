@@ -7,7 +7,7 @@ publication: "Computational Brain & Behavior"
 date: 2020-01-01
 citekey: gronau2020bayesian
 aliases: 
-    - Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics
+    - "Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics"
 ---
 
 # Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics

@@ -7,7 +7,7 @@ publication: "Memory & Cognition"
 date: 1975-05-01
 citekey: russo1975eye
 aliases: 
-    - An eye fixation analysis of multialternative choice
+    - "An eye fixation analysis of multialternative choice"
 ---
 
 # An eye fixation analysis of multialternative choice

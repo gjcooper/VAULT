@@ -7,7 +7,7 @@ publication: "Acta Psychologica"
 date: 1980-01-01
 citekey: englander1980information
 aliases: 
-    - Information seeking in open decision situations
+    - "Information seeking in open decision situations"
 ---
 
 # Information seeking in open decision situations

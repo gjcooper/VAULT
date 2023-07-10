@@ -7,7 +7,7 @@ publication: "Psychonomic Bulletin & Review"
 date: 2000-06-01
 citekey: heathcote2000power
 aliases: 
-    - The power law repealed: The case for an exponential law of practice
+    - "The power law repealed: The case for an exponential law of practice"
 ---
 
 # The power law repealed: The case for an exponential law of practice
