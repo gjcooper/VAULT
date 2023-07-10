@@ -10,7 +10,7 @@ archive: "{{archive}}"{% endif %}{% if archiveLocation %}
 archive-location: "{{archiveLocation}}"{% endif %}
 citekey: {{citekey}}
 aliases: 
-    - {{title}}
+    - "{{title}}"
 ---
 
 # {{title}}
@@ -22,17 +22,14 @@ aliases:
  
 ### Annotations
 {% macro calloutHeader(color) -%}
+{% if color == "#ffd400" %}
+Note
+{%- endif -%}
 {%- if color == "#ff6666" -%}
 Important
 {%- endif -%}
 {%- if color == "#5fb236" -%}
 Reference
-{%- endif -%}
-{%- if color == "#2ea8e5" -%}
-Undefined - Blue
-{%- endif -%}
-{%- if color == "#a28ae5" -%}
-Undefined - Purple
 {%- endif -%}
 {%- endmacro -%}
 
@@ -42,14 +39,23 @@ Undefined - Purple
 ##### Imported on {{importDate | format("YYYY-MM-DD h:mm a")}}
 
 {%- for annotation in annotations %}
-{% if annotation.color !== "#ffd400" %}
+{%- if annotation.type === "highlight" %}
 >[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}] {{calloutHeader(annotation.color)}}
->{%- endif -%}
+>{% if annotation.annotatedText %}{{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}
+{%- if annotation.comment%}
+
+>[!note]
+>{{annotation.comment}}{%- endif %}
+{%- endif -%}
+{%- if annotation.type === "image" %}
+##### <span style="color: {{annotation.color}}">Screenshot</span>
 {% if annotation.imageRelativePath %}![[{{annotation.imageRelativePath}}]]{% endif %}
-{% if annotation.type === "highlight" %}{% if annotation.annotatedText %}{{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}
-{%- if annotation.comment%}_Comment_: _{{annotation.comment}}_{%- endif %}
+
+{%- endif -%}
+{% if annotation.type === "note" %}
+>[!note{% if annotation.color %}|{{annotation.color}}{% endif %}]
+> {% if annotation.type === "note" %}{{annotation.comment}}{%- endif %}
 {%- endif %}
-{% if annotation.type === "note" %}{{annotation.comment}}{%- endif %}
 
 ---
 {%- endfor %}{% endif %}{% endpersist %}
