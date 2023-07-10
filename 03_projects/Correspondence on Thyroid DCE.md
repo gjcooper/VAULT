@@ -1,6 +1,5 @@
-# Thyroid Project
+# [[Thyroid]] Project
 
-A collaboration with 
 ## March 24
 
 ### Suggested clinical Vignette:
@@ -36,7 +35,7 @@ not entirely sure of their numbers.
 
 ### New design
 
-Attributes for the [[DCE]]
+Attributes for the [[Discrete Choice Experiments|DCE]]
 
 Attributes
 
