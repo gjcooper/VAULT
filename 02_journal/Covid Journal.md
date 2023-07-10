@@ -1,4 +1,4 @@
-# A list of effects on my PhD work due to Covid.
+# A list of effects on my #PhD work due to Covid.
 
 ## Lockdown 1 24/03/2020 -\> 25/05/2020
 
@@ -28,5 +28,5 @@
 ## Vacation care interruptions
 
   - Several times over the COVID epidemic periods vacation care has been
-    calncelled due either to illness of the privder/providers family, or
+    cancelled due either to illness of the provider/providers family, or
     concerns about contracting COVID (4 weeks total)
