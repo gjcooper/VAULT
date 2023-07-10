@@ -44,4 +44,4 @@ Numerous studies in economics and psychology have sought to understand how speci
 
 ###### Tags
 
-#poster
+#poster #conference 

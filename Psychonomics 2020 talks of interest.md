@@ -6,7 +6,7 @@
 
 #### Using Discrete Recurrence Quantification Analysis to Probe the Dynamics of Decision Making
 
-Leslie Blaha
+[[Leslie Blaha]]
 
 The use of Recurrence Quanitification Analysis for decision making was
 quite fascinating. The example used to illustrate was a gambling style
@@ -554,3 +554,9 @@ Haggard (2017)
 
 Just a poster (no talk), in Mendeley now, useful refs for outlier
 detection
+
+---
+
+###### Tags
+
+#conference 
