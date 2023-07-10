@@ -18,31 +18,27 @@ Engländer, T., & Tyszka, T. (1980). Information seeking in open decision situat
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-30 4:21 pm
-
-Parallel examination; this is a strategy resulting in a low variability percentage and two relatively high thoroughness indices. [(p. 172)](zotero://open-pdf/library/items/9PH8MF3J?page=172&annotation=KRRTB9Z7)
-
-
----
-
-Narrowing down; this is a strategy with moderate thoroughness indices of which the index for the chosen alternative is usually the higher one, accompanied by a relatively low variability percentage. T [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=PIXG2FEM)
-
+##### Imported on 2023-07-10 3:03 pm
+>[!quote|#ffd400]
+>Parallel examination; this is a strategy resulting in a low variability percentage and two relatively high thoroughness indices. [(p. 172)](zotero://open-pdf/library/items/9PH8MF3J?page=172&annotation=KRRTB9Z7)
 
 ---
-
-Confirmation seeking; this is an information seeking pattern resulting in extremely low thoroughness indices, accompanied by low variability percentages. [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=5ZPKY5KZ)
-
-
----
-
-Satisficing; this is a pattern of information seeking characterized by a very high [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=NFNBCL4A)
-
+>[!quote|#ffd400]
+>Narrowing down; this is a strategy with moderate thoroughness indices of which the index for the chosen alternative is usually the higher one, accompanied by a relatively low variability percentage. T [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=PIXG2FEM)
 
 ---
+>[!quote|#ffd400]
+>Confirmation seeking; this is an information seeking pattern resulting in extremely low thoroughness indices, accompanied by low variability percentages. [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=5ZPKY5KZ)
 
-The change of a previous decision, after receipt of complete information, implies that a decision analyst helping the decision maker to formulate the decision problem, is exerting considerable influence on the decision maker’s final decision. [(p. 175)](zotero://open-pdf/library/items/9PH8MF3J?page=175&annotation=Y4CFZC4C)
+---
+>[!quote|#ffd400]
+>Satisficing; this is a pattern of information seeking characterized by a very high [(p. 173)](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=NFNBCL4A)
 
+---
+>[!quote|#ffd400]
+>The change of a previous decision, after receipt of complete information, implies that a decision analyst helping the decision maker to formulate the decision problem, is exerting considerable influence on the decision maker’s final decision. [(p. 175)](zotero://open-pdf/library/items/9PH8MF3J?page=175&annotation=Y4CFZC4C)
 
 ---%% end annotations %%
 
@@ -53,15 +49,15 @@ The change of a previous decision, after receipt of complete information, implie
 # Annotations  
 (21/11/2022, 4:56:27 pm)
 
-[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=172&annotation=KRRTB9Z7)“Parallel examination; this is a strategy resulting in a low variability percentage and two relatively high thoroughness indices.” ([Engländer and Tyszka, 1980, p. 172](zotero://select/library/items/9WXECUG9))
+[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=172&annotation=KRRTB9Z7) “Parallel examination; this is a strategy resulting in a low variability percentage and two relatively high thoroughness indices.” ([Engländer and Tyszka, 1980, p. 172](zotero://select/library/items/9WXECUG9))
 
-[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=PIXG2FEM)“Narrowing down; this is a strategy with moderate thoroughness indices of which the index for the chosen alternative is usually the higher one, accompanied by a relatively low variability percentage. T” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
+[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=PIXG2FEM) “Narrowing down; this is a strategy with moderate thoroughness indices of which the index for the chosen alternative is usually the higher one, accompanied by a relatively low variability percentage. T” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
 
-[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=5ZPKY5KZ)“Confirmation seeking; this is an information seeking pattern resulting in extremely low thoroughness indices, accompanied by low variability percentages.” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
+[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=5ZPKY5KZ) “Confirmation seeking; this is an information seeking pattern resulting in extremely low thoroughness indices, accompanied by low variability percentages.” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
 
-[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=NFNBCL4A)“Satisficing; this is a pattern of information seeking characterized by a very high” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
+[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=173&annotation=NFNBCL4A) “Satisficing; this is a pattern of information seeking characterized by a very high” ([Engländer and Tyszka, 1980, p. 173](zotero://select/library/items/9WXECUG9))
 
-[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=175&annotation=Y4CFZC4C)“The change of a previous decision, after receipt of complete information, implies that a decision analyst helping the decision maker to formulate the decision problem, is exerting considerable influence on the decision maker’s final decision.” ([Engländer and Tyszka, 1980, p. 175](zotero://select/library/items/9WXECUG9))
+[Go to annotation](zotero://open-pdf/library/items/9PH8MF3J?page=175&annotation=Y4CFZC4C) “The change of a previous decision, after receipt of complete information, implies that a decision analyst helping the decision maker to formulate the decision problem, is exerting considerable influence on the decision maker’s final decision.” ([Engländer and Tyszka, 1980, p. 175](zotero://select/library/items/9WXECUG9))
 
 #### Tags
 
@@ -78,4 +74,4 @@ The change of a previous decision, after receipt of complete information, implie
 #pub/acta_psychologica
 
 
-%% Import Date: 2023-05-30T16:21:54.294+10:00 %%
+%% Import Date: 2023-07-10T15:03:56.888+10:00 %%

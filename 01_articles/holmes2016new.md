@@ -18,21 +18,17 @@ Holmes, W. R., Trueblood, J. S., & Heathcote, A. (2016). A new framework for mod
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-24 2:45 pm
-
-
-Discrete switches of incoming information for multiattribute stimuli - ie through attention switching or eye movements.
-
----
-
->[!quote|#ffc4fb] 
->
-
-Is this about DE-MCMC?
+##### Imported on 2023-07-10 3:10 pm
+>[!note|#ffd400]
+> Discrete switches of incoming information for multiattribute stimuli - ie through attention switching or eye movements.
 
 ---
-%% end annotations %%
+>[!note|#ffc4fb]
+> Is this about DE-MCMC?
+
+---%% end annotations %%
 
 ## Item Notes
 ### High Level Overview
@@ -98,4 +94,4 @@ information becomes available for the participant.
 #pub/cognitive_psychology
 
 
-%% Import Date: 2023-05-24T14:45:26.577+10:00 %%
+%% Import Date: 2023-07-10T15:12:33.384+10:00 %%

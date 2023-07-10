@@ -18,6 +18,7 @@ Estes, W. K., & Todd Maddox, W. (2005). Risks of drawing inferences about cognit
 
  
 ### Annotations
+
 %% begin annotations %%%% end annotations %%
 
 ## Item Notes
@@ -45,4 +46,4 @@ They then proceed to simulate new data (yoked to experimental estimates) for whi
 #pub/psychonomic_bulletin_&_review
 
 
-%% Import Date: 2023-05-30T16:13:27.850+10:00 %%
+%% Import Date: 2023-07-10T15:06:18.644+10:00 %%

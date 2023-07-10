@@ -18,21 +18,19 @@ Estes, W. K. (2002). Traps in the route to models of memory and decision. _Psych
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-30 4:41 pm
-
-However, although averaging data can help bring out real trends, it is important to recognize that it can also be a source of distortions. [(p. 5)](zotero://open-pdf/library/items/XYCP6BSA?page=5&annotation=V3CMN2SG)
-
-
----
-
-Will computing an average at successive values of n for a group of subjects who differ with respect to values of the parameters produce a group curve that is representative of the curves for individuals? [(p. 6)](zotero://open-pdf/library/items/XYCP6BSA?page=6&annotation=URGD6VQE)
-
+##### Imported on 2023-07-10 3:05 pm
+>[!quote|#ffd400]
+>However, although averaging data can help bring out real trends, it is important to recognize that it can also be a source of distortions. [(p. 5)](zotero://open-pdf/library/items/XYCP6BSA?page=5&annotation=V3CMN2SG)
 
 ---
+>[!quote|#ffd400]
+>Will computing an average at successive values of n for a group of subjects who differ with respect to values of the parameters produce a group curve that is representative of the curves for individuals? [(p. 6)](zotero://open-pdf/library/items/XYCP6BSA?page=6&annotation=URGD6VQE)
 
-Will fitting a model to averaged data for a group yield evidence about the appropriateness of the model for predicting the behavior of individuals? [(p. 6)](zotero://open-pdf/library/items/XYCP6BSA?page=6&annotation=2HIGMZUN)
-
+---
+>[!quote|#ffd400]
+>Will fitting a model to averaged data for a group yield evidence about the appropriateness of the model for predicting the behavior of individuals? [(p. 6)](zotero://open-pdf/library/items/XYCP6BSA?page=6&annotation=2HIGMZUN)
 
 ---%% end annotations %%
 
@@ -53,4 +51,4 @@ Will fitting a model to averaged data for a group yield evidence about the appro
 #pub/psychonomic_bulletin_&_review
 
 
-%% Import Date: 2023-05-30T16:41:10.050+10:00 %%
+%% Import Date: 2023-07-10T15:06:18.539+10:00 %%

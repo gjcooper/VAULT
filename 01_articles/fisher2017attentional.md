@@ -18,26 +18,23 @@ Fisher, G. (2017). An attentional drift diffusion model over binary-attribute ch
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-27 9:21 pm
-
-Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binaryattribute choice, [(p. 35)](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS)
-
-
----
-
-Although it is well known that fixations and attention can be dissociated (Egly, Driver, & Rafal, 1994; Posner, Nissen, & Ogden, 1977), for the purposes of this experiment fixations appear to provide a reasonable measure of attention at any instance during the choice process. [(p. 37)](zotero://open-pdf/library/items/3ED9LIJA?page=37&annotation=Z6NSABL4)
-
+##### Imported on 2023-07-10 3:07 pm
+>[!quote|#ffd400]
+>Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binaryattribute choice, [(p. 35)](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS)
 
 ---
-
-I fitted the model at the group level to both choice and reaction time data for all 46 subjects by pooling all even numbered trials into a single data set. The model requires a large amount of data to estimate the parameters accurately, and fitting them at the individual level would result in highly noisy estimates. A similar variant and emphasis of this group estimation procedure has been used in all previous work that estimates parameters from attentional drift diffusion models [(p. 38)](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=D74H2JNX)
-
+>[!quote|#ffd400]
+>Although it is well known that fixations and attention can be dissociated (Egly, Driver, & Rafal, 1994; Posner, Nissen, & Ogden, 1977), for the purposes of this experiment fixations appear to provide a reasonable measure of attention at any instance during the choice process. [(p. 37)](zotero://open-pdf/library/items/3ED9LIJA?page=37&annotation=Z6NSABL4)
 
 ---
+>[!quote|#ffd400]
+>I fitted the model at the group level to both choice and reaction time data for all 46 subjects by pooling all even numbered trials into a single data set. The model requires a large amount of data to estimate the parameters accurately, and fitting them at the individual level would result in highly noisy estimates. A similar variant and emphasis of this group estimation procedure has been used in all previous work that estimates parameters from attentional drift diffusion models [(p. 38)](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=D74H2JNX)
 
-In each simulation, individual liking ratings for both the appetitive and aversive foods were drawn from the empirical distribution of liking ratings conditional on the rating of the bundle. Furthermore, once a pair of liking ratings was drawn, I chose subject-estimated regression weights (b0, bP, and bN) associated with the randomly selected simulated liking ratings. For instance, if the drawn liking rating for the appetitive item and the aversive item was drawn and belonged to subject i, then subject i’s regression weights were used throughout the simulated trial. [(p. 38)](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=Z2632RY3)
-
+---
+>[!quote|#ffd400]
+>In each simulation, individual liking ratings for both the appetitive and aversive foods were drawn from the empirical distribution of liking ratings conditional on the rating of the bundle. Furthermore, once a pair of liking ratings was drawn, I chose subject-estimated regression weights (b0, bP, and bN) associated with the randomly selected simulated liking ratings. For instance, if the drawn liking rating for the appetitive item and the aversive item was drawn and belonged to subject i, then subject i’s regression weights were used throughout the simulated trial. [(p. 38)](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=Z2632RY3)
 
 ---%% end annotations %%
 
@@ -48,11 +45,11 @@ In each simulation, individual liking ratings for both the appetitive and aversi
 # Annotations  
 (17/01/2023, 2:26:13 pm)
 
-[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS)“Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binaryattribute choice,” ([Fisher, 2017, p. 35](zotero://select/library/items/Q69BEVRF))
+[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS) “Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binaryattribute choice,” ([Fisher, 2017, p. 35](zotero://select/library/items/Q69BEVRF))
 
-[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=37&annotation=Z6NSABL4)“Although it is well known that fixations and attention can be dissociated (Egly, Driver, & Rafal, 1994; Posner, Nissen, & Ogden, 1977), for the purposes of this experiment fixations appear to provide a reasonable measure of attention at any instance during the choice process.” ([Fisher, 2017, p. 37](zotero://select/library/items/Q69BEVRF))
+[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=37&annotation=Z6NSABL4) “Although it is well known that fixations and attention can be dissociated (Egly, Driver, & Rafal, 1994; Posner, Nissen, & Ogden, 1977), for the purposes of this experiment fixations appear to provide a reasonable measure of attention at any instance during the choice process.” ([Fisher, 2017, p. 37](zotero://select/library/items/Q69BEVRF))
 
-[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=D74H2JNX)“I fitted the model at the group level to both choice and reaction time data for all 46 subjects by pooling all even numbered trials into a single data set. The model requires a large amount of data to estimate the parameters accurately, and fitting them at the individual level would result in highly noisy estimates. A similar variant and emphasis of this group estimation procedure has been used in all previous work that estimates parameters from attentional drift diffusion models” ([Fisher, 2017, p. 38](zotero://select/library/items/Q69BEVRF))
+[Go to annotation](zotero://open-pdf/library/items/3ED9LIJA?page=38&annotation=D74H2JNX) “I fitted the model at the group level to both choice and reaction time data for all 46 subjects by pooling all even numbered trials into a single data set. The model requires a large amount of data to estimate the parameters accurately, and fitting them at the individual level would result in highly noisy estimates. A similar variant and emphasis of this group estimation procedure has been used in all previous work that estimates parameters from attentional drift diffusion models” ([Fisher, 2017, p. 38](zotero://select/library/items/Q69BEVRF))
 
 ##### Note added on 2023-02-27 8:13 pm
 
@@ -77,4 +74,4 @@ The particular application by ([Fisher, 2017](zotero://select/library/items/Q69B
 #pub/cognition
 
 
-%% Import Date: 2023-05-27T21:22:05.679+10:00 %%
+%% Import Date: 2023-07-10T15:07:51.304+10:00 %%

@@ -17,6 +17,7 @@ Payne, J. W., Bettman, J. R., & Johnson, E. J. (1993). _The Adaptive Decision Ma
 
  
 ### Annotations
+
 %% begin annotations %%%% end annotations %%
 
 ## Item Notes
@@ -36,4 +37,4 @@ Payne, J. W., Bettman, J. R., & Johnson, E. J. (1993). _The Adaptive Decision Ma
 
 
 
-%% Import Date: 2023-05-30T16:16:49.281+10:00 %%
+%% Import Date: 2023-07-10T15:12:33.728+10:00 %%

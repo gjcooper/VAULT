@@ -18,26 +18,19 @@ Schulte-Mecklenbeck, M., Johnson, J. G., Böckenholt, U., Goldstein, D. G., Russ
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-06-01 11:58 am
-
-Table 1 displays the most commonly used process-tracing methods in decision research. [(p. 2)](zotero://open-pdf/library/items/SA68WMGR?page=2&annotation=F944F2RJ)
-
-
----
-
->[!quote|#5fb236] Reference
->
-Measurements of attention, including where and how long the eyes rest (“fixations”), are assumed to indicate signal processing ( Just & Carpenter, 1980), although such an assumption is still under critical examination (see Russo, 2011) [(p. 6)](zotero://open-pdf/library/items/SA68WMGR?page=6&annotation=E54LGXHE)
-
+##### Imported on 2023-07-10 3:10 pm
+>[!quote|#ffd400]
+>Table 1 displays the most commonly used process-tracing methods in decision research. [(p. 2)](zotero://open-pdf/library/items/SA68WMGR?page=2&annotation=F944F2RJ)
 
 ---
-##### Imported on 2023-06-01 12:02 pm
+>[!quote|#5fb236]
+>Measurements of attention, including where and how long the eyes rest (“fixations”), are assumed to indicate signal processing ( Just & Carpenter, 1980), although such an assumption is still under critical examination (see Russo, 2011) [(p. 6)](zotero://open-pdf/library/items/SA68WMGR?page=6&annotation=E54LGXHE)
 
->[!quote|#5fb236] Reference
->
-Russo, J. E. (2011). Eye fixations as a process trace. In M. Schulte-Mecklenbeck, A. Kühberger, & R. Ranyard (Eds.), A handbook of process tracing methods for decision research (pp. 43–64). Oxford, UK: Psychology Press. [(p. 10)](zotero://open-pdf/library/items/SA68WMGR?page=10&annotation=W7QD7II8)
-
+---
+>[!quote|#5fb236]
+>Russo, J. E. (2011). Eye fixations as a process trace. In M. Schulte-Mecklenbeck, A. Kühberger, & R. Ranyard (Eds.), A handbook of process tracing methods for decision research (pp. 43–64). Oxford, UK: Psychology Press. [(p. 10)](zotero://open-pdf/library/items/SA68WMGR?page=10&annotation=W7QD7II8)
 
 ---%% end annotations %%
 
@@ -57,4 +50,4 @@ Russo, J. E. (2011). Eye fixations as a process trace. In M. Schulte-Mecklenbeck
 #pub/current_directions_in_psychological_science
 
 
-%% Import Date: 2023-06-01T12:02:13.227+10:00 %%
+%% Import Date: 2023-07-10T15:12:34.263+10:00 %%

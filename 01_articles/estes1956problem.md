@@ -18,16 +18,15 @@ Estes, W. K. (1956). The problem of inference from curves based on group data. _
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-30 4:13 pm
-
-Functions unmodified by averaging. In these cases the mean curve for the group has the form of the individual function and the parameters of the mean curve are simply the means of the corresponding individual parameters. [(p. 136)](zotero://open-pdf/library/items/4I82QZZW?page=136&annotation=7L2AB5YB)
-
+##### Imported on 2023-07-10 3:05 pm
+>[!quote|#ffd400]
+>Functions unmodified by averaging. In these cases the mean curve for the group has the form of the individual function and the parameters of the mean curve are simply the means of the corresponding individual parameters. [(p. 136)](zotero://open-pdf/library/items/4I82QZZW?page=136&annotation=7L2AB5YB)
 
 ---
-
-Functions for which averaging complicates the interpretation of parameters but leaves form unchanged. [(p. 136)](zotero://open-pdf/library/items/4I82QZZW?page=136&annotation=U9RTQRK7)
-
+>[!quote|#ffd400]
+>Functions for which averaging complicates the interpretation of parameters but leaves form unchanged. [(p. 136)](zotero://open-pdf/library/items/4I82QZZW?page=136&annotation=U9RTQRK7)
 
 ---%% end annotations %%
 
@@ -56,4 +55,4 @@ Instead ([Estes, 1956](zotero://select/library/items/J99JKTLI)) proposes reframi
 #pub/psychological_bulletin
 
 
-%% Import Date: 2023-05-30T16:13:27.770+10:00 %%
+%% Import Date: 2023-07-10T15:05:38.963+10:00 %%

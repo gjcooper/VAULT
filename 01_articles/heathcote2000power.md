@@ -18,16 +18,15 @@ Heathcote, A., Brown, S., & Mewhort, D. J. K. (2000). The power law repealed: Th
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-30 4:45 pm
-
-The finding reinforces our earlier caution that practice functions from different subjects should not be averaged, not only because variation of learning rates can distort the shape ofthe average function, but also because an individual subject's learning may occasionally follow afunction other than the usual exponential form. [(p. 198)](zotero://open-pdf/library/items/6JBBAUZC?page=198&annotation=ARWL3D3H)
-
+##### Imported on 2023-07-10 3:10 pm
+>[!quote|#ffd400]
+>The finding reinforces our earlier caution that practice functions from different subjects should not be averaged, not only because variation of learning rates can distort the shape ofthe average function, but also because an individual subject's learning may occasionally follow afunction other than the usual exponential form. [(p. 198)](zotero://open-pdf/library/items/6JBBAUZC?page=198&annotation=ARWL3D3H)
 
 ---
-
-Averaging and practice functions. Averaging usually distorts the form of the practice function. Our analyses for individual subjects and conditions stand in marked contrast to Newell and Rosenbloom's (1981) results for averages over subjects and conditions. Empirically, we found that averaging over within-subjects conditions can produce abias in favor of the power function. We also found that practice curves for asmall minority ofsubjects may differ from the usual exponential form. Consequently, as Newell (1973) remarked, averaging "conceals, rather than reveals. You get garbage or, even worse, spurious regularity" (p. 295). [(p. 199)](zotero://open-pdf/library/items/6JBBAUZC?page=199&annotation=8YJ9EGFX)
-
+>[!quote|#ffd400]
+>Averaging and practice functions. Averaging usually distorts the form of the practice function. Our analyses for individual subjects and conditions stand in marked contrast to Newell and Rosenbloom's (1981) results for averages over subjects and conditions. Empirically, we found that averaging over within-subjects conditions can produce abias in favor of the power function. We also found that practice curves for asmall minority ofsubjects may differ from the usual exponential form. Consequently, as Newell (1973) remarked, averaging "conceals, rather than reveals. You get garbage or, even worse, spurious regularity" (p. 295). [(p. 199)](zotero://open-pdf/library/items/6JBBAUZC?page=199&annotation=8YJ9EGFX)
 
 ---%% end annotations %%
 
@@ -48,4 +47,4 @@ Averaging and practice functions. Averaging usually distorts the form of the pra
 #pub/psychonomic_bulletin_&_review
 
 
-%% Import Date: 2023-05-30T16:45:18.336+10:00 %%
+%% Import Date: 2023-07-10T15:12:33.279+10:00 %%

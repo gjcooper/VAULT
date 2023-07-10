@@ -21,17 +21,6 @@ aliases:
 {% endif %}{%- endfor %}
  
 ### Annotations
-{% macro calloutHeader(color) -%}
-{% if color == "#ffd400" %}
-Note
-{%- endif -%}
-{%- if color == "#ff6666" -%}
-Important
-{%- endif -%}
-{%- if color == "#5fb236" -%}
-Reference
-{%- endif -%}
-{%- endmacro -%}
 
 {% persist "annotations" %}
 {% set annotations = annotations | filterby("date", "dateafter", lastImportDate) -%}
@@ -40,7 +29,7 @@ Reference
 
 {%- for annotation in annotations %}
 {%- if annotation.type === "highlight" %}
->[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}] {{calloutHeader(annotation.color)}}
+>[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}]
 >{% if annotation.annotatedText %}{{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}
 {%- if annotation.comment%}
 

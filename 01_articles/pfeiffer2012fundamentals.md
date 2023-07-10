@@ -17,11 +17,11 @@ Pfeiffer, J. (2012). Fundamentals on Decision-Making Behavior. In _Interactive D
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-24 2:52 pm
-
-The choice process with its central elements discussed in this cha [(p. 2)](zotero://open-pdf/library/items/TLBFKPD3?page=2&annotation=U93X474M)
-
+##### Imported on 2023-07-10 3:10 pm
+>[!quote|#ffd400]
+>The choice process with its central elements discussed in this cha [(p. 2)](zotero://open-pdf/library/items/TLBFKPD3?page=2&annotation=U93X474M)
 
 ---%% end annotations %%
 
@@ -73,4 +73,4 @@ chapter.
 
 
 
-%% Import Date: 2023-05-24T14:52:55.679+10:00 %%
+%% Import Date: 2023-07-10T15:12:33.837+10:00 %%

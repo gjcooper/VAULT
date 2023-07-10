@@ -18,6 +18,7 @@ Russo, J. E., & Rosen, L. D. (1975). An eye fixation analysis of multialternativ
 
  
 ### Annotations
+
 %% begin annotations %%%% end annotations %%
 
 ## Item Notes
@@ -37,4 +38,4 @@ Russo, J. E., & Rosen, L. D. (1975). An eye fixation analysis of multialternativ
 #pub/memory_&_cognition
 
 
-%% Import Date: 2023-05-30T16:35:03.972+10:00 %%
+%% Import Date: 2023-07-10T15:12:34.162+10:00 %%

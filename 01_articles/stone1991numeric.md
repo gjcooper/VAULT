@@ -18,21 +18,19 @@ Stone, D. N., & Schkade, D. A. (1991). Numeric and linguistic information repres
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-27 8:47 pm
-
-A frequent finding of decision research is that strategy selection is highly contingent upon characteristics of the task environment (Einhom & Hogarth, 1981; Payne, 1982). Decision makers are hypothesized to select from among a set of strategies (e.g., additive, additive-difference, conjunctive, elimination-by-aspects; see Svenson, 1979) on the basis of a cognitive cost-benefit analysis (e.g., Beach & Mitchell, 1978; Johnson & Payne, 1985; Russo & Dosher, 1983; Shugan, 1980; Thorngate, 1980; Wright, 1975). [(p. 43)](zotero://open-pdf/library/items/GMSFXRGM?page=43&annotation=B6JXY5BC)
-
-
----
-
-Based on previous research (Myers & Warner, 1968),adjectives for the linguistic scale labels were chosen to be easily understood and approximately equidistant.3 [(p. 46)](zotero://open-pdf/library/items/GMSFXRGM?page=46&annotation=JSD2KBZL)
-
+##### Imported on 2023-07-10 3:10 pm
+>[!quote|#ffd400]
+>A frequent finding of decision research is that strategy selection is highly contingent upon characteristics of the task environment (Einhom & Hogarth, 1981; Payne, 1982). Decision makers are hypothesized to select from among a set of strategies (e.g., additive, additive-difference, conjunctive, elimination-by-aspects; see Svenson, 1979) on the basis of a cognitive cost-benefit analysis (e.g., Beach & Mitchell, 1978; Johnson & Payne, 1985; Russo & Dosher, 1983; Shugan, 1980; Thorngate, 1980; Wright, 1975). [(p. 43)](zotero://open-pdf/library/items/GMSFXRGM?page=43&annotation=B6JXY5BC)
 
 ---
+>[!quote|#ffd400]
+>Based on previous research (Myers & Warner, 1968),adjectives for the linguistic scale labels were chosen to be easily understood and approximately equidistant.3 [(p. 46)](zotero://open-pdf/library/items/GMSFXRGM?page=46&annotation=JSD2KBZL)
 
-coded the protocols into one of ten categories adapted from Johnson and Payne (1985)(Table 3). [(p. 49)](zotero://open-pdf/library/items/GMSFXRGM?page=49&annotation=IMITPK6G)
-
+---
+>[!quote|#ffd400]
+>coded the protocols into one of ten categories adapted from Johnson and Payne (1985)(Table 3). [(p. 49)](zotero://open-pdf/library/items/GMSFXRGM?page=49&annotation=IMITPK6G)
 
 ---%% end annotations %%
 
@@ -63,4 +61,4 @@ The results outlined suggest a larger set of possible strategies are accessible 
 #pub/organizational_behavior_and_human_decision_processes
 
 
-%% Import Date: 2023-05-27T20:47:50.338+10:00 %%
+%% Import Date: 2023-07-10T15:12:34.373+10:00 %%

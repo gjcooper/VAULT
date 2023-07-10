@@ -18,16 +18,15 @@ Glaholt, M. G., & Reingold, E. M. (2011). Eye movement monitoring as a process t
 
  
 ### Annotations
+
 %% begin annotations %%
-##### Imported on 2023-05-30 4:35 pm
-
-Russo and Rosen (1975) observed that certain patterns of gaze transitions were a prominent feature of the eye movement record while participants chose one of six cars (where each car was described by three attributes). Paired comparisons were identified as sequences in the eye movement record where participants looked back and forth between two alternatives (where the sequence A-B-A was classified as a “weak” pair and the sequence A-B-A-B was classified as a “strong” pair). [(p. 128)](zotero://open-pdf/library/items/JEABJDVM?page=128&annotation=3NGZIG2H)
-
+##### Imported on 2023-07-10 3:07 pm
+>[!quote|#ffd400]
+>Russo and Rosen (1975) observed that certain patterns of gaze transitions were a prominent feature of the eye movement record while participants chose one of six cars (where each car was described by three attributes). Paired comparisons were identified as sequences in the eye movement record where participants looked back and forth between two alternatives (where the sequence A-B-A was classified as a “weak” pair and the sequence A-B-A-B was classified as a “strong” pair). [(p. 128)](zotero://open-pdf/library/items/JEABJDVM?page=128&annotation=3NGZIG2H)
 
 ---
-
-However, in follow-up analyses regarding the relative utility of the alternatives within each pair, it was not possible to determine the exact nature of the processing steps taking place in paired comparisons (such as evaluation vs. elimination). [(p. 128)](zotero://open-pdf/library/items/JEABJDVM?page=128&annotation=6VEXK795)
-
+>[!quote|#ffd400]
+>However, in follow-up analyses regarding the relative utility of the alternatives within each pair, it was not possible to determine the exact nature of the processing steps taking place in paired comparisons (such as evaluation vs. elimination). [(p. 128)](zotero://open-pdf/library/items/JEABJDVM?page=128&annotation=6VEXK795)
 
 ---%% end annotations %%
 
@@ -48,4 +47,4 @@ However, in follow-up analyses regarding the relative utility of the alternative
 #pub/journal_of_neuroscience,_psychology,_and_economics
 
 
-%% Import Date: 2023-05-30T16:35:59.710+10:00 %%
+%% Import Date: 2023-07-10T15:07:51.460+10:00 %%
