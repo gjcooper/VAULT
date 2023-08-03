@@ -6,35 +6,20 @@ created: <% tp.file.creation_date() %>
 
 ---
 
-### Daily Summary
+## Activites
 
-#### Work
-
-##### Planned work
-
-- [ ] 
-
-##### Extra work achieved
-
--  
-
-#### Personal
-
-##### Planned Activities
-
-- [ ] 
-
-##### Extra achievements
-
--  
 
 ---
 
-# Temporary Notes
+## Temporary Notes
 
-- 
 
 ---
+
+## Thought for the day
+
+---
+
 ### Notes created today
 ```dataview
 List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
