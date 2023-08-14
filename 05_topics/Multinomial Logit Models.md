@@ -1,5 +1,6 @@
 # Notes on Multinomial Logit models
 
+The Multinomial logit model is a special case of the [[Random Utility Model|RUM]]
 A few notes on MNL models, Guy has used the mlogit package in R to run
 MNL analysis per subject.
 
