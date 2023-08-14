@@ -1,3 +1,8 @@
+---
+aliases:
+    - mixture modelling
+---
+
 # Modelling Veridical and preferential DCE
 
 ## Ancillary Information

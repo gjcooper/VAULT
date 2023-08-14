@@ -11,3 +11,5 @@ For the SFT analysis I remove NaN responses, remove all responses < 300ms and al
 However for the MCCE analysis I only remove NaN responses before checking accuracy.
 
 This change results in one less participant meeting the accuracy criteria for the MCCE modelling (as their slow responses are higher in errors)
+
+This has been updated in the code to match as of 10/08/23

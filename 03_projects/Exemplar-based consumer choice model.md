@@ -1,6 +1,7 @@
 ---
 aliases:
     - GCM inspired analysis
+    - EB-CCM
 ---
 
 # Exemplar-based consumer choice model
