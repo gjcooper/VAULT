@@ -35,10 +35,10 @@ Coming from *Image theory* in [Beach and Mitchell (1978)](#beach87) and
 formalised as *compatibility test* by [Beach in 1990](#beach90), this
 decision strategy is one that operates by eliminating alternatives. The
 general idea is that an alternative is eliminated if its attribute
-levels violate the corresponding aspiration levels more than \(k\)
-times, where \(k\) is specific to the decision maker.
+levels violate the corresponding aspiration levels more than $k$
+times, where $k$ is specific to the decision maker.
 
-\[\sum_{i=1}^m \mathit{asp}(a_{ij}) > k\]
+$\sum_{i=1}^m \mathit{asp}(a_{ij}) > k$
 
 Nothing is specified what happens in a decision if no alternative meets
 this threshold, or how to decide between each option if multiple ones
@@ -48,10 +48,12 @@ meet the threshold.
 
 Originally discussed by [Coombs and Kao (1955)](#coombs55) the
 conjunctive strategy is the special case of the compatibility test where
-\(k\) is fixed at 1, that is an alternative is removed if at least 1
+$k$ is fixed at 1, that is an alternative is removed if at least 1
 attribute does not meet the aspiration level.
 
-\[\sum_{i=1}^m \mathit{asp}(a_{ij}) >= k\]
+$$
+\sum_{i=1}^m \mathit{asp}(a_{ij}) >= k
+$$
 
 ### Satisficing Heuristic
 
@@ -59,7 +61,7 @@ Introduced by [H. Simon in 1955](#simon55) the *satisficing heuristic*
 is a strategy whereby decision makers are assumed to consider
 alternatives sequentially in the order in which they occur in the choice
 task. The decision is made as soon as alternative is reached that meets
-all aspiration levels (\(\forall i\; \mathit{asp}(a_{ij}) = 0\))
+all aspiration levels ($\forall i\; \mathit{asp}(a_{ij}) = 0$)
 
 In contrast to the conjunctive strategy the decision maker will stop
 early at the first alternative that meets all aspiration levels.
@@ -69,8 +71,8 @@ early at the first alternative that meets all aspiration levels.
 A variant to the Satisficing heuristic introduced by [Park
 (1978)](#park78), this extends the satisficing heuristic to the
 situation where decision makers only consider some subset of attributes,
-of size \(m^*\). They then choose the alternative that meets the
-aspiration level on all \(m^*\) of those attributes.
+of size $m^*$. They then choose the alternative that meets the
+aspiration level on all $m^*$ of those attributes.
 
 ## Exhaustive (Serial or Parallel )
 
@@ -81,7 +83,9 @@ Another elimination strategy proposed by [Coombs and Kao
 as the decision maker will eliminate an alternative if all of its
 attribute values do not meet their respective aspiration level.
 
-\[\sum_{i=1}^m \mathit{asp}(a_{ij}) = m\]
+$$
+\sum_{i=1}^m \mathit{asp}(a_{ij}) = m
+$$
 
 This means that the disjunctive strategy, the compatibility test and the
 conjunctive strategy all fall along a spectrum, by eliminating an
@@ -92,11 +96,13 @@ aspiration level.
 
 Proposed by [Lee (1971)](#lee71) the *dominance strategy* is one where
 the chosen alternative dominates all other alternatives. An alternative
-\(\mathit{alt}_k\) is said to dominate \(\mathit{alt}_l\) if all
+$\mathit{alt}_k$ is said to dominate $\mathit{alt}_l$ if all
 attribute values are as good or better. That is:
 
-\[\forall i \; v_i(a_{ik}) >= v_i(a_{il}) \land
-       \exists i v_i(a_{ik}) > v_i(a_{il})\]
+$$
+\forall i \; v_i(a_{ik}) >= v_i(a_{il}) \land
+       \exists i v_i(a_{ik}) > v_i(a_{il})
+$$
 
 If no alternative dominates the others, then no choice is made.
 
@@ -110,17 +116,17 @@ attribute, and B better on two attributes, then B is selected.
 
 ## Self-terminating and Serial
 
-### Elimination be Aspect Strategy
+### Elimination by Aspect Strategy
 
 Described by [Tversky (1972)](#tversky72) and also a variant, the
 *Deterministic version of elimination by aspect strategy* in [Payne et
 al. (1988)](#payne88) this strategy is one that operates over
 attributes, where decision makers are assumed to sort attributes
-\(\mathit{attr}_i\) according to their weight \(w_i\), or the importance
+$\mathit{attr}_i$ according to their weight $w_i$, or the importance
 of the attribute to the decision maker. Then starting with the attribute
 with largest weight alternatives will be iteratively removed if the
-value of the \(i\mathrm{th}\) attribute does not meet the aspiration
-level. That is that \(\mathit{asp}(a_{ij}) = 1\).
+value of the $i\mathrm{th}$ attribute does not meet the aspiration
+level. That is that $\mathit{asp}(a_{ij}) = 1$.
 
 The strategy stops once there is only one alternative left (and does not
 consider any more attributes), or if all attributes have been
@@ -136,10 +142,12 @@ in which attributes are considered probabilistically.
 Decision makers in this strategy (proposed in [Tversky
 (1969)](#tversky69)) also consider attributes in order of their weight,
 and indeed for the current attribute under consideration the alternative
-\(\mathit{alt}_j\) whose attribute has the highest value is selected.
+$\mathit{alt}_j$ whose attribute has the highest value is selected.
 Highest value is:
 
-\[\mathit{max}_{j = 1..n} v_h(a_{hj})\]
+$$
+\mathit{max}_{j = 1..n} v_h(a_{hj})
+$$
 
 If more than one alternative is selected (say two or more alternatives
 are equivalent on the most important attribute) then the remaining
@@ -152,9 +160,9 @@ Proposed as the *Lexicographic semiorder strategy* by [Luce
 (1956)](#luce56), this strategy was also covered and renamed the
 *minimum difference lexicographic rule* by [Montgomery and Svenson
 (1976)](#montgomery76). This strategy is quite similar to the
-lexicographic heuristic, however two attribute values \(a_{ij}\) and
-\(a_{ik}\) are said to be equal if
-\(v_i(a_{ij}) - v_i(a_{ik}) < \Delta_i\), where \(\Delta_i\) is a
+lexicographic heuristic, however two attribute values $a_{ij}$ and
+$a_{ik}$ are said to be equal if
+$v_i(a_{ij}) - v_i(a_{ik}) < \Delta_i$, where $\Delta_i$ is a
 threshold above which a decision maker notices a difference between two
 attribute values
 
