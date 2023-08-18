@@ -2,76 +2,6 @@
 
 ## Coactive architectures
 
-### Equal Weight Heuristic
-
-First proposed as *Dawes rule* by [Dawes and Corrigan 1974](#dawes74),
-and named as the *Equal Weight Heuristic* by [Einhorn and Hogharth in
-1981](#einhorn75), this decision strategy has also been known as the
-*Equal weight linear model* in [Dawes (1979)](#dawes79) and the *Equal
-weighting rule* in [Thorngate (1980)](#thorngate80).
-
-Highest utility determines selected alternative. Each attribute is
-assumed to be of equal importance to decision makers, thus utility is
-sum of all attribute values:
-
-\[\mathrm{max}_{j = 1..n}[
-        u(\mathit{alt}_j) = \sum_{i=1}^{m} v_i(a_{ij})
-    ]\]
-
-### Weighted Additive Rule
-
-Primary source is [Tversky 1969](#tversky69), other names are the
-*Additive model* ([Fishburn 1970](#fishburn70)), the *Addition of
-utilities rule* ([Todd and Benbasat 1991](#todd91)) and possibly most
-commonly the *Multiattribute utility model* ([Montgomery and Svenson
-1976](#montgomery76))
-
-Perhaps can be assumed as the standard decision strategy in economics,
-assumes people compute a utility for each alternative. Utility is sum of
-weighted attribute values.
-
-\[\mathrm{max}_{j = 1..n} [
-        u(\mathit{alt}_j = \sum_{i=1}^m w_iv_i(a_{ij})
-    ]\]
-
-### Additive Difference Strategy
-
-Originally proposed in [Tversky's 1969 paper](#tversky69) for 2
-alternatives it was extended to \> 2 alternatives and rebranded the
-*Additive difference model* in [Payne (1976)](#payne76), as well as
-being covered in [Montgomery and Svenson (1976)](#montgomery76) as the
-*Addition of utility differences rule*.
-
-The framework for this decision process is to take pairs of alternatives
-and compute the utility difference between the pair. If the utility of
-the first alternative is higher, it is kept and the second alternative
-is discarded and replace by one of the remaining alternatives not yet
-considered. This continues until all alternatives have been considered
-and there is a final winner.
-
-\[\mathit{diff}(\mathit{alt}_k, \mathit{alt}_l) =
-        \sum_{i=1}^m w_i[v_i(a_{ik}) - v_i(a_{il})]\]
-
-### Majority of Confirming Dimensions Heuristic
-
-Also a pairwise decision strategy, however utility values are not
-assigned, rather the decision maker decides whether they prefer
-\(a_{ik}\) over \(a_{il}\). The difference between two alternatives is
-the sum of the number of "wins" for all attributes (the winning
-alternative won the majority of the attribute comparisons). This
-strategy was first described in [Wright and Barbour (1977)](#wright77).
-
-\[\mathit{diff}(\mathit{alt}_k, \mathit{alt}_l) = 
-        \sum_{i=1}^m D(a_{ik}, a_{il}),\]
-
-where
-
-\[\begin{aligned}
-D(a_{ik}, a_{il}) &= 1 \quad &\mathit{if} \quad v_i(a_{ik}) > v_i(a_{il}), \\
-    D(a_{ik}, a_{il}) &= -1 &\mathit{if} \quad v_i(a_{ik}) < v_i(a_{il}), \\
-    D(a_{ik}, a_{il}) &= 0 &\mathrm{otherwise}
-\end{aligned}\]
-
 ### Frequency of Good and/or Bad Features Heuristic
 
 [Montgomery and Svenson (1976)](#montgomery76) first introduced this
@@ -92,6 +22,11 @@ described by one of three variants
 3.  Considering both good and bad attributes, i.e.
     \(\mathrm{max}_{j=1..n}[\sum_{i=1}^m \mathit{frq}(a_{ij})]\)
 
+[[Equal Weight Heuristic]]
+[[Weighted Additive Rule]]
+[[Additive Difference Strategy]]
+[[Majority of Confirming Dimensions Heuristic]]
+[[s Heuristicor Bad Feature]]
 ## Self-terminating (Serial or Parallel)
 
 ### Compatibility Test

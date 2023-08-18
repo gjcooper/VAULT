@@ -19,6 +19,10 @@ aliases:
 [online]({{uri}}) [local]({{desktopURI}}) {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %} [pdf](file://{{attachment.path | replace(" ", "%20")}})
 {% if loop.last %} 
 {% endif %}{%- endfor %}
+
+## My Thoughts
+
+
  
 ### Annotations
 
