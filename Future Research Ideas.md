@@ -43,3 +43,11 @@
       - Perhaps you are controlling the helicopter and you need to try
         to drop to hit a target (food drops) and you have to infer the
         best location to account for wind.
+
+## Framing of choices effects on response times
+
+When a set of choices is framed as "Please accept options that meet some criteria" Does the patterns of response times change compared to peoples response times when given the framing of "Please reject options that do not meet the criteria"?
+
+## Unbalanced effects of the $199 price points on thresholds.
+
+When presented with prices that are just shy of a round number, do people show effect son thresholds or drift rates for price points on either side of the round number boundary.
