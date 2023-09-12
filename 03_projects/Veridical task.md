@@ -1,6 +1,6 @@
 # Veridical choice, binary context
 
-This note describes the veridical #task, both Numeric and Symbolic versions designed and run in 2019 for my #PhD. These tasks introduce a simple single option, two attribute binary choice, somewhat similar to [[fisher2017attentional|Fisher's binary-attribute choice task]].
+This note describes the veridical task, both Numeric and Symbolic versions designed and run in 2019 for my PhD. These tasks introduce a simple single option, two attribute binary choice, somewhat similar to [[fisher2017attentional|Fisher's binary-attribute choice task]].
 
 The task was written in [[Expyriment]], and run in lab. Both task versions had the context of a series of hotels being considered for an overnight stay.
 

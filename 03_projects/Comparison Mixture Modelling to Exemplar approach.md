@@ -2,7 +2,7 @@
 
 Outlined here is a comparison between the [[Modelling of Veridical and Preferential Choice|mixture modelling approach]] used in the veridical task, and the [[Exemplar-based consumer choice model]].
 
-Mixture Modelling Approach | Rating | Exemplay-based Consumer Choice Model | Rating
+Mixture Modelling Approach | Rating | Exemplar-based Consumer Choice Model | Rating
 -- | -- | -- | --
 Needs Adaptive preferential Task | ❌ | Needs 2-option, 2-attr task | ❌
 Hope the adaptive task works! | ❌ | Uncertain how to extend to 2-option | ❌
