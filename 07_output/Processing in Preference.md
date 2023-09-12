@@ -51,7 +51,7 @@ Describe participant pool and results of cleaning
 
 Model run and fit in a hierarchical bayesian framework using the PMwG package.
 
-Reference model recovry of simulation (probably appendix)
+Reference model recovery of simulation (probably appendix)
 
 Global results, most people using Max Winner model, few people using Coactive model
 
