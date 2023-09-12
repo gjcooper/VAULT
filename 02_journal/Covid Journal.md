@@ -1,4 +1,4 @@
-# A list of effects on my #PhD work due to Covid.
+# A list of effects on my PhD work due to Covid.
 
 ## Lockdown 1 24/03/2020 -\> 25/05/2020
 
