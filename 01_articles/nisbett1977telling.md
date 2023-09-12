@@ -48,8 +48,6 @@ Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal re
 
 ##### Keywords
 
-#subject/priority1
-
 ##### Authors
 
 #author/nisbett_richard_e. #author/wilson_timothy_d.

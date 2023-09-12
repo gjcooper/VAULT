@@ -70,7 +70,8 @@ Nosofsky, R. M. (2011). The generalized context model: An exemplar model of clas
 
 ##### Authors
 
-#author/pothos_emmanuel_m. #author/wills_andy_j. #author/nosofsky_robert_m.
+#author/pothos_emmanuel_m. #author/wills_andy_j. [[Robert M Nosofsky]]
+
 
 ##### Publication
 

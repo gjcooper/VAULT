@@ -27,15 +27,15 @@ Russo, J. E., & Rosen, L. D. (1975). An eye fixation analysis of multialternativ
 
 ##### Keywords
 
-#subject/priority1 #subject/choice_process #subject/fixation_sequence #subject/similar_pair #subject/similarity_relation #subject/single_fixation
+#subject/choice_process #subject/fixation_sequence #subject/similar_pair #subject/similarity_relation #subject/single_fixation
 
 ##### Authors
 
-#author/russo_j._edward #author/rosen_larry_d.
+#author/russo_j_edward  #author/rosen_larry_d.
 
 ##### Publication
 
-#pub/memory_&_cognition
+#pub/memory_and_cognition
 
 
 %% Import Date: 2023-07-10T15:12:34.162+10:00 %%

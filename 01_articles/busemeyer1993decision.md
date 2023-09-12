@@ -26,8 +26,6 @@ Busemeyer, J. R., & Townsend, J. T. (1993). Decision field theory: A dynamic-cog
 
 ##### Keywords
 
-#subject/priority1
-
 ##### Authors
 
 #author/busemeyer_j_r #author/townsend_j_t

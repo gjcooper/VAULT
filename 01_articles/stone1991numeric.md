@@ -14,7 +14,14 @@ aliases:
 
 Stone, D. N., & Schkade, D. A. (1991). Numeric and linguistic information representation in multiattribute choice. _Organizational Behavior and Human Decision Processes_, _49_(1), 42–59. [https://doi.org/10.1016/0749-5978(91)90041-Q](https://doi.org/10.1016/0749-5978(91)90041-Q)
 [online](http://zotero.org/users/local/kZl3QdXV/items/2DFCZUXG) [local](zotero://select/library/items/2DFCZUXG) [pdf](file:///home/gjc216/Zotero/storage/GMSFXRGM/1-s2.0-074959789190041Q-main.pdf)
- 
+
+## My thoughts
+
+Much of the literature about decision strategy selection is focussed on task characteristics that inform  cost-benefit analysis to select between competing strategies. ([Stone and Schkade, 1991](zotero://select/library/items/2DFCZUXG)) introduce a new aspect of the task environment, that is whether attribute information is presented in numeric form or as descriptive text, and investigate whether these different modes of presentation influence the choice of decision strategy.
+
+Data was recorded using Mouselab and concurrent verbal protocols. Unconvincing results regarding the cognitive effort of words as compared to numbers are presented (marginally significant my ass), especially when compared to increases in effort due to similarity of alternatives. However there was more convincing evidence that strategies using compensatory mechanisms were more prevalent in the numeric versions of the task.
+
+The results outlined suggest a larger set of possible strategies are accessible for task contexts where attribute information is presented numerically.
 
  
 ### Annotations
@@ -33,18 +40,6 @@ Stone, D. N., & Schkade, D. A. (1991). Numeric and linguistic information repres
 >coded the protocols into one of ten categories adapted from Johnson and Payne (1985)(Table 3). [(p. 49)](zotero://open-pdf/library/items/GMSFXRGM?page=49&annotation=IMITPK6G)
 
 ---%% end annotations %%
-
-## Item Notes
-
-##### Note added on 2023-04-17 1:51 pm
-
-# Summary
-
-Much of the literature about decision strategy selection is focussed on task characteristics that inform  cost-benefit analysis to select between competing strategies. ([Stone and Schkade, 1991](zotero://select/library/items/2DFCZUXG)) introduce a new aspect of the task environment, that is whether attribute information is presented in numeric form or as descriptive text, and investigate whether these different modes of presentation influence the choice of decision strategy.
-
-Data was recorded using Mouselab and concurrent verbal protocols. Unconvincing results regarding the cognitive effort of words as compared to numbers are presented (marginally significant my ass), especially when compared to increases in effort due to similarity of alternatives. However there was more convincing evidence that strategies using compensatory mechanisms were more prevalent in the numeric versions of the task.
-
-The results outlined suggest a larger set of possible strategies are accessible for task contexts where attribute information is presented numerically.
 
 #### Tags
 

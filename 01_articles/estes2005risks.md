@@ -39,11 +39,11 @@ They then proceed to simulate new data (yoked to experimental estimates) for whi
 
 ##### Authors
 
-#author/estes_w._k. #author/todd_maddox_w.
+#author/estes_w_k #author/todd_maddox_w.
 
 ##### Publication
 
-#pub/psychonomic_bulletin_&_review
+#pub/psychonomic_bulletin_and_review
 
 
 %% Import Date: 2023-07-10T15:06:18.644+10:00 %%

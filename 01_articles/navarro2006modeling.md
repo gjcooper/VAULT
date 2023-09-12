@@ -50,7 +50,7 @@ This is achieved by using stick-breaking priors and Dirichlet processes to model
 
 ##### Keywords
 
-#subject/individual_differences #subject/bayesian_nonparametrics #subject/dirichlet_processes #subject/priority1
+#subject/individual_differences #subject/bayesian_nonparametrics #subject/dirichlet_processes 
 
 ##### Authors
 

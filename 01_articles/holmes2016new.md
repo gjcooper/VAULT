@@ -33,7 +33,7 @@ Holmes, W. R., Trueblood, J. S., & Heathcote, A. (2016). A new framework for mod
 ## Item Notes
 ### High Level Overview
 
-Introduces the PLBA (Piecewise LBA) model, which the traditional LBA is
+Introduces the PLBA (Piecewise [[LBA]]) model, which the traditional LBA is
 a subset of. At some point in time (in this case the point at which an
 RDM direction switches) the threshold or drift rate parameters can be
 re-sampled to indicate the accumulation of new information introduced to
