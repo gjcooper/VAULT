@@ -1,0 +1,61 @@
+# SFT Talk at SPCC 2018
+
+
+- Consumer Decisions
+  - Why?
+    - Low Stakes, images of low stakes choices for seller (snickers vs mars, adidas vs nike)
+    - High Stakes, images of high stakes (Buy car vs deposit for house, PhD vs Job)
+    - Local decision, public policies (candy vs fruit, bus vs car)
+  - Processing Architectures
+    - Serial vs Parallel
+    - Self-terminating vs Exhaustive
+- SFT [[Systems Factorial Technology]]
+  - DFP
+    - Double Factorial Paradigm
+  - MIC
+    - Patterns in MIC
+  - SIC
+    - Patterns in SIC
+- Experiment 1
+  - Why so simplified
+    - What are our manipulations
+    - Barest essentials
+    - Cells in design
+  - Example Stimuli
+    - HH
+    - HL
+    - LD
+  - Results
+    - Accuracy
+    - MIC
+    - SIC
+- Experiment 2
+  - Why the changes
+    - Numbers are hard
+    - Maybe symbols are better
+  - Example Stimuli
+    - HH
+    - LL
+  - Results
+    - Accuracy
+    - MIC
+    - SIC
+- Heirarchical Modelling
+  - Why?
+    - Not enough trial per cells
+    - Consumer research rarely gets lots of data per participant
+  - How?
+    - Fit gamma distribution to each for four important cells
+    - generate 30000 * 3 iterations (plus 10000 warmup)
+    - thin by 100
+  - Results
+    - Exp1
+    - Exp2 Absolute
+    - Exp2 Relative
+- Where to now?
+  - Other statistical modelling techniques
+    - Ballistic accumulators
+  - Eye tracking?
+    - Fixations and Saccades
+  - More complex tasks
+    - More attributes, more choices

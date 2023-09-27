@@ -75,3 +75,52 @@ Categorisation of people into groups could provide customer specific strategies 
 
 How would this be extended to multiple options? For forced choice it could be the difference between attribute levels, but how would a neither option work.
 
+
+# From the associated mindmap
+
+### Structure of Paper
+- Information Processing in multi-attribute consumer choice
+  - Decision strategies in the literature (see [[assumptions for decision strategies]])
+  - Approaches to discriminating between decision strategies (see [[process tracing]], [[Random Utility Model|RUM]])
+- 5 Models of Information processing in 2 attribute choice (taken from [[SFT of DCE]])
+  - Parallel SFT Inspired models (Parallel Self terminating, Parallel Exhaustive)
+  - Parallel SFT complements (First Past the Post, Maximal Information Decisions)
+  - The SFT inspired Coactive model
+- Modelling Information Processing (looking at you [[LBA]])
+  - LBA for complex decision making
+  - LBA for Information Processing
+- LBA for multi-attribute choice
+- Dirichlet selection between models (see [[Dirichlet process]]]] and [[navarro2006modeling|Modeling individual differences using Dirichlet processes]])
+  - Possible approaches to choosing between IP models in individuals data
+  - The dirichlet process
+- Veridical Choice Data (from [[Veridical task]])
+  - Experiment review
+  - Show
+  - Fitting the model to Veridical Data
+  - Results
+  - Discussion
+- Preferential Choice Data (from [[Preferential task]])
+  - Experiment Design/Rationale
+  - Methods
+  - Summary results showing thresholding procedure had reasonable effect
+  - Modelling results
+  - Discussion
+- General Discussion
+  - Veridical vs Preferential
+  - Limitations and Opportunities
+
+### Appendices
+- Estimation approach, Implementation?
+- Model Recovery
+- Parameter Recovery
+### Notes
+- Accept mostly using one strat, reject using the other
+  - Selective Influence
+  - Is the model really doing what I say it is doing
+- Following a similar approach (Intro)
+  - Link verbal descriptions of the information processing with the decision strategies
+  - Follow on to 2 attr 1 option
+- Maybe swap 2 or 3  or drop LBA from 2?
+  - LBA is just the tool used. (Could have been other accumulation ...)
+  - Approach taken is to swap 2 and 3 as well as dropping LBA specifics
+- Check on reject condition (whether that was run)
