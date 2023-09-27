@@ -1,0 +1,9 @@
+# Approximate Bayesian Computation
+
+## Approximate Techniques
+
+### Pre-drawn samples
+
+Peter Kvam in PhD Gmail:We've been using pre-drawn samples for a lot of models in MATLAB recently, which uses C/mex code by default for a lot of RNG functions. It does speed up models that have to draw from standard normal distributions (typically I'll see ~2x speed-up in calculating approximate likelihoods using PDA for a circular diffusion model, for example), but where this kind of approach really shines is when you have to generate correlated random variables like multivariate normals with covariance between dimensions. Drawing sample-by-sample for each simulated trial or step in the correlated accumulation process is incredibly arduous because you have to multiply a standard normal by the covariance matrix (and of course add the mean). But when you pre-draw a bunch of correlated samples, what the program can do is take a ton of standard normal RVs and then stretch and rotate them all according to the degree of covariance between parameters (like correlated start points / drift rates). In those cases, the speed-up you get from pre-drawn samples can be several orders of magnitude. It really can take them from being totally intractable to pretty reasonable and close in computation time to uncorrelated models.
+
+The speed-up comes mainly from the difference between applying matrix multiplication to each new standard normal sample versus applying it to all the samples at once, so it produces a speed-up by avoiding repetition of the matrix multiplication for however many thousands of steps at which a modeler would have otherwise drawn new samples. And of course if you can vectorize the computations after that, then it works even more efficiently. Anyway, it's not exactly the same as LUTs but definitely something that could be useful to consider for those who work with correlated start points or drift rates.

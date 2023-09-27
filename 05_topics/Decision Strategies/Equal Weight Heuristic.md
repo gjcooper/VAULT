@@ -1,6 +1,8 @@
 ---
 aliases:
     - Dawes rule
+    - Equal Weight Linear Model
+    - Equal Weighting Rule
 ---
 
 # Equal Weight Heuristic
