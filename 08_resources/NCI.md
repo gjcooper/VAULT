@@ -4,7 +4,8 @@ Some notes on using R within NCI gadi.
 
 ## Installing devtools, Rcpp and other packages that need compilation
 
-On NCI R has been built with the intel compiler, and there are multiple options here. One option I have found that works, without thrpwing up a lot of warning messages is to use the LLVM Intel compiler, by running (or equivalent latest version)
+On NCI R has been built with the intel compiler, and there are multiple options here. One option I have found that works, without throwing up a lot of warning messages is to use the LLVM Intel compiler, by running (or equivalent latest version)
+
 
 ```sh
 module load intel-compiler-llvm/2022.0.0
