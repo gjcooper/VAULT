@@ -26,3 +26,7 @@ module load intel-compiler-llvm/2022.0.0
 > ```
 > will force R to use gcc/g++ instead of icc. Do not forget to comment out these lines (i.e. add # symbol in front of each line) after installing that problematic package.
 
+### Running an RStudio interface
+
+- For creating some GIS workflow on the ARE Rstudio interface I have placed the following in my modulefiles (Advanced setup) section:
+    - `intel-compiler-llvm/2022.0.0 gdal/3.6.4 geos/3.11.2 proj/8.1.1 udunits/2.2.26`

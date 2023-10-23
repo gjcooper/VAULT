@@ -3,6 +3,7 @@ aliases:
     - Additive model
     - Addition of utilities rule
     - Multiattribute utility model
+    - WADD
 ---
 
 # Weighted Additive Rule
