@@ -10,7 +10,7 @@ Taking inspiration from the [[Generalised Context Model]]  the first iteration o
 
 Outlined roughly the approach is to set the exemplar to be (0, 0), that is price anchored to $max and quality or rating anchored to 0% or 0 stars. Then each individual option is "compared" to this anchor, and the GCM uses modelling to tease apart the:
 * $w$ -  "weight" given to each attribute
-* $d$ - "distance" metric form
+* $r$ - "distance" metric form
 * $s$ - "sensitivity" to distances in attribute space, and
 * $\delta$ - the choice "offset" relative to the anchor
 
