@@ -13,6 +13,24 @@ Salience manipulation, effects bottom-up first fixation to product. Top down man
 
 Kristian Rotaru, Mood/emotion influence on trading. Not too interesting, but the platform for trading experiments seems interesting. Also need to look at Granger causality.
 
-###### Tags
+# MBBL Symposium 2020 (Day 2)
 
-#dailyNote
+## First talk
+
+*Jacob Orquin* 
+
+Talked about visual ecology, not as impressive as talked up to be. Experiment was manipulations of product packaging.
+
+## Second Talk
+
+**Session Title: “Determining the relative importance of stopover destination attributes: Integrating stated importance, choice experiment, and eye-tracking measures”**
+
+*Presented by: Professor Harmen Oppewal, Monash Business School*
+
+Discrete Choice Experiment vs Directly stated on rating scale\!
+
+### Follow up final chats
+
+Computation complexity with *Elizabeth Bowman* using eyetracking. *Kristian (talker)*
+
+*Jacob Orquin* - machine intelligence used to classify eye movement, fixations etc
