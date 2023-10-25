@@ -1,8 +1,4 @@
----
-created: 2023-07-30 09:40
----
-
-# Sunday, July 30, 2023
+# Satellite OzMathPsych meeting (2023-07-30)
 
 ---
 
@@ -25,28 +21,3 @@ How could we measure an information system, and its health. Analogous to MCMC or
 ### Feel before you share
 [[Emily Mullins]] talks about the social and emotional characteristics of information that lead to sharing behaviour. Emotional arousal seems to be a good predictor of sharing intention.
 
----
-
-## Temporary Notes
-
-
----
-
-## Thought for the day
-
----
-
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("2023-07-30") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("2023-07-30") SORT file.mtime asc
-```
----
-
-###### Tags
-
-#dailyNote

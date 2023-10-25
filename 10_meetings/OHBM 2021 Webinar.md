@@ -1,4 +1,4 @@
-# Webinar for OHBM Australia
+# Webinar for OHBM Australia (2021-03-23)
 
 All about linking brain and behaviour.
 
@@ -42,6 +42,4 @@ Improving replicability, increase phenotypical precision.
 
 Mentiona IRT, and the two parameter logistic model (2PL)
 
-###### Tags
-
-#dailyNote #conference 
+#webinar
