@@ -22,3 +22,4 @@ $$
     ]
 $$
 
+A special case - the Unit-weight Linear Model was discussed in [[gigerenzer1996reasoning]].
