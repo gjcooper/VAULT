@@ -17,7 +17,7 @@ Lee, D. G., & Usher, M. (2021). Value certainty in drift-diffusion models of pre
  
 ## My Thoughts
 
-([Lee and Usher, 2021](zotero://select/library/items/G6YE53DQ)) introduce variations on the DDM to try and account for option specific uncertainty in preferential choices, particularly a pattern where value certainty correlates positively with choice consistency and negatively with choice RT.
+([Lee and Usher, 2021](zotero://select/library/items/G6YE53DQ)) introduce variations on the [[diffusion decision model|DDM]] to try and account for option specific uncertainty in preferential choices, particularly a pattern where value certainty correlates positively with choice consistency and negatively with choice RT.
 
 Various possible models to capture the relationship between uncertainty and choice consistency/RT are introduced, including DDM variants where drift rate and/or threshold are adjusted based on  option specific uncertainty, and two signal-to-noise approaches where drift rate is adjusted based on the difference between the two options uncertainty, or both options uncertainty values. This last model (labelled model 5, Certainty Adjusted Drift Rate (Option values) captures the patterns in the data from the four experiments analysed better than the other 5 models.
 

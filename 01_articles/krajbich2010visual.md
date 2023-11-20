@@ -21,7 +21,7 @@ Krajbich, I., Armel, C., & Rangel, A. (2010). Visual fixations and the computati
 
 The experimental setup here is similar in some ways to my [[Multidimensional Scaling Phones]] task when there are two stages of the task. In my phones task I ask for a similarity followed by a choice phase, in [[Ian Krajbich]]'s task the first stage is a value judgement on a scale (-10 -> 10), followed by a choice task between items.
 
-The gist is that a relative decision value (slope of the drift diffusion model) captures both the value of each option and the bias towards the currently fixated item. One nice aspect of this model is that it captures qualitative patterns in fixations, such as the length of fixations just before choices being shorter (as this last fixation is often truncated by the choice), L/R bias in fixations predicting L/R choice biases.
+The gist is that a relative decision value (slope of the [[diffusion decision model|drift diffusion model]]) captures both the value of each option and the bias towards the currently fixated item. One nice aspect of this model is that it captures qualitative patterns in fixations, such as the length of fixations just before choices being shorter (as this last fixation is often truncated by the choice), L/R bias in fixations predicting L/R choice biases.
 
 I am less convinced by some of the alternative models proposed (say where RDV is more traditional DDM, but fixation lengths increase with higher RDV signal). However this paper does not propose a comprehensive array of alternatives to test.
 
@@ -29,6 +29,8 @@ In fact my whole issue with this work is something of the circular nature of it.
 
 It seems to me that there might be multiple stages here. Initial fixations for exploration, followed by further fixations for gathering either more evidence (as in Krajbich's work), or perhaps by shifting the mean drift rate and reducing the variance in drift. Is this something that could be teased apart in a [[Future Research Ideas]] segment?
 
+**Questions**:
+- Was this the genesis of the [[attentional drift diffusion model|aDDM]]?
  
 ### Annotations
 

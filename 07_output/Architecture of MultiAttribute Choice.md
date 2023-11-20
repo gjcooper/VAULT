@@ -14,7 +14,7 @@ aliases:
 - A couple of mentions of the [[cooper2019investigating]] paper to bump cites
 - Some discussion of sequential sampling models, drawing on [[ratcliff2016diffusion]]
 - Adding to SSM approaches to preferential choice, other methods include: [[krajbich2011multialternative]] and [[busemeyer1993decision]]
-
+- Some work on visual fixations on [[binary-attribute choice]] is the [[fisher2017attentional]] paper that looks at combinations of aversive and appetitive foods as a single option that people are asked to accept or reject.
 ## Decision strategies
 
 Mentioned and referenced the [[Conjunctive Strategy]], [[Disjunctive Strategy]] and [[Satisficing Heuristic]] for non-compensatory strategies, and the [[Frequency of Good and-or Bad Features Heuristic]] and [[Weighted Additive Rule]] for compensatory strategies. Probably need to look into complete vs selective strategies a bit more and think more on single option variants of other strategies.

@@ -17,7 +17,7 @@ Fisher, G. (2017). An attentional drift diffusion model over binary-attribute ch
  
 ## Summary
 
-([Fisher, 2017](zotero://select/library/items/Q69BEVRF)) follows on from a history of applying sequential sampling models of decision making in multi-attribute choices by extending the aDDM ([Krajbich et al., 2010](zotero://select/library/items/6M5KRPS8); Krajbich and Rangel, 2011; Krajbich et al., 2012) to cover binary-attribute choices, where individuals accept or reject a single option with two attributes. One limitation of Fisher’s approach was the inability to fit the model to data at an individual level, so individual differences in the effect of attention on choices cannot be investigated. Out of sample predictions however show a reasonable account of the data by the model.
+([Fisher, 2017](zotero://select/library/items/Q69BEVRF)) follows on from a history of applying sequential sampling models of decision making in multi-attribute choices by extending the [[attentional drift diffusion model|aDDM]] ([Krajbich et al., 2010](zotero://select/library/items/6M5KRPS8); Krajbich and Rangel, 2011; Krajbich et al., 2012) to cover binary-attribute choices, where individuals accept or reject a single option with two attributes. One limitation of Fisher’s approach was the inability to fit the model to data at an individual level, so individual differences in the effect of attention on choices cannot be investigated. Out of sample predictions however show a reasonable account of the data by the model.
 
 The particular application by ([Fisher, 2017](zotero://select/library/items/Q69BEVRF)) where an option is a combination of one aversive and one appetitive food item as a bundle is a strange choice, as each item in the bundle could be thought of as containing many attributes (sweetness, calorie content, flavour match to the alternative item, etc). However one by-product of this stimulus choice is that the result of differential attribute weighting and increased fixation times to aversive “attributes” is indicative of loss aversion ([Kahneman and Tversky, 1984](zotero://select/library/items/LSL2F5IF); Willemsen et al., 2011)
 
@@ -26,7 +26,7 @@ The particular application by ([Fisher, 2017](zotero://select/library/items/Q69B
 %% begin annotations %%
 ##### Imported on 2023-07-10 3:07 pm
 >[!quote|#ffd400]
->Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binaryattribute choice, [(p. 35)](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS)
+>Despite focusing on a simplified version of multi-attribute choice, which this paper refers to as binary attribute choice, [(p. 35)](zotero://open-pdf/library/items/3ED9LIJA?page=35&annotation=7Q4DJWGS)
 
 ---
 >[!quote|#ffd400]

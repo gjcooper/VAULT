@@ -17,7 +17,7 @@ Dutilh, G., & Rieskamp, J. (2016). Comparing perceptual and preferential decisio
  
 ## My Thoughts
 
-([Dutilh and Rieskamp, 2016](zotero://select/library/items/YLDCVQ4X)) outline the diffusion model and it’s use in perceptual decision making research to account for RT variability and errors, as well as applications of similar evidennce accumulation models in risky choice.
+([Dutilh and Rieskamp, 2016](zotero://select/library/items/YLDCVQ4X)) outline the [[diffusion decision model|diffusion model]] and its use in perceptual decision making research to account for RT variability and errors, as well as applications of similar evidence accumulation models in risky choice.
 
 Two key differences in the application of sequential sampling models to the two domains (preferential and perceptual) are outlined. For perceptual tasks a correct response can be determined, however in preferential tasks the quality of the response is subjective and it is only with respect to the subjective goal that a response can be assessed. Secondly, especially with regards to risky choices the outcome of a decision is not determined by the choice made alone, but also by some amount of chance.
 

@@ -116,7 +116,7 @@ Fraction arithmetic
 
 ### Selective Sampling account for forming numerosity - [[Yonatan Vanunu]]
 
-Riffing off Ratcliff [[DDM]] - in particular the ANS-Diffusion model. The Selective Sampling and Diffusion Model. (SSDM) The assumptions of an underlying process that matches features of the stimulus can create extra ability to interpret the results.
+Riffing off Ratcliff [[diffusion decision model|DDM]] - in particular the [[ANS-Diffusion model]]. The [[Selective Sampling and Diffusion Model]]. (SSDM) The assumptions of an underlying process that matches features of the stimulus can create extra ability to interpret the results.
 
 ### A simulation approach to assessing the amount... - [[Yiyang Chen]]
 

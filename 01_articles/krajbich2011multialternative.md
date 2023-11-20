@@ -15,7 +15,7 @@ aliases:
 Krajbich, I., & Rangel, A. (2011). Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions. _Proceedings of the National Academy of Sciences_, _108_(33), 13852–13857. [https://doi.org/10.1073/pnas.1101328108](https://doi.org/10.1073/pnas.1101328108)
 [online](http://zotero.org/users/local/kZl3QdXV/items/54JNKRFM) [local](zotero://select/library/items/54JNKRFM) [pdf](file:///home/gjc216/Zotero/storage/2IGZCB4T/Krajbich%20and%20Rangel%20-%202011%20-%20Multialternative%20drift-diffusion%20model%20predicts%20th.pdf)
  
-
+More work on the [[attentional drift diffusion model]] that extends the [[krajbich2010visual]] paper to multi-alternative (> 2 option) choices.
  
 ### Annotations
 

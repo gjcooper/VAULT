@@ -15,7 +15,7 @@ aliases:
 Ratcliff, R., Smith, P. L., Brown, S. D., & McKoon, G. (2016). Diffusion Decision Model: Current Issues and History. _Trends in Cognitive Sciences_, _20_(4), 260–281. [https://doi.org/10.1016/j.tics.2016.01.007](https://doi.org/10.1016/j.tics.2016.01.007)
 [online](http://zotero.org/users/local/kZl3QdXV/items/LJKMSANQ) [local](zotero://select/library/items/LJKMSANQ) [pdf](file:///home/gjc216/Zotero/storage/WYXW2CSG/Ratcliff%20et%20al.%20-%202016%20-%20Diffusion%20Decision%20Model%20Current%20Issues%20and%20History.pdf)
  
-
+A nice roundup on [[diffusion decision model|diffusion model]] issues and history, and in good TICS style future directions.
  
 ### Annotations
 
