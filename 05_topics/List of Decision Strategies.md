@@ -1,4 +1,4 @@
-# [Decision Strategies](Knowledge.mm)
+# Decision Strategies
 
 [[Dominance Strategy]]
 [[Elimination by Aspect Strategy]]
@@ -8,6 +8,7 @@
 [[Satisficing-plus heuristic]]
 [[Weighted additive rule]]
 [[Lexicographic heuristic]]
+[[Recognition Heuristic]]
 [[Equal Weight Heuristic]]
 [[Simple majority decision rule]]
 [[Frequency of Good and-or Bad Features Heuristic]]
