@@ -50,7 +50,7 @@ All in all this is an interesting approach, but something more I think needs to 
 
 ##### Authors
 
-#author/dutilh_gilles #author/rieskamp_jörg
+#author/dutilh_gilles [[Jörg Rieskamp]]
 
 ##### Publication
 

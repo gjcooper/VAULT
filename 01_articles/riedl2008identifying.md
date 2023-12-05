@@ -18,7 +18,8 @@ Riedl, R., Brandstätter, E., & Roithmayr, F. (2008). Identifying decision strat
 ## My Thoughts
 
 This is a very similar goal to our approach, classifying into decision strategies using components of the strategy assumptions, however the methods rely on the same process-tracing apparatuses that could be problematic in assessing true decision strategies.
- 
+
+The table at [p 796](zotero://open-pdf/library/items/72E3CIV6?page=796) is a great summary of different aspects of strategies. Need to review this.
 ### Annotations
 
 %% begin annotations %%

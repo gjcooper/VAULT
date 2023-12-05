@@ -80,7 +80,7 @@ I have issues with the process tracing method in use here, and the outcome based
 
 ##### Authors
 
-#author/rieskamp_jörg #author/hoffrage_ulrich
+[[Jörg Rieskamp]] #author/hoffrage_ulrich
 
 ##### Publication
 
