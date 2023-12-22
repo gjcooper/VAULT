@@ -3,6 +3,7 @@ aliases:
     - Dawes rule
     - Equal Weight Linear Model
     - Equal Weighting Rule
+    - EQW
 ---
 
 # Equal Weight Heuristic

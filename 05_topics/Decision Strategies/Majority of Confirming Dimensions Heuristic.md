@@ -1,3 +1,8 @@
+---
+aliases:
+    - MCD
+---
+
 # Majority of Confirming Dimensions Heuristic
 
 Also a pairwise decision strategy, however utility values are not
