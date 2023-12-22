@@ -6,13 +6,14 @@ tmux/git now installed by default
 
 ```sh
 
-git clone <https://github.com/gjcooper/dotfiles.git>
+git clone https://github.com/gjcooper/dotfiles.git
 cd dotfiles
-python3 scripts/managehome.py \~/dotfiles --config git --links --setup vim ohmyzsh
+python3 scripts/managehome.py ~/dotfiles --config git --links --setup vim ohmyzsh
 
-git clone <https://github.com/gjcooper/gcphd-model_of_dce.git>
+git clone https://github.com/gjcooper/gcphd-model_of_dce.git
 
-sudo yum install zsh sudo yum install util-linux-user chsh
+sudo yum install zsh
+sudo yum install util-linux-user chsh
 ```
 
 1.  Update pmwg/mcce
@@ -24,20 +25,20 @@ sudo yum groupinstall "Development Tools"
 
 ```r
 install.packages('devtools')
-devtools::install\_github("university-of-newcastle-research/pmwg",
-ref="extra\_info")
+devtools::install_github("university-of-newcastle-research/pmwg",
+ref="develop")
 ```
 
 \> Log off and on again or source .zshrc
 ```r
-devtools::install\_github('gjcooper/gcphd-model\_of\_dce')
+devtools::install_github('gjcooper/gcphd-model_of_dce')
 ```
 
 1.  Finalise data
 
 ```sh
-cd gcphd-model\_of\_dce
-cp \~/studies/PreferentialDCE/Pref\_preprocessed.RDS data/output/.
+cd gcphd-model_of_dce
+cp ~/studies/PreferentialDCE/Pref_preprocessed.RDS data/output/.
 ```
 
 ## Helpful global commands
