@@ -39,3 +39,20 @@ F(x) &= P(X < \delta + s.d_a)
 $$
 This is in the case when presented a single option, and the choice is whether to accept or reject.
 
+## For a choice between two options
+
+Given two options are being presented, how does this decision making change from a categorical type decision to a preferential choice.
+
+Well perhaps what we do is using the same underlying representation, use some choice rule like the [[Luce choice axiom|Luce Choice rule]] to combine the response functions into a probability of choosing one option over the other.
+
+So - again with the "exemplar" or "anchor" $p$ set to the most undesirable option, for instance in the two attribute case $p = (0, 0)$ we drop the $\delta$ and $s$ parameters from the single option model. We keeping the $w$ weight and the $r$ distance metric form and add a new sensitivity parameter $\gamma (\geq0)$. The new parameter $\gamma$ controls how sensitive to this difference in individual option "values" people are. If $\gamma = 0$ then people are not at all sensitive to the representational values and are essentially guessing. As $\gamma$ increases the probability of selecting the option is increasingly more deterministic.
+
+So for options $a$ and $b$, the probability of choosing $a$ is:
+
+
+$$
+P(a;a,b) = \dfrac{d_a^\gamma}{d_a^\gamma + d_b^\gamma}
+$$
+where $d_a$ and $d_b$ are the distances of options $a$ and $b$ from the anchor point $p$
+
+
