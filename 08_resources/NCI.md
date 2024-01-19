@@ -49,3 +49,10 @@ R 4.0.0, pmwg_0.2.5.9001 mcce_0.2.4.9002 (multicore)
 R 4.1.0, pmwg_0.2.5.9001 mcce_0.2.4.9002 (multicore)
 R 4.2.2, pmwg_0.2.5.9001 mcce_0.2.4.9002 (no multicore)
 R 4.3.1, pmwg_0.2.5.9001 mcce_0.2.4.9002 (no multicore)
+
+
+## Installing gcc R
+
+```bash
+
+```
