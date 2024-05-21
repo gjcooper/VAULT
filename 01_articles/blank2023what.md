@@ -17,7 +17,7 @@ Blank, I. A. (2023). What are large language models supposed to model? _Trends i
  
 ## My Thoughts
 
-Poses the question of whether [[LLM]]'s model the brain (which instatiates a symbolic mind) at one end of a spectrum through to LLM's modelling a mind which uses subsymbolic representations.
+Poses the question of whether [[LLM]]'s model the brain (which instantiates a symbolic mind) at one end of a spectrum through to LLM's modelling a mind which uses sub-symbolic representations.
 
 Limited use for me.
  

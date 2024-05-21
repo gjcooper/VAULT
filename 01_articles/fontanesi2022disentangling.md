@@ -36,7 +36,7 @@ Sequential decisions is not my jam, so this may need to be revisited when I have
 
 ##### Authors
 
-#author/fontanesi_laura #author/shenhav_amitai #author/gluth_sebastian
+#author/fontanesi_laura #author/shenhav_amitai [[Sebastian Gluth]]
 
 ##### Publication
 

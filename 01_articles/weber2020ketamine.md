@@ -21,6 +21,7 @@ Weber, L. A., Diaconescu, A. O., Mathys, C., Schmidt, A., Kometer, M., Vollenwei
 
 This approach seems to be what we want for the [[Hierarchical Gaussian Filter|HGF]] analysis of the primacy data. We will clean the EEG data, but then separately fit the HGF using [[tapas]] to the data sequence. Then somehow combine the optimal HGF fits with the ERP data.
  
+Provides some resources for thinking about the [[HGF analysis of MMN]]
 ### Annotations
 
 %% begin annotations %%

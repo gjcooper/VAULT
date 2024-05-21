@@ -58,7 +58,7 @@ Additionally, in the appendices there is a great resource for my [[Exemplar-base
 
 ##### Keywords
 
-#subject/heuristics #subject/decision_strategies #subject/adaptive_decision_making #subject/bayesian_cognitive_modeling #subject/cognitive_costs #subject/strategy_selection #subject/subitizing #subject/priority1
+#subject/heuristics #subject/decision_strategies #subject/adaptive_decision_making #subject/bayesian_cognitive_modeling #subject/cognitive_costs #subject/strategy_selection #subject/subitizing 
 
 ##### Authors
 

@@ -67,8 +67,6 @@ I think this provides some good motivation for a lot of my work, I just wonder w
 
 ##### Keywords
 
-#subject/priority1
-
 ##### Authors
 
 #author/ford_j.kevin #author/schmitt_neal #author/schechtman_susan_l #author/hults_brian_m #author/doherty_mary_l

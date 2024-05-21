@@ -100,7 +100,7 @@ Overall the numbers were low, and other decision strategies were not assessed, o
 
 ##### Keywords
 
-#subject/choice_behavior #subject/priority1 #subject/cognitive_processes #subject/eye_fixation
+#subject/choice_behavior #subject/cognitive_processes #subject/eye_fixation
 
 ##### Authors
 

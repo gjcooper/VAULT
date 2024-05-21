@@ -37,7 +37,7 @@ Meta-cognitively people estimated their memory as better when the value of an it
 
 ##### Authors
 
-#author/kraemer_peter_m. #author/weilbächer_regina_a. #author/mechera-ostrovsky_tehilla #author/gluth_sebastian
+#author/kraemer_peter_m. #author/weilbächer_regina_a. #author/mechera-ostrovsky_tehilla [[Sebastian Gluth]]
 
 ##### Publication
 

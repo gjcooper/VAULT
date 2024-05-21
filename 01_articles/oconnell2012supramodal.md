@@ -28,13 +28,9 @@ I personally would like to see what this signal looks like in a task where a cho
 
 #### Tags
 
-##### Keywords
-
-#subject/summary_done
-
 ##### Authors
 
-#author/o'connell_r_g #author/dockree_p_m #author/kelly_s_p
+#author/o_connell_r_g #author/dockree_p_m #author/kelly_s_p
 
 ##### Publication
 

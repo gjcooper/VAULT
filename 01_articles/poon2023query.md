@@ -53,7 +53,7 @@ Without this framing though - do we make choices in the same way? what happens i
 
 ##### Keywords
 
-#subject/attraction_effect #subject/context_effects #subject/priority1 #subject/query_theory #subject/reason-based_decision_making
+#subject/attraction_effect #subject/context_effects #subject/query_theory #subject/reason-based_decision_making
 
 ##### Authors
 

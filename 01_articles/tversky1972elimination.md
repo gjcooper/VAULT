@@ -48,7 +48,7 @@ I was particularly taken by Tversky's suggestion to combine with eye movements o
 
 ##### Keywords
 
-#subject/viewing_alternatives_as_set_of_aspects_in_eliminat #subject/choice_behavior #subject/priority1 #subject/strategies
+#subject/viewing_alternatives_as_set_of_aspects_in_eliminat #subject/choice_behavior #subject/strategies
 
 ##### Authors
 

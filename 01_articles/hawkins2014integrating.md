@@ -86,7 +86,7 @@ Please see attached for the paper I mentioned about LBAs and MNLs during our mee
 
 ##### Keywords
 
-#subject/eye_tracking #subject/decision_making #subject/linear_ballistic_accumulator #subject/evidence_accumulation #subject/best-worst_scaling #subject/preference #subject/random_utility_model #subject/priority1
+#subject/eye_tracking #subject/decision_making #subject/linear_ballistic_accumulator #subject/evidence_accumulation #subject/best-worst_scaling #subject/preference #subject/random_utility_model
 
 ##### Authors
 

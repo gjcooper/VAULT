@@ -66,7 +66,7 @@ Some possible refs to #follow up on, and I particularly like the first quote fro
 
 ##### Keywords
 
-#subject/attention #subject/response_time #subject/accuracy #subject/attentional_bias #subject/attentional_drift_diffusion_model #subject/reward_rate #subject/priority1
+#subject/attention #subject/response_time #subject/accuracy #subject/attentional_bias #subject/attentional_drift_diffusion_model #subject/reward_rate
 
 ##### Authors
 

@@ -80,7 +80,7 @@ Overall the decision accuracy of the heuristics performs as well of, and sometim
 
 ##### Keywords
 
-#subject/algorithmen #subject/begrenzte_rationalität #subject/computersimulation #subject/rational_choice #subject/satisficing #subject/priority1
+#subject/algorithmen #subject/begrenzte_rationalität #subject/computersimulation #subject/rational_choice #subject/satisficing
 
 ##### Authors
 
