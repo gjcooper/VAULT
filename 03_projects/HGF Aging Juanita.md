@@ -14,3 +14,5 @@ Between each sequence there is a minute break, no breaks between blocks (four bl
 When you did a blink correction it added separate markers that messed up comparisons between artifact rejection and just baseline correction.
 
 All acquired in Neuroscan.
+
+Specific details on the analysis can be found at [[HGF analysis of MMN]].

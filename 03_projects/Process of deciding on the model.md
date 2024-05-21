@@ -32,3 +32,5 @@ Question - Can we store the model that wins? - This was not followed up
 though.
 
 *Planning for [[Modelling of Veridical and Preferential Choice]]*
+
+Going into the output: [[Architecture of MultiAttribute Choice]] some changes were made. That is five architectures now, not the full seven. However the underlying principle here of using a dirichlet process
