@@ -1,3 +1,8 @@
+---
+aliases:
+    - EBA
+---
+
 # Elimination by Aspect Strategy
 
 Described in [[tversky1972elimination]] and also a variant, the *Deterministic version of elimination by aspect strategy* in [Payne et al. (1988)](#payne88) this strategy is one that operates over attributes, where decision makers are assumed to sort attributes $\mathit{attr}_i$ according to their weight $w_i$, or the importance of the attribute to the decision maker. Then starting with the attribute with largest weight alternatives will be iteratively removed if the value of the $i\mathrm{th}$ attribute does not meet the aspiration level. That is that $\mathit{asp}(a_{ij}) = 1$.

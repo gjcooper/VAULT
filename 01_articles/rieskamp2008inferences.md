@@ -38,7 +38,7 @@ I have issues with the process tracing method in use here, and the outcome based
 
 ---
 >[!quote|#ffd400]
->LEX, LEX-Semi, and EBA constitute the group of noncompensatory strategies. [(p. 260)](zotero://open-pdf/library/items/AP69ULRK?page=260&annotation=UAV4SQ9K)
+>[[Lexicographic Heuristic|LEX]], LEX-Semi, and [[Elimination by Aspect Strategy|EBA]] constitute the group of noncompensatory strategies. [(p. 260)](zotero://open-pdf/library/items/AP69ULRK?page=260&annotation=UAV4SQ9K)
 
 ---
 >[!quote|#ffd400]
