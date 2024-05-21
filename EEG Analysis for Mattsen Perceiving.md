@@ -1,6 +1,6 @@
 # EEG Script issue
 
-For the [[Perceiving is believing]] [[MMN]] project [[Mattsen Yeark]] is having some problems with the [[eeglab]] script for processing the data.
+For the [[Perceiving is believing]] [[Mismatch Negativity|MMN]] project [[Mattsen Yeark]] is having some problems with the [[eeglab]] script for processing the data.
 
 ## Current problems with the script 8/8/23
 
