@@ -19,11 +19,14 @@ aliases:
 [online]({{uri}}) [local]({{desktopURI}}) {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %} [pdf](file://{{attachment.path | replace(" ", "%20")}})
 {% if loop.last %} 
 {% endif %}{%- endfor %}
+ 
+{% persist "notes" -%}
+{%- if isFirstImport %}
 
 ## My Thoughts
 
+{% endif %}{% endpersist %}
 
- 
 ### Annotations
 
 {% persist "annotations" %}
@@ -71,7 +74,7 @@ aliases:
 
 ##### Authors
 
-{% if creators.length > 0 -%}{%- for creator in creators -%}#author/{%- if creator.name %}{{creator.name | lower | replace(" ", "_")}}{%- else %}{{creator.lastName | lower | replace(" ", "_")}}_{{creator.firstName | lower | replace(" ", "_")}}{%- endif %}{% if not loop.last %} {% endif %}{% endfor %}{%- endif %}
+{% if creators.length > 0 -%}{%- for creator in creators -%}[[{%- if creator.name %}{{creator.name}}{%- else %}{{creator.firstName}} {{creator.lastName}}{%- endif %}]]{% if not loop.last %} {% endif %}{% endfor %}{%- endif %}
 
 ##### Publication
 
