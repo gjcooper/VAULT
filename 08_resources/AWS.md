@@ -61,8 +61,9 @@ if .Key == "ServiceWorkbenchName" then .Value else empty end) } \]'
 ### S3 Commands
 
 ```sh
-for bucket in \((aws s3 ls s3://418071489834-prod-syd-uonswb-egress-store/ | awk '{ print \)2; }') do
-    echo $bucket aws s3 ls s3://418071489834-prod-syd-uonswb-egress-store/$bucket 2> /dev/null
+for bucket in $(aws s3 ls s3://418071489834-prod-syd-uonswb-egress-store/ | awk '{ print $2; }') do
+    echo $bucket;
+    aws s3 ls s3://418071489834-prod-syd-uonswb-egress-store/$bucket 2> /dev/null
 done
 ```
 
