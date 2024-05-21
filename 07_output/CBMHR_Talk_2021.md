@@ -16,7 +16,7 @@
   - Mention Paper
   - brief results from 2 exp
 - Parametric and Preferential
-  - Hierarchical parametric approach using LBA
+  - Hierarchical parametric approach using [[Linear Ballistic Accumulator|LBA]]
   - Determining participants threshold to apply to preferential data
   - Veridical vs Preferential results
   - Advanced /novel computational techniques. Outcome is probability of each person using each of these strategies

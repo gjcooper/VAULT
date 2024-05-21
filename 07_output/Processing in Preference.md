@@ -86,7 +86,7 @@ How would this be extended to multiple options? For forced choice it could be th
   - Parallel SFT Inspired models (Parallel Self terminating, Parallel Exhaustive)
   - Parallel SFT complements (First Past the Post, Maximal Information Decisions)
   - The SFT inspired Coactive model
-- Modelling Information Processing (looking at you [[LBA]])
+- Modelling Information Processing (looking at you [[Linear Ballistic Accumulator|LBA]])
   - LBA for complex decision making
   - LBA for Information Processing
 - LBA for multi-attribute choice

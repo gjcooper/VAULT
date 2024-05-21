@@ -17,7 +17,7 @@
   - History of
   - Uses of
 - Accumulator Modelling
-  - LBA Modelling {#972330265}
+  - [[Linear Ballistic Accumulator|LBA]] Modelling {#972330265}
   - Joint Modelling
 - Eye tracking in DCE
   - Attribute Non-attendance (ANA)

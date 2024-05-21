@@ -22,7 +22,7 @@ Lee, D. G., D’Alessandro, M., Iodice, P., Calluso, C., Rustichini, A., & Pezzu
 This work has quite direct relevance to my [[Architecture of MultiAttribute Choice]] paper, although the context is slightly different, the work here at separate the integrate then compare vs compare then integrate decision making processes is quite close to some of my work here.
 
  The differences here are that the individual attribute comparison method, and the way of integrating that information is not investigated particularly thoroughly. In particular the independent accumulation processes are only combined additively, with no other possible ways of combining the information.
-In part I think this is related to the different [[evidence accumulation models]] used underlying the choices. The use of the [[diffusion decision model|DDM]] with the forced dichotomy between accept and reject leads more naturally towards this additive approach, whereas the independent races of the [[LBA]] allow for more combinations of individual races.
+In part I think this is related to the different [[evidence accumulation models]] used underlying the choices. The use of the [[diffusion decision model|DDM]] with the forced dichotomy between accept and reject leads more naturally towards this additive approach, whereas the independent races of the [[Linear Ballistic Accumulator|LBA]] allow for more combinations of individual races.
 
 There is some reasonable work here on using features of the data, namely risk averse/seeking/neutral participants making up subgroups for analysis. The creation of these groups using previous approaches from prospect theory help ground this modelling work in previous approaches.
 ### Annotations

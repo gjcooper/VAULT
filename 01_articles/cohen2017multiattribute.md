@@ -21,12 +21,29 @@ Cohen, A. L., Kang, N., & Leise, T. L. (2017). Multi-attribute, multi-alternativ
 
 ## My Thoughts
 
+A massive investigation of various [[Random Utility Model]]'s, heuristics such as [[Elimination by Aspect Strategy|EBA]], [[Lexicographic Heuristic|LEX]] and the [[Maximum Attribute Value]] heuristic, and process models such as the Multiattribute [[Linear Ballistic Accumulator|LBA]] and the [[Multiattribute Decision Field Theory|MDFT]] and how they compare when modelling multioption (3 options) multiattribute choices in both a [[Preferential Choice]] and a [[Risky Choice]] context.
+
+The take home is the the [[MLBA]] outperforms the other models in most cases, although their is significant misfit for individual trial response times.
+
 %% end notes %%
 
 ### Annotations
 
 %% begin annotations %%
-%% end annotations %%
+
+##### Imported on 2024-05-21 3:17 pm
+>[!quote|#ffd400]
+>The first aim of this research was to compare utility, heuristic, and dynamic models in a multi-alternative, multi-attribute experimental paradigm where all attribute values were explicit and presented separately. [(p. 62)](zotero://open-pdf/library/items/DQCR5NZC?page=62&annotation=L9E845IG)
+
+---
+>[!quote|#5fb236]
+>Consistent with previous results using the LBA (Brown & Heathcote, 2008), the MLBA does an excellent job accounting for overall response time distributions in both tasks. However, the MLBA can only weakly predict RTs for individual stimuli (but see Trueblood & Dasari, 2017). None of the other models could predict RT at the stimulus-level. [(p. 62)](zotero://open-pdf/library/items/DQCR5NZC?page=62&annotation=B92F526F)
+
+---
+>[!note|#ffd400]
+> Nice list of model specifications
+
+---%% end annotations %%
 
 ## Item Notes
 
@@ -45,4 +62,4 @@ Cohen, A. L., Kang, N., & Leise, T. L. (2017). Multi-attribute, multi-alternativ
 #pub/cognitive_psychology
 
 
-%% Import Date: 2024-05-21T12:27:59.311+10:00 %%
+%% Import Date: 2024-05-21T15:17:30.110+10:00 %%

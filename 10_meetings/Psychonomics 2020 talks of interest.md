@@ -173,7 +173,7 @@ Lego bricks andable to use their hands). Participants were instructed to
 use either an Active of Passive strategy, with differnces in response
 times apparent (Speed/Accuracy).
 
-Perhaps this data could be modelled with LBA?
+Perhaps this data could be modelled with [[Linear Ballistic Accumulator|LBA]]?
 
 Refs: Paper under review: Multi-modal search: examining strategy use
 during search for lego bricks
