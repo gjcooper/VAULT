@@ -2,6 +2,7 @@
 aliases:
     - Additive difference model
     - Addition of utility differences
+    - ADD
 ---
 # Additive Difference Strategy
 

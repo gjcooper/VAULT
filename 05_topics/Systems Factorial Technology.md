@@ -1,3 +1,8 @@
+---
+aliases:
+    - SFT
+---
+
 # Systems Factorial Technology
 
 ## Survivor Interaction Contrasts

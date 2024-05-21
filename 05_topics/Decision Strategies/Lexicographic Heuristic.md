@@ -3,7 +3,6 @@ aliases:
     - LEX
 ---
 
-
 # Lexicographic Heuristic
 
 Decision makers in this strategy (proposed in [Tversky (1969)](#tversky69)) also consider attributes in order of their weight, and indeed for the current attribute under consideration the alternative $\mathit{alt}_j$ whose attribute has the highest value is selected. Highest value is:
