@@ -39,7 +39,7 @@ They then proceed to simulate new data (yoked to experimental estimates) for whi
 
 ##### Authors
 
-#author/estes_w_k #author/todd_maddox_w.
+[[W K Estes]] [[Maddox W Todd]]
 
 ##### Publication
 

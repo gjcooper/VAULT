@@ -57,7 +57,7 @@ This is a rather small part though in addition to talking about the problems of 
 
 ##### Authors
 
-#author/estes_w._k.
+[[W K Estes]]
 
 ##### Publication
 

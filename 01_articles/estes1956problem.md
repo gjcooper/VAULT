@@ -48,7 +48,7 @@ Instead ([Estes, 1956](zotero://select/library/items/J99JKTLI)) proposes reframi
 
 ##### Authors
 
-#author/estes_w_k
+[[W K Estes]]
 
 ##### Publication
 
