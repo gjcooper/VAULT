@@ -10,7 +10,59 @@
             dimensions](#MDS%20Research%20Details#Attribute%20search#Rental%20property%20dimensions)
           - [Jobs](#MDS%20Research%20Details#Attribute%20search#Jobs)
 
-## Additional contexts for MDS choice task
+## Modelling approaches
+
+-  Running individual [[MDS]] on MDS data ala [[Single Subject MDS]]
+- Focus on correlated
+### Analysis ideas
+- Sensitivity analysis on MDS (how volatile solution based on ends of the response scale)
+- Drop participant if \> 20% dropped MDS trials
+- Drop MDS trial if \< X time (X maybe 1.5 seconds)
+
+- Look at [[MDS]] choices and the coverage of the full range, bar chart for response by participant.
+- Look at MDS package used in Jess's analysis for how it deals with missing data
+- R package mixl (vs mlogit), clm package may be useful to look into as well
+
+## Multistage Plan
+
+### Plan 1 - probit
+
+Probit on two models, the reduced dimension (MDS) vs all attributes.  This uses the group MDS. For this there would be the likelihood function that takes in the subjects 60 choices, and the pair of phones side 1 and side 2
+
+#### MDS model
+
+Calculate side 2 - side 1 on dim 1 and 2 3 pars for the model, 2 slopes and intercept, and mean of utility diff distribution (udd) in par 1 \* 1st difference col + udd par 2 \* 2nd diff col + intercept pnorm(number from above)
+
+Basic idea is to copy Reilly's SDT stuff
+
+#### Full Attribute Model
+
+The second version is same as first, but input is not difference in dimensions, but difference in MP, $ etc (maybe scaling on dollars etc)
+
+### Plan 2 - ddiffusion
+
+Use ddiffusion with the same types of input from above.
+
+Start point is default (0.5 \* boundary separation) Needs contaminate process Non-decision time is default Still using the group MDS, Do what I did before but with, mean normal distribution is drift rate, both attributes and MDS versions here too. This extends to RT.
+
+Better version, D1 & 2 for both phones, racing walds
+
+For the attribute version use wither mean centered attributes, or perhaps z scored.
+
+## Single Subject
+
+Will need sensitivity analysis on the single subject, fix three points following Quentin's solution for 2D case.
+
+What happens if different options(phones) were selected.
+
+After Quentin's transformation, will probably need to rescale everyone so that no crazy large numbers are possible so each person fits within the prior.
+
+
+###### Tags
+
+#dailyNote #meeting
+
+## Additional contexts for [[Multidimensional Scaling Phones|MDS choice task]]
 
 Looking at acquiring a new dataset for the MDS analysis/modelling that I
 am developing, and I would like to extend the scenario to a new context.

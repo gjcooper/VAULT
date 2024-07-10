@@ -25,7 +25,3 @@ Hierarchical model for diffusion ([[diffusion decision model|DDM]]) that works o
 ## Julia Haaf
 
 Some interesting differences between Hierarchical bayesian estimatio between BayesFactor and STAN, leading to a talk about shrinkage
-
-###### Tags
-
-#dailyNote

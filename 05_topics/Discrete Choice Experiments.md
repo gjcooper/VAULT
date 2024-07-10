@@ -34,3 +34,7 @@ respondents.
 ## DCE in Redcap
 
 Working doc on creating [DCE with REDCap](DCE%20with%20REDCap.html)
+
+## Analysis/Design
+
+BIBD - balanced incomplete block design
