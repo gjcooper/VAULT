@@ -14,3 +14,6 @@ Katrina? for travel stuff
 Need to sort:
 - VPN access (maybe can get it to work)
 - Agresso process (give it a try tomorrow)
+
+Royal Holloway address
+Egham Hill, Egham, Surrey, TW20 0EX
