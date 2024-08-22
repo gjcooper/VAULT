@@ -40,7 +40,7 @@ Completely unconvinced. I'm not sure if it the question they are asking or the a
 
 ##### Publication
 
-#pub/journal_of_behavioral_decision_making
+[[Journal of Behavioral Decision Making]]
 
 
 %% Import Date: 2024-01-23T13:15:09.447+11:00 %%

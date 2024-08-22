@@ -87,7 +87,7 @@ seems to be very limited data.
 
 ##### Publication
 
-#pub/journal_of_behavioral_decision_making
+[[Journal of Behavioral Decision Making]]
 
 
 %% Import Date: 2023-05-24T14:48:28.169+10:00 %%

@@ -70,7 +70,7 @@ In the end there is a lack of support for solely [[parallel processing]] or [[se
 
 ##### Publication
 
-#pub/journal_of_experimental_psychology:_learning,_memory,_and_cognition
+[[JEPLMC|Journal of Experimental Psychology: Learning, Memory, and Cognition]]
 
 
 %% Import Date: 2023-12-21T15:55:06.471+11:00 %%

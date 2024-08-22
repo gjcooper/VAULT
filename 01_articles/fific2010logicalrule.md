@@ -19,7 +19,7 @@ Fific, M., Little, D. R., & Nosofsky, R. M. (2010). Logical-rule models of class
 
 ## My Thoughts
 
-A synthesis of ideas from [[Systems Factorial Technology]], exemplar-based categorisation, al la [[nosofsky2011generalized]], and some [[random-walk]] or [[diffusion decision model]] approaches to categorisation and response times.
+A synthesis of ideas from [[Systems Factorial Technology]], exemplar-based [[Categorisation]], al la [[nosofsky2011generalized]], and some [[random-walk]] or [[diffusion decision model]] approaches to categorisation and response times.
 
 I like the approach of determining some qualititative predictions of the models, and then assessing those predictions in the light on data that has been acquired.
 

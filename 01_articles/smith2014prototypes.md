@@ -19,7 +19,7 @@ Smith, J. D. (2014). Prototypes, exemplars, and the natural history of categoriz
 
 ## My Thoughts
 
-An interesting approach of looking at the debate between prototype and exemplar models of categorisation not as a question of what better fits the data, but what approaches do better with different types of categorisation tasks. The prototype model seems to achive better correct responses for a lot of tasks, especially family resemblance types categorisations where the dimensions of each category act like a multivariate gaussian, even when not linearly seperable. Only when the structure of the categories is an exclusive-or relationship does the exemplar model win out in any significant fashion.
+An interesting approach of looking at the debate between prototype and exemplar models of [[Categorisation]] not as a question of what better fits the data, but what approaches do better with different types of categorisation tasks. The prototype model seems to achive better correct responses for a lot of tasks, especially family resemblance types categorisations where the dimensions of each category act like a multivariate gaussian, even when not linearly seperable. Only when the structure of the categories is an exclusive-or relationship does the exemplar model win out in any significant fashion.
 
 Of relevance 
  

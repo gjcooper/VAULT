@@ -10,7 +10,7 @@ aliases:
     - "The Categorization of Continuous Attributes"
 ---
 
-# The Categorization of Continuous Attributes
+# The [[Categorization]] of Continuous Attributes
 
 Wang, Y. (2024). The Categorization of Continuous Attributes. _Journal of Behavioral Decision Making_, _37_(2), e2383. [https://doi.org/10.1002/bdm.2383](https://doi.org/10.1002/bdm.2383)
 [online](http://zotero.org/users/7162438/items/VVP7TSGL) [local](zotero://select/library/items/VVP7TSGL) [pdf](file:///home/gjc216/Zotero/storage/7D5IGUQG/Wang%20-%202024%20-%20The%20Categorization%20of%20Continuous%20Attributes.pdf)
@@ -81,7 +81,7 @@ e2383 BDM-20-0403.R3
 
 ##### Publication
 
-#pub/journal_of_behavioral_decision_making
+[[Journal of Behavioral Decision Making]]
 
 
 %% Import Date: 2024-07-15T21:09:33.106+01:00 %%

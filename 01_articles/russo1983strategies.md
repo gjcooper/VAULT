@@ -108,7 +108,8 @@ Overall the numbers were low, and other decision strategies were not assessed, o
 
 ##### Publication
 
-#pub/journal_of_experimental_psychology:_learning,_memory,_and_cognition
+[[JEPLMC|Journal of Experimental Psychology: Learning, Memory, and Cognition]]
 
 
 %% Import Date: 2023-12-21T12:01:47.801+11:00 %%
+Journal of Experimental Psychology: Learning, Memory, and Cognition

@@ -21,7 +21,7 @@ Chernev, A., & Gal, D. (2010). Categorization Effects in Value Judgments: Averag
 
 ## My Thoughts
 
-I think this simple idea goes a long way, the implicit "categorisation" of food stimuli into healthy/unhealthy foods (or as Chernev & Gal put it virtues and vices) appears to cause an averaging of estimated caloric content of the meals when estimating the caloric content of a virtue + vice combination as compared to a vice + vice or separate judgement of the individual items.
+I think this simple idea goes a long way, the implicit "[[Categorisation]]" of food stimuli into healthy/unhealthy foods (or as Chernev & Gal put it virtues and vices) appears to cause an averaging of estimated caloric content of the meals when estimating the caloric content of a virtue + vice combination as compared to a vice + vice or separate judgement of the individual items.
 
 This combination of the two ends of of a continuous scale of _healthiness_ has some implications for the [[Exemplar-based consumer choice model|GCM inspired analysis]] I have been doing.
 %% end notes %%

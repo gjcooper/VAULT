@@ -50,7 +50,7 @@ mine this for more references
 
 ##### Keywords
 
-#subject/eye_tracking #subject/eye-tracking #subject/discrete_choice_experiment #subject/bayesian_infinite-mixtures_logit #subject/attribute_non-attendance
+#subject/eye_tracking [[Discrete Choice Experiments]] #subject/bayesian_infinite-mixtures_logit #subject/attribute_non-attendance
 
 ##### Authors
 

@@ -52,7 +52,7 @@ All component processes are assumed to take an equivalent amount of time which s
 
 ##### Publication
 
-#pub/journal_of_experimental_psychology:_learning,_memory,_and_cognition
+[[JEPLMC|Journal of Experimental Psychology: Learning, Memory, and Cognition]]
 
 
 %% Import Date: 2023-09-07T10:56:52.842+10:00 %%

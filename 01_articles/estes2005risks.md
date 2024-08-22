@@ -27,7 +27,7 @@ Estes, W. K., & Todd Maddox, W. (2005). Risks of drawing inferences about cognit
 
 # Summary
 
-([Estes and Todd Maddox, 2005](zotero://select/library/items/SASEZSTH)) outline some experimental tasks in learning and categorisation and provide a comparison between model fitting to individual performance data and to average (group-level) data. All parameter estimates to the experimental data should lower magnitude estimates for the model parameters when fit to the average data.
+([Estes and Todd Maddox, 2005](zotero://select/library/items/SASEZSTH)) outline some experimental tasks in [[learning]] and [[Categorisation]] and provide a comparison between model fitting to individual performance data and to average (group-level) data. All parameter estimates to the experimental data should lower magnitude estimates for the model parameters when fit to the average data.
 
 They then proceed to simulate new data (yoked to experimental estimates) for which they know the exact generating model parameters (with noise added). Most results indicate that estimate model parameters by fitting each individual was superior to estimating parameters from averaged data from the group, given a reasonable number of participants.
 
@@ -35,7 +35,7 @@ They then proceed to simulate new data (yoked to experimental estimates) for whi
 
 ##### Keywords
 
-#subject/learning #subject/categorization #subject/individual_differences #subject/summary_done #subject/aggregation #subject/parameter_estimation
+#subject/learning [[Categorisation]]  #subject/individual_differences #subject/summary_done #subject/aggregation #subject/parameter_estimation
 
 ##### Authors
 

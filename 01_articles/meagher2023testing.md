@@ -17,7 +17,7 @@ Meagher, B. J., & Nosofsky, R. M. (2023). Testing formal cognitive models of cla
  
 ## My Thoughts
 
-The 3 large categories in use here are not as homogenous as other more artificial categories might be in the research. How does this relate to more typical category learning? An OK? test of [[exemplar]] models of categorical decision making as compared to [[prototype theory]] or the [[clustering model]] of categorisation.
+The 3 large categories in use here are not as homogenous as other more artificial categories might be in the research. How does this relate to more typical category learning? An OK? test of [[exemplar]] models of categorical decision making as compared to [[prototype theory]] or the [[clustering model]] of [[Categorisation]].
 
 The work on old-new recognition is a nice extension of the categorisation models, and provides an interesting test. However I am a little unsure about the use of different model fits to both phases of the study (ie diff parameter estimates depending on the response/task types). It seems to me a better test would be the use of say stage 1 par estimates to predict responses in stage 2, or some type of joint model approach.
 

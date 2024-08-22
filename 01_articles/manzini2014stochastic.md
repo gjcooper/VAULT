@@ -34,7 +34,7 @@ This work seems to be one of the intial treatises on random utility theory and "
 
 ##### Keywords
 
-#subject/bounded_rationality #subject/consideration_sets #subject/discrete_choice #subject/logit_model #subject/luce_model #subject/random_utility #subject/revealed_preferences
+#subject/bounded_rationality #subject/consideration_sets  [[Discrete Choice Experiments]] #subject/logit_model #subject/luce_model #subject/random_utility #subject/revealed_preferences
 
 ##### Authors
 
