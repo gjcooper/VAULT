@@ -2,7 +2,7 @@
 
 ### Causality as empowerment - [[Alison Gopnik]]
 
-Use "empowerment" as the reward function of a reinforcement learning model, where empowerment is maximising the effort expended to obtain new information about the environment.
+Use "empowerment" as the reward function of a [[reinforcement learning]] model, where empowerment is maximising the effort expended to obtain new information about the environment.
 
 ### From causes to actions - [[Samantha Kleinberg]]
 

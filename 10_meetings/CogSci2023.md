@@ -10,7 +10,7 @@ Attended [[CogSci2023]] day 1. Missed the Human/AI talks, and will have to go ba
 ### Dynamic Predictive Coding Explains both Prediction and Postdiction in Visual Motion Perception
 Predictive Coding uses prediction error.
 
-### A reinforcement learning framework for information-seeking and information-avoidance
+### A [[reinforcement learning]] framework for information-seeking and information-avoidance
 Individual differences between whether you seek information only to reduce uncertainty *cognition*, or more to seek positive reward (and avoid information that can lead to punishment) *affect*.
 The general approach seems to be to split a gambling task with an information seeking component into three separate reinforcement learning sub-models, one each for affect, cognition and action.
 I'm not super convinced by this approach. The simulation? work doesn't seem to provide a way to distinguish between the information types (affective, cognitive etc).

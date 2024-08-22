@@ -4,7 +4,7 @@
 
 ### My Poster Presentation Notes
 
-Some conversations I had mentioned other models of categorisation that could be useful to investigate.
+Some conversations I had mentioned other models of [[Categorisation]] that could be useful to investigate.
 
 One of the final people - [[Bartosz Gula]], mentioned that I should look at multiple-cue judgement tasks - perhaps like https://psycnet.apa.org/doi/10.3758/BF03193103 or https://psycnet.apa.org/doi/10.1037/0096-3445.132.1.133.
 

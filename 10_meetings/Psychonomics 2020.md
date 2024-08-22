@@ -1,3 +1,8 @@
+---
+aliases:
+    - Psychonomics 2020 talks of interest
+---
+
 # Psychonomics 2020 talks and notes
 
 ## Talks
@@ -8,14 +13,14 @@
 
 [[Leslie Blaha]]
 
-The use of Recurrence Quanitification Analysis for decision making was
+The use of Recurrence Quantification Analysis for decision making was
 quite fascinating. The example used to illustrate was a gambling style
-task with either a staionary reward or a non-stationary reward, and the
+task with either a stationary reward or a non-stationary reward, and the
 win-stay-lose-shift strategy was compared to human performance using
 these techniques.
 
 Perhaps this kind of analysis could be used to look at the possible
-decision strategies employed in the preference and veridical tasks that
+decision strategies employed in the [[Preferential task|Preferential]] and [[Veridical task|veridical]] tasks that
 I have been running.
 
 Refs:
@@ -93,17 +98,17 @@ Implicit Association, and Delay Discounting tasks, we show that these
 generative models result in both: (1) higher test-retest reliability
 estimates, and (2) more theoretically informative parameter estimates
 relative to traditional approaches. Our results invoke optimism
-regarding the ability of behavioral paradigms to reliably assess
+regarding the ability of behavioural paradigms to reliably assess
 individual differences, and emphasize the importance of rigorous
 quantitative (and generative) models for making valid statistical
 inferences.*
 
-Brandon Turner Peter Kvam, University of Florida Nathaniel Haines, The
+[[Brandon Turner]] [[Peter Kvam]], University of Florida [[Nathaniel Haines]], The
 Ohio State University
 
 Might be helpful to reach out to Peter/Nathaniel about the PMwG package
-as it seems it might be helpful for fitting some of the more advaced
-models in a hierarchical bayesian way.
+as it seems it might be helpful for fitting some of the more advanced
+models in a hierarchical Bayesian way.
 
 #### 170 - How Do We Choose our Giants? Perceptions of Replicability in Psychological Science
 
@@ -126,7 +131,7 @@ preregistration). By shedding light on the perceived efficacy of certain
 research practices, these findings can inform discussions around how to
 improve the robustness of psychological research.*
 
-David Sewell Raine Vickers-Jones Manikya Alister Timothy Ballard, The
+[[David Sewell]] [[Raine Vickers-Jones]] [[Manikya Alister]] [[Timothy Ballard]], The
 University of Queensland
 
 Interesting look at what people take into consideration when viewing
@@ -154,7 +159,7 @@ claims). The appropriate but almost never considered goal is to conduct
 scientific research in such a way as to maximize the ability to
 discriminate true theoretical claims from false theoretical claims.*
 
-John Wixted Christine Harris Brent Wilson, University of California, San
+[[John Wixted]] [[Christine Harris]] [[Brent Wilson]], University of California, San
 Diego
 
 Nice way to think about true positives and false positives, in
@@ -166,7 +171,7 @@ particular effect sizes and what they mean at the level of theories.
 
 #### 1052 - Some Assembly Required: Examining Strategy Use During Multi-Modal Search for LEGO Bricks
 
-Poster - Jessica Madrid et al
+Poster - [[Jessica Madrid]] et al
 
 Comparison of strategies during a multimodal search task (Looking for
 Lego bricks andable to use their hands). Participants were instructed to
@@ -202,7 +207,7 @@ about selective attention.
 \==== 1063 - A Solution to the Feature Binding Problem for Risky
 Choice.====
 
-*Sequential sampling models predict attention, choice, and response time
+*[[Sequential sampling models]] predict attention, choice, and response time
 in simple preferential choice, but are typically unable to handle more
 complex settings, such as those involving multi-branch gambles. To make
 reasonable decisions for such gambles, decision makers need to multiply
@@ -256,23 +261,23 @@ somewhat conflicting results, with some research finding complexity
 aversion and others finding complexity neutrality. We address these
 conflicting results by investigating the effect of complexity on risk
 preferences in two studies (overall n = 423). Our results reveal that
-complexity aversion is format dependent (judgment-choice gap) and most
+complexity aversion is format dependent (judgement-choice gap) and most
 likely stems from an avoidance of cognitive effort. In support of this,
 cognitive ability was an important moderator of the effect and process
 measures of participant cognitive effort correlated negatively with the
 effect. Moreover, the results indicate that complexity increases the
 noise in the decision process, a mechanism that can seemingly amplify
 the effect in asymmetric choices designs. These results have important
-implications for experiment designs in risky choice and judgment and
+implications for experiment designs in risky choice and judgement and
 should inform cognitive models and the comparative study of groups
 differing in cognitive ability (e.g. age effects).*
 
 Complexity aversion prominent for those indexed as lower in cognitive
 ability (unsure of the measure).
 
-#### 1079 - Does Looking Mean Liking? Processing Differences Across Perceptual and Preferential Choice.
+#### 1079 - Does Looking Mean Liking? Processing Differences Across Perceptual and [[Preferential Choice]].
 
-*In perceptual decision making, attention boosts discrimination by
+*In [[perceptual decision making]], attention boosts discrimination by
 enhancing early visual information processing. Yet, in preferential
 decision making people tend to choose the option they attend to the most
 implying attention may bias performance. So does selective attention
@@ -316,7 +321,7 @@ I really liked this, a non result was shown to be due to the aggregation
 of two different sub groups in the population that had opposing views of
 what information independant vs sequential data points give.
 
-#### 1084 - Using Systems Factorial Technology to Determine the Fundamental Cognitive Properties of Decision Making.
+#### 1084 - Using [[Systems Factorial Technology]] to Determine the Fundamental Cognitive Properties of Decision Making.
 
 *Most decisions depend on multiple sources of information and a number
 of models have been posited to explain how people combine those sources
@@ -335,7 +340,7 @@ decision-making study with environments that either encourage using
 multiple cues or are more neutral and discuss the implications for
 decision-making models.*
 
-Nice application of SFT to decision making, in this case in probabilitic
+Nice application of SFT to decision making, in this case in probabilistic
 inference, using an approach that seems quite familiar. Might be nice to
 reach out to Cara via <zinn.10@wright.edu>
 
@@ -345,7 +350,7 @@ reach out to Cara via <zinn.10@wright.edu>
 attentional control, however, processing speed differences between age
 groups complicates age by congruency interactions. Several Brinley
 meta-analyses (based on group means) have indicated that there is no
-effect of age on Stroop interference above and beyond general slowing.
+effect of age on [[Stroop]] interference above and beyond general slowing.
 In the present study, we investigated the Stroop effect in younger and
 older adults using data from 29 experiments from different labs, and
 Universities. All datasets came from computerized, color-naming Stroop
@@ -371,7 +376,7 @@ stroop data for a number of experiments).
 interferes with judgments of physical size. This interference is either
 occurs in the encoding-related or decision-related stages. To
 discriminate between these accounts, we used a class of mathematical
-models (ex-Wald, shifted Wald & EZ-Diffusion) to index the underlying
+models ([[ex-Wald]], [[shifted Wald]] & [[EZ-Diffusion]]) to index the underlying
 cognitive processes via estimates of drift rate, response threshold, and
 nondecision time. We manipulated congruity in a single-digit physical
 comparison task and measured RTs. First, we found that congruent trials
@@ -543,9 +548,9 @@ Pernille Hemmer Julien Musolino Laura Saad, Rutgers University - New
 Brunswick
 
 Interesting look at what is coming to be a regular story. Literature
-says one thing (effect exists) but gfenerally only reports aggregate
+says one thing (effect exists) but generally only reports aggregate
 data, researcher looks at individual results and sees that there is more
-variability than reported. Intertesting dataset in Borhani, Beck and
+variability than reported. Interesting dataset in Borhani, Beck and
 Haggard (2017)
 
 ### Statistics and Methodology
@@ -554,8 +559,6 @@ Haggard (2017)
 
 Just a poster (no talk), in Mendeley now, useful refs for outlier
 detection
-
----
 
 ###### Tags
 

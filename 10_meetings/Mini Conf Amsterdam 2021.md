@@ -6,7 +6,7 @@ Talked about the TRDM (I know this one) but also the ALBA, which is the basis fo
 
 ## Steve Miletic
 
-RL-ARD (Reinforcement Learning - Advantage Racing Diffusion)
+RL-ARD ([[reinforcement learning]] - Advantage Racing Diffusion)
 
 ## Dora Matzke
 
