@@ -5,7 +5,7 @@ aliases:
 
 # Nosofsky
 
-Works on categorisation, and is known for the [[Generalised Context Model]] among many other things.
+Works on [[Categorisation]], and is known for the [[Generalised Context Model]] among many other things.
 
 Papers I have notes on:
 
