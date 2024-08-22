@@ -11,4 +11,4 @@ The strategy stops once there is only one alternative left (and does not conside
 
 The deterministic version contrasts to the original version by Tversky in which attributes are considered probabilistically.
 
-Closely allied with the [[Lexicographic Heuristic]], but rather than a fixed prior ordering of attributes, the choice process is probabilistic
+Closely allied with the [[Lexicographic Heuristic]], but rather than a fixed prior ordering of attributes, the choice process is probabilistic.
