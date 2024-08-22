@@ -118,3 +118,8 @@ A task (preferential) with variable rewards
 
 A task wich attempts to map participants familiarity with variability in the market.
 ie. Hotels in CBD, medium variability
+
+
+## Self-other representation of beliefs
+
+With respect to violations of a persons representation of others. Given a model $\bar{\theta^o}$ of some others internal beliefs, what happens with a significant violation of the others policy. Does this effect change based on the "location" of the others policy before the violation, or with the direction of the violation. That is how forgiving are we of infrequent violations? [[barnby2023theory]]
