@@ -56,3 +56,10 @@ $$
 where $d_a$ and $d_b$ are the distances of options $a$ and $b$ from the anchor point $p$
 
 
+### Original framing for the approach
+
+[[Anchor]], psychological space, new approach for the preferential choice exhibited in the [[Preferential task]] (couched in well established psych theories about [[how people represent options]])
+
+#### Thought for the day
+
+I wonder whether for [[Exemplar-based consumer choice model|EB-CCM]], or other preferential data, a scatter plot (or similar) of price/memory, price/rating on the x/y axes, and then colour representing the RT could elucidate the pattern I would expect of more "difficult" choices (closer to a participants "boundary" being slower)?
