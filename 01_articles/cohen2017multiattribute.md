@@ -51,7 +51,7 @@ The take home is the the [[MLBA]] outperforms the other models in most cases, al
 
 ##### Keywords
 
-#subject/eye_tracking #subject/decision_making #subject/response_time #subject/process_tracing #subject/process_tracing #subject/computational_modeling #subject/mouse_tracking #subject/priority1
+#subject/eye_tracking #subject/decision_making #subject/response_time #subject/process_tracing #subject/process_tracing #subject/computational_modeling #subject/mouse_tracking
 
 ##### Authors
 

@@ -39,7 +39,7 @@ I also appreciate the [[hybrid-similarity exemplar model]], which [[Robert M Nos
 
 ##### Keywords
 
-#subject/recognition_memory #subject/categorization #subject/computational_modeling #subject/similarity 
+#subject/recognition_memory #subject/computational_modeling #subject/similarity [[Categorisation]]
 
 ##### Authors
 
@@ -47,7 +47,7 @@ I also appreciate the [[hybrid-similarity exemplar model]], which [[Robert M Nos
 
 ##### Publication
 
-#pub/cognitive_psychology
+[[Cognitive Psychology]]
 
 
 %% Import Date: 2024-02-06T15:46:05.095+11:00 %%

@@ -70,7 +70,7 @@ Regarding the work on the [[Hypatia Work|Hypatia Health Beta app]] , therte are 
 
 ##### Keywords
 
-#subject/bayesian_statistics #subject/model_comparison #subject/reinforcement_learning
+#subject/bayesian_statistics #subject/model_comparison [[reinforcement learning]]
 
 ##### Authors
 
@@ -78,7 +78,7 @@ Regarding the work on the [[Hypatia Work|Hypatia Health Beta app]] , therte are 
 
 ##### Publication
 
-#pub/journal_of_mathematical_psychology
+[[Journal of Mathematical Psychology]]
 
 
 %% Import Date: 2024-07-26T18:27:20.751+01:00 %%

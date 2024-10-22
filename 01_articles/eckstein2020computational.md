@@ -10,7 +10,7 @@ aliases:
     - "Computational evidence for hierarchically structured reinforcement learning in humans"
 ---
 
-# Computational evidence for hierarchically structured reinforcement learning in humans
+# Computational evidence for hierarchically structured [[reinforcement learning]] in humans
 
 Eckstein, M. K., & Collins, A. G. E. (2020). Computational evidence for hierarchically structured reinforcement learning in humans. _Proceedings of the National Academy of Sciences_, _117_(47), 29381–29389. [https://doi.org/10.1073/pnas.1912330117](https://doi.org/10.1073/pnas.1912330117)
 [online](http://zotero.org/users/7162438/items/JYQGPV6R) [local](zotero://select/library/items/JYQGPV6R) [pdf](file:///home/gjc216/Zotero/storage/KD5IE5I7/Eckstein%20and%20Collins%20-%202020%20-%20Computational%20evidence%20for%20hierarchically%20structur.pdf)
@@ -53,7 +53,6 @@ Eckstein, M. K., & Collins, A. G. E. (2020). Computational evidence for hierarch
 
 ##### Keywords
 
-#subject/priority1
 
 ##### Authors
 
@@ -61,7 +60,7 @@ Eckstein, M. K., & Collins, A. G. E. (2020). Computational evidence for hierarch
 
 ##### Publication
 
-#pub/proc._natl._acad._sci._u.s.a.
+[[Proceedings of the National Academy of Sciences]]
 
 
 %% Import Date: 2024-08-19T14:35:39.457+10:00 %%

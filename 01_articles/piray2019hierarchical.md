@@ -53,7 +53,7 @@ This allows inference between models, groups parameter distributions and random 
 
 ##### Keywords
 
-#subject/priority1 #subject/decision_making #subject/algorithms #subject/learning #subject/simulation_and_modeling #subject/normal_distribution #subject/kalman_filter #subject/parkinson_disease #subject/statistical_distributions
+#subject/decision_making #subject/algorithms #subject/learning #subject/simulation_and_modeling #subject/normal_distribution #subject/kalman_filter #subject/parkinson_disease #subject/statistical_distributions
 
 ##### Authors
 

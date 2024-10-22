@@ -36,7 +36,7 @@ Glaholt, M. G., & Reingold, E. M. (2011). Eye movement monitoring as a process t
 
 ##### Keywords
 
-#subject/eye_tracking #subject/eye_movements #subject/decision_making #subject/process_tracing #subject/process_tracing
+[[Eye tracking for process tracing]] [[decision-making]] [[process tracing]]
 
 ##### Authors
 

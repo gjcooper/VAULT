@@ -66,7 +66,7 @@ The tasks include previously modelled work on reinforcement learning models with
 
 ##### Keywords
 
-#subject/priority1 #subject/decision-making #subject/cognitive_neuroscience #subject/bayesian_factor_analysis #subject/joint_modelling
+#subject/decision-making #subject/cognitive_neuroscience #subject/bayesian_factor_analysis #subject/joint_modelling
 
 ##### Authors
 
@@ -74,7 +74,6 @@ The tasks include previously modelled work on reinforcement learning models with
 
 ##### Publication
 
-#pub/comput_brain_behav
-
+[[Computational Brain & Behavior]]
 
 %% Import Date: 2024-08-05T15:43:27.493+10:00 %%

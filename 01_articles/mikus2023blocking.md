@@ -71,7 +71,7 @@ It was very nice to see a comparison of learning rates or belief volatility to g
 
 ##### Keywords
 
-#subject/priority1 #subject/reward #subject/learning_algorithms #subject/social_neuroscience
+#subject/reward #subject/learning_algorithms #subject/social_neuroscience
 
 ##### Authors
 

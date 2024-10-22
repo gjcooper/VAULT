@@ -95,7 +95,7 @@ There is some reasonable work here on using features of the data, namely risk av
 
 ##### Keywords
 
-#subject/multi-attribute_choice #subject/decision-making #subject/drift-diffusion_model #subject/risky_choice #subject/priority1 #subject/risk_aversion
+#subject/multi-attribute_choice #subject/decision-making #subject/drift-diffusion_model #subject/risky_choice #subject/risk_aversion
 
 ##### Authors
 

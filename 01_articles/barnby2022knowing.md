@@ -21,7 +21,7 @@ Barnby, J. M., Raihani, N., & Dayan, P. (2022). Knowing me, knowing you: Interpe
 
 ## My Thoughts
 
-Can definitely see the parallels to the [[BPD Self-other social model]] work here, just missing the Phase 3 section to look at social contagion issues. I may need to look into the CBM toolbox that attempts model comparison with simngular measures of the fit for each model, it sounds like it concurrenrtly fits all models silmultaneously, and then ?selects? the winning model, perhaps something to do with [[model responsibility]].
+Can definitely see the parallels to the [[BPD Self-other social model]] work here, just missing the Phase 3 section to look at social contagion issues. I may need to look into the CBM toolbox that attempts model comparison with singular measures of the fit for each model, it sounds like it concurrently fits all models simultaneously, and then ?selects? the winning model, perhaps something to do with [[model responsibility]].
 
 %% end notes %%
 
@@ -65,11 +65,11 @@ Can definitely see the parallels to the [[BPD Self-other social model]] work her
 
 ##### Authors
 
-[[J. M. Barnby]] [[N. Raihani]] [[P. Dayan]]
+[[Joseph Barnby|J. M. Barnby]] [[N. Raihani]] [[Peter Dayan|P. Dayan]]
 
 ##### Publication
 
-#pub/cognition
+[[Cognition]]
 
 
 %% Import Date: 2024-07-30T16:52:49.662+01:00 %%

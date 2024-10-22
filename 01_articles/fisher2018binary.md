@@ -53,8 +53,6 @@ Although i have some questions (marginally significant my arse) there are some n
 
 ##### Keywords
 
-#subject/priority1
-
 ##### Authors
 
 [[Matthew Fisher]] [[Frank C. Keil]]

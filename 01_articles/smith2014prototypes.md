@@ -51,7 +51,7 @@ Of relevance
 
 ##### Publication
 
-#pub/psychon_bull_rev
+#pub/psychon_bull_rev [[Psychonomic Bulletin & Review]]
 
 
 %% Import Date: 2024-02-13T11:40:20.026+11:00 %%

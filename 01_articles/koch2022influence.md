@@ -52,7 +52,7 @@ To model this a standard [[Rescorla-Wagna]] RL model, plus variations that added
 
 ##### Keywords
 
-#subject/priority1 #subject/reinforcement_learning #subject/uncertainty #subject/aging #subject/behavioral_modeling #subject/surprise
+[[reinforcement learning]] #subject/uncertainty #subject/aging #subject/behavioral_modeling #subject/surprise
 
 ##### Authors
 

@@ -86,15 +86,15 @@ Please see attached for the paper I mentioned about LBAs and MNLs during our mee
 
 ##### Keywords
 
-#subject/eye_tracking #subject/decision_making #subject/linear_ballistic_accumulator #subject/evidence_accumulation #subject/best-worst_scaling #subject/preference #subject/random_utility_model
+#subject/eye_tracking #subject/decision_making [[evidence accumulation models]] #subject/best-worst_scaling #subject/preference [[Random Utility Model]] [[Linear Ballistic Accumulator]]
 
 ##### Authors
 
-#author/hawkins_guy_e. #author/marley_a.a.j. #author/heathcote_andrew #author/flynn_terry_n. #author/louviere_jordan_j. #author/brown_scott_d.
+[[Guy Hawkins]] [[Anthony Marley]]  [[Andrew Heathcote]] #author/flynn_terry_n. #author/louviere_jordan_j. [[Scott D. Brown]]
 
 ##### Publication
 
-#pub/cognitive_science
+[[Cognitive Science ]]
 
 
 %% Import Date: 2023-10-25T14:21:53.490+11:00 %%

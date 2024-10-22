@@ -34,15 +34,16 @@ Of these 18 participants (48.6% of the accurate responders sub-sample), [(p. 10)
 
 ##### Keywords
 
-#subject/information_processing #subject/process_tracing #subject/consumer_choice #subject/mental_architecture #subject/decision_strategy #subject/systems_factorial_technology
+[[process tracing]] [[consumer choice]] [[decision strategies]] [[Systems Factorial Technology]]
+
+#subject/information_processing  #subject/mental_architecture 
 
 ##### Authors
 
-#author/cooper_gavin_j. #author/hawkins_guy_e.
+[[Gavin Cooper]]  [[Guy Hawkins]]
 
 ##### Publication
 
-#pub/journal_of_mathematical_psychology
-
+[[Journal of Mathematical Psychology]]
 
 %% Import Date: 2023-07-10T14:58:48.245+10:00 %%

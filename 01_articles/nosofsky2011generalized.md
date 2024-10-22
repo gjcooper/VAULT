@@ -66,7 +66,7 @@ Nosofsky, R. M. (2011). The generalized context model: An exemplar model of clas
 
 ##### Keywords
 
-#subject/categorization #subject/similarity #subject/multi-dimensional_scaling #subject/summary_done
+[[categorisation|categorization]] [[Similarity]]  [[Multidimensional Scaling]]
 
 ##### Authors
 
