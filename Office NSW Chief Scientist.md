@@ -1,6 +1,6 @@
 # Office of the NSW Chief Scientist and Engineer
 
-Work on reviewing knowledge, communicating with stakeholders about issues of importantce in Science and Enginerring to the people of NSW.
+Work on reviewing knowledge, communicating with stakeholders about issues of importance in Science and Engineering to the people of NSW.
 
 Fish deaths in Menindee Darling, Energy market in NSW, state of carbon neutral technology drivers, PFAS, NSW Koala strategy, ...
 
