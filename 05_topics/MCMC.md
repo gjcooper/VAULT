@@ -14,6 +14,7 @@ One discussion I have recently read in this regard is about [[biased inferences]
 
 There are a large number of variations of MCMC algorithms, with most (if not all) being specialisations of the _Metropolis-Hastings_ algorithm. The Metropolis-Hastings algorithm was itself a generalisation of the first algorithm developed, the Metropolis-within-Gibbs sampler from Metropolis, Rosenbluth and Teller in 1953. Some general families of MCMC algorithms include [[Gibbs sampling]], [[Metropolis-Hastings]], [[slice sampling]], [[Hamiltonian Monte Carlo]] and many more.
 
+A popular sampler recently (implemented by [[stan]] and [[pymc]]) is the [[No U-Turn Sampler]] or NUTS for short. This sampler is an extension of the [[Hamiltonian Monte Carlo]] sampler.
 ## Properties of Markov chains
 
 A Markov chain is Markovian when the current iteration depends only on the previous iteration. Any dependance on the history of the chains removes this Markovian property.

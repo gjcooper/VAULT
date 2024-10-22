@@ -18,3 +18,5 @@ $$
         u(\mathit{alt}_j) = \sum_{i=1}^m w_iv_i(a_{ij})
     ]
 $$
+
+In my work on the [[Architecture of MultiAttribute Choice]], I've argued that a form of the Weighted Additive Rule could be adapted for [[consideration sets|screening choices]] by assuming that the computed option utility for each option under consideration could be assessed against some ideal preferential option utility, ie some internal state of what and acceptable option utility would be.

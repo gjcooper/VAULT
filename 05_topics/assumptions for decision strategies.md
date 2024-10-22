@@ -2,43 +2,43 @@
 
 ## Ordered by SFT paper categorisation
 
-| Name | SFT[^4] | Attrs | Screening | Pairwise | Aspiration | Accept | Reject |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [[Equal Weight Heuristic\|EQW]] | Co | Integrated | No[^1] | No | No[^3] | | |
-| [[Weighted Additive Rule\|WADD]] | Co | Integrated | No[^1] | No | No[^3] | | |
-| [[Additive Difference Strategy\|ADD]] | Co | Integrated | No | Yes | No | | |
-| [[Majority of Confirming Dimensions Heuristic\|MCD]] | Co | Integrated[^2] | No | Yes | No | | |
-| [[Frequency of Good and-or Bad Features Heuristic\|FRQ]] | Co | Integrated | No[^1] | No | Yes | | |
-| [[Compatibility Test\|COM]] | ST (S/P) | Independant | Yes | No | Yes | EITHER[^5] | EITHER[^5] |
-| [[Conjunctive Strategy\|CONJ]] | ST (S/P) | Independant | Yes | No | Yes | AND | OR |
-| [[Satisficing Heuristic\|SAT]] | ST (S/P) | Independant | Partial | No | Yes | AND | OR |
-| [[Satisficing-plus Heuristic\|SAT+]] | ST (S/P) | Independant | Partial | No | Yes | OR | OR |
-| [[Disjunctive Strategy\|DIS]] | Ex (S/P) | Independant | Yes | No | Yes | OR | AND |
-| [[Dominance strategy\|DOM]] | Ex (S/P) | Independant | No | No | No | AND[^6] | AND[^6] |
-| [[Simple Majority Decision rule\|MAJ]] | Ex (S/P) | Independant | No | No | No | OR[^6] | OR[^6] |
-| [[Elimination by Aspect Strategy\|EBA]] | ST (S) | Independant | Yes | No | Yes | AND[^7] | OR |
-| [[Lexicographic Heuristic\|LEX]] | ST (S) | Independant | Yes | No | No | OR[^8] | OR[^8] |
-| [[Minimum Difference Lexicographic Rule\|MDLR]] | ST (S) | Independant | Yes | No | No | OR[^9] | OR[^9] |
+| Name                                                     | SFT[^4]  | Attrs          | Screening | Pairwise | Aspiration | Accept     | Reject     |
+| -------------------------------------------------------- | -------- | -------------- | --------- | -------- | ---------- | ---------- | ---------- |
+| [[Equal Weight Heuristic\|EQW]]                          | Co       | Integrated     | No[^1]    | No       | No[^3]     |            |            |
+| [[Weighted Additive Rule\|WADD]]                         | Co       | Integrated     | No[^1]    | No       | No[^3]     |            |            |
+| [[Additive Difference Strategy\|ADD]]                    | Co       | Integrated     | No        | Yes      | No         |            |            |
+| [[Majority of Confirming Dimensions Heuristic\|MCD]]     | Co       | Integrated[^2] | No        | Yes      | No         |            |            |
+| [[Frequency of Good and-or Bad Features Heuristic\|FRQ]] | Co       | Integrated     | No[^1]    | No       | Yes        |            |            |
+| [[Compatibility Test\|COM]]                              | ST (S/P) | Independant    | Yes       | No       | Yes        | EITHER[^5] | EITHER[^5] |
+| [[Conjunctive Strategy\|CONJ]]                           | ST (S/P) | Independant    | Yes       | No       | Yes        | AND        | OR         |
+| [[Satisficing Heuristic\|SAT]]                           | ST (S/P) | Independant    | Partial   | No       | Yes        | AND        | OR         |
+| [[Satisficing-plus Heuristic\|SAT+]]                     | ST (S/P) | Independant    | Partial   | No       | Yes        | OR         | OR         |
+| [[Disjunctive Strategy\|DIS]]                            | Ex (S/P) | Independant    | Yes       | No       | Yes        | OR         | AND        |
+| [[Dominance strategy\|DOM]]                              | Ex (S/P) | Independant    | No        | No       | No         | AND[^6]    | AND[^6]    |
+| [[Simple Majority Decision rule\|MAJ]]                   | Ex (S/P) | Independant    | No        | No       | No         | OR[^6]     | OR[^6]     |
+| [[Elimination by Aspect Strategy\|EBA]]                  | ST (S)   | Independant    | Yes       | No       | Yes        | AND[^7]    | OR         |
+| [[Lexicographic Heuristic\|LEX]]                         | ST (S)   | Independant    | Yes       | No       | No         | OR[^8]     | OR[^8]     |
+| [[Minimum Difference Lexicographic Rule\|MDLR]]          | ST (S)   | Independant    | Yes       | No       | No         | OR[^9]     | OR[^9]     |
 
 ## Ordered by Pfeiffer book Appendix A table order
 
-| Name | SFT[^4] | Attrs | Screening | Pairwise | Aspiration | Accept | Reject |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [[Additive Difference Strategy\|ADD]] | Co | Integrated | No | Yes | No | | |
-| [[Compatibility Test\|COM]] | ST (S/P) | Independant | Yes | No | Yes | EITHER[^5] | EITHER[^5] |
-| [[Conjunctive Strategy\|CONJ]] | ST (S/P) | Independant | Yes | No | Yes | AND | OR |
-| [[Disjunctive Strategy\|DIS]] | Ex (S/P) | Independant | Yes | No | Yes | OR | AND |
-| [[Dominance strategy\|DOM]] | Ex (S/P) | Independant | No | No | No | AND[^6] | AND[^6] |
-| [[Elimination by Aspect Strategy\|EBA]] | ST (S) | Independant | Yes | No | Yes | AND[^7] | OR |
-| [[Equal Weight Heuristic\|EQW]] | Co | Integrated | No[^1] | No | No[^3] | | |
-| [[Frequency of Good and-or Bad Features Heuristic\|FRQ]] | Co | Integrated | No[^1] | No | Yes | | |
-| [[Simple Majority Decision rule\|MAJ]] | Ex (S/P) | Independant | No | No | No | OR[^6] | OR[^6] |
-| [[Majority of Confirming Dimensions Heuristic\|MCD]] | Co | Integrated[^2] | No | Yes | No | | |
-| [[Minimum Difference Lexicographic Rule\|MDLR]] | ST (S) | Independant | Yes * | No | No | OR[^9] | OR[^9] |
-| [[Lexicographic Heuristic\|LEX]] | ST (S) | Independant | Yes * | No | No | OR[^8] | OR[^8] |
-| [[Satisficing Heuristic\|SAT]] | ST (S/P) | Independant | Partial | No | Yes | AND | OR |
-| [[Satisficing-plus Heuristic\|SAT+]] | ST (S/P) | Independant | Partial | No | Yes | OR | OR |
-| [[Weighted Additive Rule\|WADD]] | Co | Integrated | No[^1] | No | No[^3] | | |
+| Name                                                     | SFT[^4]  | Attrs          | Screening | Pairwise | Aspiration | Accept     | Reject     |
+| -------------------------------------------------------- | -------- | -------------- | --------- | -------- | ---------- | ---------- | ---------- |
+| [[Additive Difference Strategy\|ADD]]                    | Co       | Integrated     | No        | Yes      | No         |            |            |
+| [[Compatibility Test\|COM]]                              | ST (S/P) | Independant    | Yes       | No       | Yes        | EITHER[^5] | EITHER[^5] |
+| [[Conjunctive Strategy\|CONJ]]                           | ST (S/P) | Independant    | Yes       | No       | Yes        | AND        | OR         |
+| [[Disjunctive Strategy\|DIS]]                            | Ex (S/P) | Independant    | Yes       | No       | Yes        | OR         | AND        |
+| [[Dominance strategy\|DOM]]                              | Ex (S/P) | Independant    | No        | No       | No         | AND[^6]    | AND[^6]    |
+| [[Elimination by Aspect Strategy\|EBA]]                  | ST (S)   | Independant    | Yes       | No       | Yes        | AND[^7]    | OR         |
+| [[Equal Weight Heuristic\|EQW]]                          | Co       | Integrated     | No[^1]    | No       | No[^3]     |            |            |
+| [[Frequency of Good and-or Bad Features Heuristic\|FRQ]] | Co       | Integrated     | No[^1]    | No       | Yes        |            |            |
+| [[Simple Majority Decision rule\|MAJ]]                   | Ex (S/P) | Independant    | No        | No       | No         | OR[^6]     | OR[^6]     |
+| [[Majority of Confirming Dimensions Heuristic\|MCD]]     | Co       | Integrated[^2] | No        | Yes      | No         |            |            |
+| [[Minimum Difference Lexicographic Rule\|MDLR]]          | ST (S)   | Independant    | Yes *     | No       | No         | OR[^9]     | OR[^9]     |
+| [[Lexicographic Heuristic\|LEX]]                         | ST (S)   | Independant    | Yes *     | No       | No         | OR[^8]     | OR[^8]     |
+| [[Satisficing Heuristic\|SAT]]                           | ST (S/P) | Independant    | Partial   | No       | Yes        | AND        | OR         |
+| [[Satisficing-plus Heuristic\|SAT+]]                     | ST (S/P) | Independant    | Partial   | No       | Yes        | OR         | OR         |
+| [[Weighted Additive Rule\|WADD]]                         | Co       | Integrated     | No[^1]    | No       | No[^3]     |            |            |
 
 _There are some noteable differences between Pfeiffer's work and mine, these are marked with as asterisk (*)_
 
