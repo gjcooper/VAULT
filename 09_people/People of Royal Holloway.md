@@ -18,3 +18,6 @@ Nick Furl - Neuroscience and Modelling talk - Furl lab furllab.psychologyresearc
 Ryan McKay - psych of religion
 
 Hirotaka Imada - intergroup cooperation
+
+
+[[Christina Dimitriadou]] - PhD student working with Joe
