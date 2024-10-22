@@ -10,5 +10,3 @@
 * Scott Herbert- Pursuing multiple goals... Interested in the capacity aspect of the talk.
 
 ###### Tags
-
-#dailyNote

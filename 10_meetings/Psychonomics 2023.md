@@ -78,7 +78,7 @@ Along the same lines as Mario's talk from [[CPC2023]], but maybe more focused on
 
 Utility based approach - aka [[Random Utility Model]] or [[Decision field Theory]] vs a heuristic like [[Take the Best|TTB]]
 
-Risky Gamble example, serial is stochastic version of [[TTB]].
+Risky Gamble example, serial is stochastic version of [[Take the Best|TTB]].
 
 ### Attribute Comparibility and Context Effects - [[William Hayes]]
 
