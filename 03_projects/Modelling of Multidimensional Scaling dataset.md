@@ -57,11 +57,6 @@ What happens if different options(phones) were selected.
 
 After Quentin's transformation, will probably need to rescale everyone so that no crazy large numbers are possible so each person fits within the prior.
 
-
-###### Tags
-
-#dailyNote #meeting
-
 ## Additional contexts for [[Multidimensional Scaling Phones|MDS choice task]]
 
 Looking at acquiring a new dataset for the MDS analysis/modelling that I

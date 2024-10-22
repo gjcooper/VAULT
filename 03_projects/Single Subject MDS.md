@@ -1,6 +1,6 @@
 # Notes on Single Subject MDS
 
-Guy's analysis on similaritires/distances for Jess's Honours project seems mistaken, need to chat with Guy about his approach.
+Guy's analysis on similarities/distances for Jess's Honours project seems mistaken, need to chat with Guy about his approach.
 
 analysis-Jess.Rmd seems to show:
 
@@ -30,7 +30,3 @@ dissimilarity <- -log(s/max(s))
 - smacof::sim2diss(method="exp") calls -log(s/max(s)) on this object, with s converted to matrix
 - So order is average across participants -\> normalise -\> distance conversion
 - order of your work is normalise -\> distance conversion -\> average across participants
-
-###### Tags
-
-#dailyNote

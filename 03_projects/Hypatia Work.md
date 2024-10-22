@@ -35,6 +35,32 @@ First things, getting a modularised RL 2-parameters model up and running.
 
 - [[Private companies relevent to HypatiaHealth]]
 
-## Accessing VM
+### Process(es) for working with [[AWS]].
 
-ssh to machine, ubuntu 18.171.136.168
+#### Access using aws-cli
+- Install aws cli tool locally
+- Access using IAM, in the AWS console, create the IAM user.
+    - For the IAM user create an access key (not currently doing external SSO - which is recommended but overkill for now).
+    - Record the Access Key ID, and Access Key Secret (won't be able to retrieve this after the fact.
+    - In `aws configure` use the recorded ID and secret. Currently setting default region to eu-west-2 and the default output to json.
+> [!note]
+> IAM Identity Center seems to be all about setting up identity management by interfacing with external identity providers such as Google Workspace etc. I have not currently done this due to the simple nature of our org at the moment.
+
+
+#### Pushing new [[docker]] images to AWS
+- Register the local docker install with AWS: `aws ecr get-login-password --region eu-west-2 | docker login --username AWS --password-stdin 954976308939.dkr.ecr.eu-west-2.amazonaws.com` - This should only need to be done once.
+- tag the local testing version of the docker image with an AWS specific tag: `docker tag hypatia_health:v0.0.0.9007 954976308939.dkr.ecr.eu-west-2.amazonaws.com/hypatia/backendbeta:v0.0.0.9007`
+- push the new docker image `docker push 954976308939.dkr.ecr.eu-west-2.amazonaws.com/hypatia/backendbeta:v0.0.0.9007`
+
+### Lightsail with ECR
+
+Lightsail is the service to run a VM, ECR is the Elastic Container Registry (Where the docker image/containers are stored)
+
+https://docs.aws.amazon.com/en_us/lightsail/latest/userguide/amazon-lightsail-container-service-ecr-private-repo-access.html
+
+I may want to reconsider the options to not use the Lightsail container stuff as doing it manually may be difficult.
+
+### Register lightsail docker with aws
+
+- `aws configure` add newly generated key id and secret
+-  `docker pull 954976308939.dkr.ecr.eu-west-2.amazonaws.com/hypatia/backendbeta:v0.0.0.9007`
