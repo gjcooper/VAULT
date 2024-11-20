@@ -21,7 +21,7 @@ Wang, Y. (2024). The Categorization of Continuous Attributes. _Journal of Behavi
 
 ## My Thoughts
 
-It just goes to show that you don't need a big complicated experiment with a fancy model to show a novel? effect. Here [[Yusu Wang]]]] runs seven experiments that for the most part each contain a core manipulation, a choice between two options that do not significantly different in the continuous distance between attribute levels, but do differ in the imposed category for each attribute.
+It just goes to show that you don't need a big complicated experiment with a fancy model to show a novel? effect. Here [[Yusu Wang]] runs seven experiments that for the most part each contain a core manipulation, a choice between two options that do not significantly different in the continuous distance between attribute levels, but do differ in the imposed category for each attribute.
 
 By comparing the choices of people assigned to differing groups (which attributes fall into the same/different category) a sense of how the imposed categories effects choice can be inferred across many different contexts, and in the presence of monetary incentives, non-semantic category levels and more.
 

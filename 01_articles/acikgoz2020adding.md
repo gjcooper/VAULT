@@ -16,7 +16,6 @@ Acikgoz, Y. (2020). Adding versus averaging: Evaluability theory applied to job 
 [online](http://zotero.org/users/local/kZl3QdXV/items/47MN34IZ) [local](zotero://select/library/items/47MN34IZ) [pdf](file:///home/gjc216/Zotero/storage/CYNEUASR/bdm.2186.pdf)
  
 
- 
 ### Annotations
 %% begin annotations %%%% end annotations %%
 
@@ -24,9 +23,9 @@ Acikgoz, Y. (2020). Adding versus averaging: Evaluability theory applied to job 
 
 ### High Level Overview
 
-A test of hypotheses that context effects decision strategies in the
+A test of hypotheses that context effects [[decision strategies]] in the
 setting of candidates assessing job offers. The researcher tested
-different job offer evaulations dependant on whether the job offer was
+different job offer evaluations dependant on whether the job offer was
 presented by itself, with another offer as a comparison (joint offer of
 2) and when presented as a set of three (where the third offer could not
 be selected - but influenced the probability of selection between the
@@ -71,7 +70,7 @@ about job offers has obvious links to my methods of applying SFT to
 consumer choices in a discrete choice experiment setting. The context
 (job offers vs product/service purchases) is slightly different, but the
 comparison between multiple options differing along a set of attributes
-falls neatly into the multiattribute choice framework. Some more thought
+falls neatly into the multi-attribute choice framework. Some more thought
 is warranted on how they have come up with the conclusion based on what
 seems to be very limited data.
 
@@ -79,7 +78,7 @@ seems to be very limited data.
 
 ##### Keywords
 
-#subject/decision_making #subject/adding_vs._averaging #subject/evaluability_theory #subject/job_choice
+#subject/decision_making #subject/adding_vs_averaging #subject/evaluability_theory #subject/job_choice
 
 ##### Authors
 

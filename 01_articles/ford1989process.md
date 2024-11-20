@@ -13,17 +13,20 @@ aliases:
 # Process tracing methods: Contributions, problems, and neglected research questions
 
 Ford, J. K., Schmitt, N., Schechtman, S. L., Hults, B. M., & Doherty, M. L. (1989). Process tracing methods: Contributions, problems, and neglected research questions. _Organizational Behavior and Human Decision Processes_, _43_(1), 75–117. [https://doi.org/10.1016/0749-5978(89)90059-9](https://doi.org/10.1016/0749-5978(89)90059-9)
-[online](http://zotero.org/users/local/kZl3QdXV/items/BQ52KIVB) [local](zotero://select/library/items/BQ52KIVB) [pdf](file:///home/gjc216/Zotero/storage/VQSJ2MRU/Ford%20et%20al.%20-%201989%20-%20Process%20tracing%20methods%20Contributions,%20problems,%20.pdf)
+[online](http://zotero.org/users/7162438/items/BQ52KIVB) [local](zotero://select/library/items/BQ52KIVB) [pdf](file:///home/gjc216/Zotero/storage/VQSJ2MRU/Ford%20et%20al.%20-%201989%20-%20Process%20tracing%20methods%20Contributions,%20problems,%20.pdf)
  
 
-
 ## My Thoughts
+%% begin notes %%
 
 This is a great, yet old, summary of the growing field of process tracing research into multi-attribute decision making.
 
 Some important points highlighted below show that in Ford's opinion, too much process tracing research looks only at [[compensatory]] vs [[non-compensatory]] processing. Also mentioned is the focus in [[process tracing]] at the pre-decisional behaviour.
 
 I think this provides some good motivation for a lot of my work, I just wonder whether there is any newer reviews of similar nature.
+ 
+%% end notes %%
+
 ### Annotations
 
 %% begin annotations %%
@@ -59,6 +62,10 @@ I think this provides some good motivation for a lot of my work, I just wonder w
 >[!quote|#2ea8e5]
 >Monetary issues were rarely incorporated into the studies and for most studies the decisions appear to be mainly under self-imposedpressures of the decision maker to complete the experiment as quickly as possible [(p. 111)](zotero://open-pdf/library/items/VQSJ2MRU?page=111&annotation=MBCXL3IG)
 
+---##### Imported on 2024-11-01 10:54 pm
+>[!quote|#ff6666]
+>Decision strategies. In the decision making literature, the two major categories of decision strategies are compensatory (often labeled linear) and noncompensatory (nonlinear). Specific strategies identified for coding included linear (LN) and additive difference (AD) models which represent compensatory strategies and conjunctive, lexicographic, and elimination by aspects (EBA) models which represent noncompensatory strategy use. [(p. 81)](zotero://open-pdf/library/items/VQSJ2MRU?page=81&annotation=MU9QXLDX)
+
 ---%% end annotations %%
 
 ## Item Notes
@@ -67,13 +74,15 @@ I think this provides some good motivation for a lot of my work, I just wonder w
 
 ##### Keywords
 
+
+
 ##### Authors
 
-#author/ford_j.kevin #author/schmitt_neal #author/schechtman_susan_l #author/hults_brian_m #author/doherty_mary_l
+[[J.Kevin Ford]] [[Neal Schmitt]] [[Susan L Schechtman]] [[Brian M Hults]] [[Mary L Doherty]]
 
 ##### Publication
 
 #pub/organizational_behavior_and_human_decision_processes
 
 
-%% Import Date: 2023-10-06T16:18:59.064+11:00 %%
+%% Import Date: 2024-11-01T22:55:00.404+11:00 %%

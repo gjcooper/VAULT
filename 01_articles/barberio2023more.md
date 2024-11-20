@@ -44,7 +44,7 @@ Barberio, A. C., & Cohen, D. J. (2023). _More is not always better: The Psycholo
 
 ---
 >[!quote|#f19837]
->Here, we estimate the Psychological Value of the groups using each of the three grouping models (Summing, Averaging, and Biased Averaging). [(p. 30)](zotero://open-pdf/library/items/5PPZBHJA?page=30&annotation=KWJHYDCC)
+>Here, we estimate the [[Psychological Value]] of the groups using each of the three grouping models (Summing, Averaging, and Biased Averaging). [(p. 30)](zotero://open-pdf/library/items/5PPZBHJA?page=30&annotation=KWJHYDCC)
 
 ---
 >[!quote|#e56eee]
