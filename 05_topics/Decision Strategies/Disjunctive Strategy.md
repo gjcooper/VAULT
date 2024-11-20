@@ -1,6 +1,6 @@
 # Disjunctive Strategy
 
-Another elimination strategy proposed by [Coombs and Kao (1955)](#coombs55), this strategy complements the conjunctive strategy as the decision maker will eliminate an alternative if all of its attribute values do not meet their respective aspiration level.
+Another elimination strategy proposed by [Coombs and Kao (1955)](#coombs55), this strategy complements the conjunctive strategy as the decision maker will eliminate an alternative if all of its attribute values do not meet their respective [[aspiration level]].
 
 $$
 \sum_{i=1}^m \mathit{asp}(a_{ij}) = m

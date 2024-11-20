@@ -5,7 +5,7 @@ aliases:
 
 # Majority of Confirming Dimensions Heuristic
 
-Also a pairwise decision strategy, however utility values are not
+Also a pairwise decision strategy, however [[utility]] values are not
 assigned, rather the decision maker decides whether they prefer
 $a_{ik}$ over $a_{il}$. The difference between two alternatives is
 the sum of the number of "wins" for all attributes (the winning

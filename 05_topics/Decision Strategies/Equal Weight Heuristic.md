@@ -14,7 +14,7 @@ and named as the *Equal Weight Heuristic* by [Einhorn and Hogharth in 1981](#ein
 weighting rule* in [Thorngate (1980)](#thorngate80).
 
 Highest utility determines selected alternative. Each attribute is
-assumed to be of equal importance to decision makers, thus utility is
+assumed to be of equal importance to decision makers, thus [[utility]] is
 sum of all attribute values:
 
 $$

@@ -40,6 +40,26 @@
 | [[Satisficing-plus Heuristic\|SAT+]]                     | ST (S/P) | Independant    | Partial   | No       | Yes        | OR         | OR         |
 | [[Weighted Additive Rule\|WADD]]                         | Co       | Integrated     | No[^1]    | No       | No[^3]     |            |            |
 
+## Ordered by Thesis Introduction
+
+| Strategy                                        | Completeness | Trade-offs       | Aspiration | Information Search |
+|-------------------------------------------------|--------------|------------------|------------|--------------------|
+| Equal Weight Heuristic                          | Complete     | Compensatory     | No         | Alternative-wise   |
+| Weighted Additive Rule                          | Complete     | Compensatory     | No         | Alternative-wise   |
+| Additive Difference Strategy                    | Complete     | Compensatory     | No         | Attribute-wise     |
+| Frequency of Good and-or Bad Features Heuristic | Complete     | Compensatory     | Yes        | Alternative-wise   |
+| Majority of Confirming Dimensions Heuristic     | Complete     | Compensatory     | No         | Attribute-wise     |
+| Compatibility Test                              | Selective    | Non-compensatory | Yes        | Alternative-wise   |
+| Conjunctive Strategy                            | Selective    | Non-compensatory | Yes        | Alternative-wise   |
+| Satisficing Heuristic                           | Selective    | Non-compensatory | Yes        | Alternative-wise   |
+| Satisficing-plus Heuristic                      | Selective    | Non-compensatory | Yes        | Alternative-wise   |
+| Disjunctive Strategy                            | Complete     | Non-compensatory | Yes        | Alternative-wise   |
+| Dominance strategy                              | Complete     | Non-compensatory | No         | Attribute-wise     |
+| Simple Majority Decision rule                   | Complete     | Non-compensatory | No         | Attribute-wise     |
+| Elimination by Aspect Strategy                  | Selective    | Non-compensatory | Yes        | Attribute-wise     |
+| Lexicographic Heuristic                         | Selective    | Non-compensatory | No         | Attribute-wise     |
+| Minimum Difference Lexicographic Rule           | Selective    | Non-compensatory | No         | Attribute-wise     |
+
 _There are some noteable differences between Pfeiffer's work and mine, these are marked with as asterisk (*)_
 
 ## Notes

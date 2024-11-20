@@ -11,4 +11,4 @@ $$
 \mathit{max}_{j = 1..n} v_h(a_{hj})
 $$
 
-If more than one alternative is selected (say two or more alternatives are equivalent on the most important attribute) then the remaining attributes are iteratively considered until there is only one alternative left.
+If more than one alternative is selected (say two or more alternatives are equivalent on the most important attribute) then the remaining attributes are iteratively considered until there is only one alternative left. (Uses [[attribute value]] directly)
