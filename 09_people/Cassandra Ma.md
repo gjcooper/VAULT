@@ -1,0 +1,1 @@
+Student? at the School of Psychology at the [[University of New South Wales]] who works with animal models and conditioned punishment (cortical-striatal mechanisms for such)
