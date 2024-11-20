@@ -21,3 +21,9 @@ or, for X-11 forwarding
 ```bash
 ssh -AXt gjc216@jumpgate.newcastle.edu.au ssh -X sri16132
 ```
+
+# Keyboard to US/GB
+
+`xinput` to get current device ID's etc
+`setxkbmap -device 16 -layout us` to set device 16 to US layout
+`setxkbmap -device 14 -layout gb` to set device 14 to GB layout
