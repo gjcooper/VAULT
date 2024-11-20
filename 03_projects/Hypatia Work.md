@@ -64,3 +64,12 @@ I may want to reconsider the options to not use the Lightsail container stuff as
 
 - `aws configure` add newly generated key id and secret
 -  `docker pull 954976308939.dkr.ecr.eu-west-2.amazonaws.com/hypatia/backendbeta:v0.0.0.9007`
+
+
+Article for docker/certbot: https://mindsers.blog/en/post/https-using-nginx-certbot-docker/
+
+
+Needs to be run every 3ish months?
+```bash
+docker compose run --rm certbot renew
+```

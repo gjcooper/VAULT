@@ -20,7 +20,7 @@ $$
 d_{ij} = \left[\sum_{m=1}^Mw_m|x_{im} - x_{jm}|^r\right]^{1/r}
 $$
 
-however here we set the anchor, or the exemplar being checked against to be the most likely to be rejected, or the highest price/lowest quality option - set to (0,0). This makes our distance expression for option $a$
+however here we set the anchor, or the exemplar being checked against to be the most likely to be rejected, or the highest price/lowest quality option - set to (0,0). This makes **our** distance expression for option $a$
 
 $$
 d_{a} = \left[\sum_{m = 1}^Mw_m.x_{am}^r\right]^{1/r}
