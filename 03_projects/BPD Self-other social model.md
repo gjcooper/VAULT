@@ -5,7 +5,7 @@
 - What is a [[Fehr-Schmoidt utility function]]?
 - How does the [[Hierarchical Bayesian Inference algorithm]] work? See the paper in Zotero.
 - What does it mean to centre and scale dependent regressors?
-- What does exceedance probability mean and what does Model responsibility mean.
+- What does [[exceedance probability]] mean and what does [[Model responsibility]] mean.
 
 ### Thoughts
 
