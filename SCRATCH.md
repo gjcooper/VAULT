@@ -10,3 +10,5 @@ For th two option case does the _difference_ in attribute levels predict choice
 ## shower thoughts
 
 Should we add win-stay lose-shift outputs to displays?
+
+KL-divergence between distributions feed into drift rate DDM and social cognition
