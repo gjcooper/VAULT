@@ -1,0 +1,1 @@
+ A journal very much in the tradition of my PhD looking at understanding psychological phenomena using mathematical methods. This could range from [[cognitive modelling]] through to advanced [[statistical modelling]] or more.

@@ -1,0 +1,1 @@
+Headed by [[Patrick McGorry]], this is a combined organisation that supports research in mental health, provides a youth mental health support facility in Victoria and education/training arms as well.
