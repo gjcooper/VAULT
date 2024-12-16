@@ -1,0 +1,2 @@
+
+From the School of Clinical Medicine at [[University of New South Wales]] looking at polygenic scores associated with schizophrenia and cognitive function. Worked with [[Yann Quidé]] and [[Melissa Green]]. Had a poster titled: [[Insights from BPA2024 posters#Polygenic Contributions to Cognitive Dysfunction in Schizophrenia and Bipolar Disorder]].

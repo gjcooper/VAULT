@@ -1,0 +1,1 @@
+Working at [[UNSW]] and was involved in a poster by [[Megan Man]] on polygenic scores and cognitive function. Known from my work at [[Schizophrenia Research Institute|SRI]].

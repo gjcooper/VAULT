@@ -1,0 +1,1 @@
+From the School of Psychology at the [[University of New South Wales]], Saw their work at the [[BPA 2024 Conference]]. Had a poster called [[Insights from BPA2024 posters#Understanding persistent detrimental behaviour External and predictive validity of a novel experimental paradigm]]

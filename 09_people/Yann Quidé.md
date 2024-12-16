@@ -1,0 +1,1 @@
+From the Neurorecovery research hub at [[UNSW]] and the Centre for Pain IMPACT at [[Neuroscience Research Australia]] and worked with [[Megan Man]] on her BPA poster. Has a loose association with me through the [[schizophrenia]] work I did, specifically the work on the combat paper and the schizophrenia research bank.
