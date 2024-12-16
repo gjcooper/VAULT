@@ -8,7 +8,7 @@ For theirs I have been reading some work by Le Pelley et al such as the [[lepell
 
 Dear Colleagues,
 
-We have two Postdoctoral Research positions available in the School of Psychology, UNSW Sydney. The roles are for 3 years, full time, based in Sydney.
+We have two Postdoctoral Research positions available in the School of Psychology, [[University of New South Wales|UNSW]] Sydney. The roles are for 3 years, full time, based in Sydney.
 
 The Research Associate will play a key role in conducting research within a three-year project titled "Building overall cognitive capability through attentional control". The UNSW branch of this project will investigate the cognitive processes underlying adaptive attentional control for optimal task performance and will involve experiments which combine behavioural tasks with eye-tracking and electroencephalography (EEG), coupled with computational modelling of brain and behaviour.
 
