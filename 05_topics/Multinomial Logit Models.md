@@ -1,3 +1,8 @@
+---
+aliases:
+    - MNL
+---
+
 # Notes on Multinomial Logit models
 
 The Multinomial logit model is a special case of the [[Random Utility Model|RUM]]

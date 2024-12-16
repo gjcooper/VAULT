@@ -1,0 +1,3 @@
+A two stage learning task where the first stage selects the second stage. (In displayed image a green or blue rocket) predicts either a red monster or purple monster second stage with either 70:30 or 30:70 probability.
+
+In the second stage it appears there are two distinct monster images, each of which are linked to a separate [[reinforcement learning]] task, specifically a random-walk reinforcement learning task.
