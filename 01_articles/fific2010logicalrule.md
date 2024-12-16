@@ -23,7 +23,7 @@ A synthesis of ideas from [[Systems Factorial Technology]], exemplar-based [[Cat
 
 I like the approach of determining some qualititative predictions of the models, and then assessing those predictions in the light on data that has been acquired.
 
-One point of difference and the approaches I have been looking at with say the models of processing in my veridical modelling ([[Architecture of MultiAttribute Choice|veridical choice modelling paper]]), or the exemplar models of consumer choice ([[Exemplar-based consumer choice model|EB-CCM]]) is that there are _few_ people, with multiple long sessions of data acquisition per person. My methods have been tailored more tyowards a single shorter session, with more people, and then using [[hierarchical modelling]] approaches to leverage responses from multiple people in order to getmore signal to noise, but not miss too much individual variation.
+One point of difference and the approaches I have been looking at with say the models of processing in my veridical modelling ([[Architecture of MultiAttribute Choice|veridical choice modelling paper]]), or the exemplar models of consumer choice ([[Exemplar-based consumer choice model|EB-CCM]]) is that there are _few_ people, with multiple long sessions of data acquisition per person. My methods have been tailored more towards a single shorter session, with more people, and then using [[hierarchical modelling]] approaches to leverage responses from multiple people in order to get more signal to noise, but not miss too much individual variation.
 ### Annotations
 
 %% begin annotations %%

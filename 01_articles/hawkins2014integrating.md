@@ -60,28 +60,8 @@ A [[parallel model]] was proposed that assumes *concurrent* best and worst races
 
 ##### Note added on 2022-07-20 10:23 am
 
-**From Duplicate 1 (_Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences_ - Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-**From Duplicate 2 (_Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences_ - Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-**From Duplicate 1 (_Integrating cognitive process and descriptive models of attitudes and preferences_ - Hawkins, Guy E.; Marley, A. A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-Please see attached for the paper I mentioned about [[Linear Ballistic Accumulator|LBA]]s and MNLs during our meeting. The upper rows of Figures 3 and 4 show the strength of the relationship between MNL utility parameters and LBA log drift rates.  
+Please see attached for the paper I mentioned about [[Linear Ballistic Accumulator|LBA]]s and MNLs during our meeting. The upper rows of Figures 3 and 4 show the strength of the relationship between [[Multinomial Logit Models|MNL]] utility parameters and [[Linear Ballistic Accumulator|LBA]] log drift rates.  
   
-**From Duplicate 2 (_Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences_ - Hawkins, Guy E.; Marley, A.A.J. A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-**From Duplicate 1 (_Integrating cognitive process and descriptive models of attitudes and preferences_ - Hawkins, Guy E.; Marley, A. A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-Please see attached for the paper I mentioned about LBAs and MNLs during our meeting. The upper rows of Figures 3 and 4 show the strength of the relationship between MNL utility parameters and LBA log drift rates.  
-  
-**From Duplicate 2 (_Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences_ - Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-**From Duplicate 2 (_Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences_ - Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-**From Duplicate 1 (_Integrating cognitive process and descriptive models of attitudes and preferences_ - Hawkins, Guy E.; Marley, A. A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.)  
-**  
-Please see attached for the paper I mentioned about LBAs and MNLs during our meeting. The upper rows of Figures 3 and 4 show the strength of the relationship between MNL utility parameters and LBA log drift rates.
-
 #### Tags
 
 ##### Keywords

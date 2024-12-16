@@ -66,11 +66,9 @@ chapter.
 
 ##### Authors
 
-#author/pfeiffer_jella
+[[Jella Pfeiffer]]
 
 ##### Publication
-
-
 
 
 %% Import Date: 2023-07-10T15:12:33.837+10:00 %%
