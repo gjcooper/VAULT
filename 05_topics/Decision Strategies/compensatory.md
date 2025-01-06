@@ -1,0 +1,1 @@
+Compensatory [[decision strategies]] are those where a decision maker will allow a good attribute or feature to compensate for a "bad" attribute. Strategies that fall under this category are ones such as [[Equal Weight Heuristic]] or the [[Weighted Additive Rule]]. For a full list the page [[assumptions for decision strategies]] has a list of all compensatory decision strategies.

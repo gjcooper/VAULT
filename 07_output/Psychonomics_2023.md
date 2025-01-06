@@ -21,7 +21,7 @@ Take the model inspired by the [[generalised context model]] (See [[nosofsky2011
 ## Background
 Understanding how the specific features of an option presented to a consumer influence their final choice has been the goal of much research across the fields of economics and psychology.
 ## Justification
-Much of the choice modelling literature makes an assumption that the psychological representation of the attribute values is synonymous with the attribute values themselves. Particularly the standard random utility models in use in much of the literature avoid any inference on the internal representations of these values. In this work we draw on a *multidimensional scaling* approach to view options as points in a multidimensional psychological space, with similar options taken as points close to each other, and dissimilar options further away.
+Much of the choice modelling literature makes an assumption that the psychological representation of the attribute values is synonymous with the attribute values themselves. Particularly the standard random utility models in use in much of the literature avoid any inference on the internal representations of these values. In this work we draw on a *[[multidimensional scaling]]* approach to view options as points in a multidimensional psychological space, with similar options taken as points close to each other, and dissimilar options further away.
 
 ## Major Finding
 An initial implementation of this approach in a veridical task designed to elicit selective influence has shown that the method is sensitive to different decision strategies. Further implementations in an analogous preferential task have also shown promise for determining individual participants decision strategies.
