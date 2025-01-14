@@ -10,7 +10,7 @@ Taking inspiration from the [[Generalised Context Model]]  the first iteration o
 
 Outlined roughly the approach is to set the exemplar to be (0, 0), that is price anchored to $max and quality or rating anchored to 0% or 0 stars. Then each individual option is "compared" to this anchor, and the GCM uses modelling to tease apart the:
 * $w$ -  "weight" given to each attribute
-* $r$ - "distance" metric form
+* $r$ - "distance" metric form (curvature)
 * $s$ - "sensitivity" to distances in attribute space, and
 * $\delta$ - the choice "offset" relative to the anchor
 
@@ -26,6 +26,7 @@ $$
 d_{a} = \left[\sum_{m = 1}^Mw_m.x_{am}^r\right]^{1/r}
 $$
 
+One note here is that the [[AMADM]] model (Adaptive Multi-Attribute Decision Model (AMADM)) does not use the distance metric as defined for a [[Minkowski distance metric]], instead it allows r to vary freely as long as it is positive ($r > 0$). This means that it does not satisfy the triangle inequality, thus making it a [[quasi-metric]].
 ## Response Probability
 
 Given current estimates for $w$, $r$, $s$ and $\delta$, the probability of an accept response is
