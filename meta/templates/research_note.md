@@ -35,6 +35,14 @@ aliases:
 ##### Imported on {{importDate | format("YYYY-MM-DD h:mm a")}}
 
 {%- for annotation in annotations %}
+{%- if annotation.type === "underline" %}
+>[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}]
+>{% if annotation.annotatedText %}{{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}
+{%- if annotation.comment%}
+
+>[!note]
+>{{annotation.comment}}{%- endif %}
+{%- endif -%}
 {%- if annotation.type === "highlight" %}
 >[!quote{% if annotation.color %}|{{annotation.color}}{% endif %}]
 >{% if annotation.annotatedText %}{{annotation.annotatedText}} [(p. {{annotation.pageLabel}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}}){%- endif %}
