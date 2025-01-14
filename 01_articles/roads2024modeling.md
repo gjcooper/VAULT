@@ -66,7 +66,6 @@ Of particular note are two work by [[Bradley C. Love]] and colleagues on the use
 
 ##### Keywords
 
-#subject/priority1
 
 ##### Authors
 

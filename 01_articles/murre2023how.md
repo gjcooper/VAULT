@@ -45,11 +45,12 @@ A nice mathematical illustration of the problems when averaging over individuals
 
 ##### Authors
 
-#author/murre_jaap_m._j.
+[[Japp M. J. Murre]]
+
 
 ##### Publication
 
-#pub/journal_of_mathematical_psychology
+[[Journal of Mathematical Psychology]]
 
 
 %% Import Date: 2024-01-23T15:12:08.074+11:00 %%
