@@ -69,7 +69,18 @@ I may want to reconsider the options to not use the Lightsail container stuff as
 Article for docker/certbot: https://mindsers.blog/en/post/https-using-nginx-certbot-docker/
 
 
+
 Needs to be run every 3ish months?
 ```bash
 docker compose run --rm certbot renew
 ```
+
+## New processes
+
+For **dev** build hypatiahealth using devtools::build(), after bumping version if necessary. Then a docker compose build followed by `docker compose push`. Note that if it has been a while and the SECRET KEY for aws has been rotated then it may be necessary to rerun `aws configure` and put in new keys. The `aws ecr` step from above will also be necessary.
+
+Then log onto the dev server and do the following:
+- If access key expired redo `aws configure` and `aws ecr` step.
+- `VERSION="0.0.1.9005" docker compose pull`
+- pull latest changes via github, rebase dev version nginx settings
+- `VERSION="0.0.1.9005" docker compose up -d`

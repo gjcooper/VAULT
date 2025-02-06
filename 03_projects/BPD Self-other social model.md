@@ -13,4 +13,6 @@
 - In the Intentions Game, partners in phase 2 were chosen to act ~ 50% different from the participant in phase 1. What does 50% different mean in this case?
 - In healthy controls the best fitting model for them was one that _allows_ for social insertion and social contagion. What is the level of variation in these two parameters across the population? If you fit the same model on BPD what amount of variation do you see there?
 
-Instead of the value difference driving reaction time, rather how KL-divergence over time 
+### Extension to the model to capture response time
+
+[[Joseph Barnby]] has proposed an extension to the model that will incorporate evidence accumulation models to capture response times. More details can be found in the [[Bayesian-Belief response time model]]
