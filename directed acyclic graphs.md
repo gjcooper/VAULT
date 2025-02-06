@@ -1,0 +1,1 @@
+Directional, no loops connected graph.
