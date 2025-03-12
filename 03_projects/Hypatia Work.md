@@ -16,7 +16,7 @@ Tools to use:
 - [Fly](https://fly.io/) and [Render](https://fly.io/) for renting virtual machine? Led by Damien...
 - [Valve](https://valve.josiahparry.com/) looks promising as a way to distribute Plumber API calls over multiple processes.
 
-
+https://www.figma.com
 # Initial Plans
 
 First things, getting a modularised RL 2-parameters model up and running.
@@ -83,4 +83,3 @@ Then log onto the dev server and do the following:
 - If access key expired redo `aws configure` and `aws ecr` step.
 - `VERSION="0.0.1.9005" docker compose pull`
 - pull latest changes via github, rebase dev version nginx settings
-- `VERSION="0.0.1.9005" docker compose up -d`

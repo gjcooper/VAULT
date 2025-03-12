@@ -64,3 +64,9 @@ where $d_a$ and $d_b$ are the distances of options $a$ and $b$ from the anchor p
 #### Thought for the day
 
 I wonder whether for [[Exemplar-based consumer choice model|EB-CCM]], or other preferential data, a scatter plot (or similar) of price/memory, price/rating on the x/y axes, and then colour representing the RT could elucidate the pattern I would expect of more "difficult" choices (closer to a participants "boundary" being slower)?
+
+## AMPC2025
+
+#### Q-learning model
+
+Missing data in a reinforcement learning task is ignored. A [[Shared Parameter Model]] (used in longitudinal data) is combined with a [[Q-learning]] model to account for missing data. - See photo for model. Schaaf et al (2024)
