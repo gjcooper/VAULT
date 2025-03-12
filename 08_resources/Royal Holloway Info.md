@@ -24,3 +24,5 @@ Superannuation company is [USS](https://www.uss.co.uk/)
 front-end link: https://hypatia-app-beta-frontend.vercel.app/
 
 Note: for jealousy survey I participated in my unique ID is: roughhousing4us
+
+I work on the [[Hypatia Work|Hypatia Health Beta app]] and the [[Bayesian-Belief response time model]], which extends the [[BPD Self-other social model]]
