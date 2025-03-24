@@ -1,13 +1,13 @@
 ---
 cssclass: research_note
-type: "journalArticle"
-author: "Klahr, David"
+type: journalArticle
+author: Klahr, David
 title: "Decision Making in a Complex Environment: The Use of Similarity Judgements to Predict Preferences"
-publication: "Management Science"
+publication: Management Science
 date: 1969-01-01
 citekey: klahr1969decision
-aliases: 
-    - "Decision Making in a Complex Environment: The Use of Similarity Judgements to Predict Preferences"
+aliases:
+  - "Decision Making in a Complex Environment: The Use of Similarity Judgements to Predict Preferences"
 ---
 
 # Decision Making in a Complex Environment: The Use of Similarity Judgements to Predict Preferences
@@ -89,3 +89,4 @@ More recent work of mine, like the [[Exemplar-based consumer choice model|EB-CCM
 
 
 %% Import Date: 2023-08-30T11:58:49.540+10:00 %%
+
