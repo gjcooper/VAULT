@@ -65,8 +65,15 @@ where $d_a$ and $d_b$ are the distances of options $a$ and $b$ from the anchor p
 
 I wonder whether for [[Exemplar-based consumer choice model|EB-CCM]], or other preferential data, a scatter plot (or similar) of price/memory, price/rating on the x/y axes, and then colour representing the RT could elucidate the pattern I would expect of more "difficult" choices (closer to a participants "boundary" being slower)?
 
-## AMPC2025
+## Trial by trial predictions
 
-#### Q-learning model
+In the [[Exemplar-based consumer choice model|GCM inspired analysis]] trial by trial predictions, it would be interesting to know (especially where the logistic regression (LR) analysis wins) where the wins predominate. For instance if my model predicts trials 75% correctly and the conjunctive method predicts 80% correctly, does the model [[AMADM]] evenly split its misses vs the LR conjunctive being completely correct on accept but missing majority of rejects?
 
-Missing data in a reinforcement learning task is ignored. A [[Shared Parameter Model]] (used in longitudinal data) is combined with a [[Q-learning]] model to account for missing data. - See photo for model. Schaaf et al (2024)
+- Roger Shepard universal law generalisation. 
+- Hendrickson et al 2019. Categorisation and generalisation.
+
+## From meeting 20-08-03 (YMD)
+
+Shepard 89' about exponential decay as function for similarity to psychological distance
+
+LME4 - log scale for RT to reduce skew - fulfill assumptions of lme
