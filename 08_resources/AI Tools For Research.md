@@ -1,0 +1,4 @@
+- https://notebooklm.google/
+- https://elicit.com
+- https://www.storkapp.me/ 
+- https://scite.ai/
