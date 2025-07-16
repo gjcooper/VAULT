@@ -10,7 +10,7 @@ One of the final people - [[Bartosz Gula]], mentioned that I should look at mult
 
 A grad student- I think [[Mercury Mason]] - mentioned that other approaches tro categorisation have shown promise in multi-attribute choice - in particular the [[prototype theory]] model of categorisation. He also pointed towards [[Peter Juslin]]'s work on categorisation approaches to multi-attribute.
 
-Perhaps the same person also mentioned [[René Riedl]] as someone who has investigated decision strategies using process tracing, searching for him found https://link.springer.com/article/10.3758/BRM.40.3.795, but also some other work to quickly look at like: https://link.springer.com/chapter/10.1007/978-3-319-10963-3_24
+Perhaps the same person also mentioned [[René Riedl]] as someone who has investigated decision strategies using [[process tracing]], searching for him found https://link.springer.com/article/10.3758/BRM.40.3.795, but also some other work to quickly look at like: https://link.springer.com/chapter/10.1007/978-3-319-10963-3_24
 
 ## Day 2
 
