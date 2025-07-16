@@ -131,3 +131,8 @@ With respect to violations of a persons representation of others. Given a model 
 ## Choice after offset of visual stimulus
 
 A lot of attention based preferential choice literature has a hypothesis that increased attention leads to > preferences and higher likelihood of choosing. There are some (see [[bhatnagar2022metaanalysis]]) conflations here between overall fixation time and last fixation. What if we instructed participants to only respond after the offset of the visual stimulus? That is last fixation is on a "Respond now" message. You may get memory effects, you could vary the offset time, or even have it triggered by fixations on specific targets. Nope - reading on it seems this has already been done
+
+
+# Trialwise parameter estimates
+
+What would happen if we first estimate a parameter distribution (using a Bayesian MCMC technique) for a participant and then estimated a trial specific parameter estimate. That is either by repreatedly sampling from the posterior for each trial, or by sampling from a normal centred on the median of the posterior in some sort of importance sampling way. For large experiments this could be extremely prohibitive - but perhaps this could be possible. I'm thinking of possible links to Guy/Scotts modelling where the parameters are assumed to come from 2+ separate distributions with a defined switch between each of the distributions.

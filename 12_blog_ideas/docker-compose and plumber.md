@@ -1,6 +1,6 @@
 # Setting up nginx, plumber and letsencrypt
 
-Folloing the advice of https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose and trying to update it for specific [[Hypatia Work]] stuff, so plumber instead of nodejs etc.
+Folloing the advice of https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose and trying to update it for specific [[Hypatia Health]] stuff, so plumber instead of nodejs etc.
 
 ## Editing the dockerfile for the plumber app
 
