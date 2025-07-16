@@ -9,4 +9,4 @@ $$ p(A_t=a) = \frac{e^{\frac{Q^t_a}{\beta}}}{\sum_{a'\in{A}}e^{\frac{Q^t_{c'}}{\
 
 That is the probability of taking action $a$ is calculated using the softmax function with a temperature of $\beta$.
 
-In the case of the simple 2-parameter reinforcement learning model for the start of the [[Hypatia Work]], we set $\gamma = 0$ , that is our agent (participant) is assumed to only focus on immediate rewards.
+In the case of the simple 2-parameter reinforcement learning model for the start of the [[Hypatia Health]], we set $\gamma = 0$ , that is our agent (participant) is assumed to only focus on immediate rewards.
