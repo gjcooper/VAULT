@@ -1,7 +1,7 @@
 
 ## Notes from Alex
 
-Some notes from my meeting with Alex in relation to the [[Hypatia Work]].
+Some notes from my meeting with Alex in relation to the [[Hypatia Health]].
 
 - Variational Bayes easily done in stan when have the model written. Much faster, but no guarantee of model converence like MCMC.
 - CmdStanR executables created that are interfaced with R, rather than within R
