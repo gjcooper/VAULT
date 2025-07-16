@@ -53,7 +53,10 @@ First things, getting a modularised RL 2-parameters model up and running.
 - push the new docker image `docker push 954976308939.dkr.ecr.eu-west-2.amazonaws.com/hypatia/backendbeta:v0.0.0.9007`
 
 ### Lightsail with ECR
+For 3
 
+    00000000
+​￼
 Lightsail is the service to run a VM, ECR is the Elastic Container Registry (Where the docker image/containers are stored)
 
 https://docs.aws.amazon.com/en_us/lightsail/latest/userguide/amazon-lightsail-container-service-ecr-private-repo-access.html
@@ -83,3 +86,18 @@ Then log onto the dev server and do the following:
 - If access key expired redo `aws configure` and `aws ecr` step.
 - `VERSION="0.0.1.9005" docker compose pull`
 - pull latest changes via github, rebase dev version nginx settings
+
+## Thoughts from readings
+
+I was just reading the paper [[eckstein2022reinforcement|Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal]] where an interesting point was made that could bear some thinking about. In particular assessing someones cognitive processes could be better related not just to the actual cognitive parameters for a specific model (matched to a specific task), but instead to an overall adaptability of an individual to specific task demands, thus being able to set internal cognitive processes to different tasks in a more optimal (or otherwise) fashion.
+
+I wonder if this could have an application here in the domain of psychiatric conditions.
+
+## Ideas
+
+- Should we add win-stay lose-shift outputs to displays?
+## Hypatia future notes
+
+Sayidda lived experience
+
+project coordinator, ux, front end backend based in WA.
