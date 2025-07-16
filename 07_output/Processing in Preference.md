@@ -4,7 +4,7 @@ Individual differences for attribute processing in preferential choice
 
 Much of attribute and option processing for preferential multiattribute choices has relied in aggregate measures.
 
-When looking at individual differences between approaches one method used has been process tracing, typically using eye tracking, mouse movements or the order of revealed information
+When looking at individual differences between approaches one method used has been [[process tracing]], typically using eye tracking, mouse movements or the order of revealed information
 
 These methods suffer from artificial restrictions on the processing (obscuring information) or situations (eye tracking is expensive).
 

@@ -5,6 +5,13 @@
     - The current work on logistic regression coparisons for the model estimate the [[logistic regression]] independently for each attribute and then combine the cut points (thresholds) into decision rules like [[Conjunctive Strategy]], [[Disjunctive Strategy]] and [[Frequency of Good and-or Bad Features Heuristic]]. If instead I estimate the regression on both attributes at the same time, with an additional interaction term then perhaps we can compare participants interaction effect terms with the curvature terms of my model. Subsets of people (especially in the preference task) that show different patterns of predicted behaviour should exhibit different curvature and matching regression interaction terms. (This would be similar to a [[Random Utility Model]] approach)
     - Another avenue to investigate could be to link this work to the [[context effects]] work in decision making. If we take estimated parameters from the two-option choices in the third task and simulate responses to options designed to elicit context effects (attraction etc) do we see predicted behaviour matcging those same context effects as a natural consequence of the [[AMADM]] model?
 
+### Other paper notes
+
+Descriptive/statistical analysis for studies 1 and 3, did the manipulation work? In the HH/LL cells did they accept more than in distractor cells? Maybe instead of 3x3 ANOVA use something like an attribute specific logistic regression
+
+For the two option case does the _difference_ in attribute levels predict choice
+
 ## A more recent discussion
 
 Recently I discussed with Guy the possibility of splitting the third content chapter into two papers. The current working titles of each are [[amadm-as-categorisation]] which takes the first two experiment from the content chapter and writes it up for [[Psychonomic Bulletin & Review|PB&R]] with a categorisation focus. The second would take this framework of [[AMADM]] and extend it into an [[amadm-as-decisions]] direction - moving from single option to binary option choice. I'm not sure yet what the venue could be for that - perhaps a JDM style outlet.
+
