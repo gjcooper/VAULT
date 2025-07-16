@@ -19,7 +19,7 @@ Rieskamp, J., & Hoffrage, U. (2008). Inferences under time pressure: How opportu
 
 Looked at a range on possible [[compensatory]] and [[non-compensatory]] strategies using both [[process tracing]] ([[information boards]]) and [[outcome-based]] measures. This combination of the two approaches is often called for but rarely implemented. Results showed a strong preferences for [[Lexicographic Heuristic|LEX]], especially as time pressures increase (compared to the other main strategy, [[Weighted Additive Rule|WADD]])
 
-I have issues with the process tracing method in use here, and the outcome based measure used is not clear to me.
+I have issues with the [[process tracing]] method in use here, and the outcome based measure used is not clear to me.
  
 ### Annotations
 

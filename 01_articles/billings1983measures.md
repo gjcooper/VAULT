@@ -10,7 +10,7 @@ aliases:
     - "Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing"
 ---
 
-# Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing
+# Measures of compensatory and noncompensatory models of decision behavior: [[process tracing]] versus policy capturing
 
 Billings, R. S., & Marcus, S. A. (1983). Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing. _Organizational Behavior and Human Performance_, _31_(3), 331–352. [https://doi.org/10.1016/0030-5073(83)90129-0](https://doi.org/10.1016/0030-5073(83)90129-0)
 [online](http://zotero.org/users/local/kZl3QdXV/items/LJT22BMT) [local](zotero://select/library/items/LJT22BMT) [pdf](file:///home/gjc216/Zotero/storage/RWUJTMHH/Billings%20and%20Marcus%20-%201983%20-%20Measures%20of%20compensatory%20and%20noncompensatory%20model.pdf)

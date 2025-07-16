@@ -67,7 +67,7 @@ Some nice points to consider, I like the writing here. It is clean without distr
 
 ##### Publication
 
-#pub/plos_one [[PLOS ONE]]
+[[PLOS ONE]]
 
 
 %% Import Date: 2025-01-12T14:38:55.968+11:00 %%

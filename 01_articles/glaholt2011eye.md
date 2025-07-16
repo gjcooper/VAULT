@@ -12,7 +12,7 @@ aliases:
 
 # Eye movement monitoring as a process tracing methodology in decision making research.
 
-Glaholt, M. G., & Reingold, E. M. (2011). Eye movement monitoring as a process tracing methodology in decision making research. _Journal of Neuroscience, Psychology, and Economics_, _4_(2), 125–146. [https://doi.org/10.1037/a0020692](https://doi.org/10.1037/a0020692)
+Glaholt, M. G., & Reingold, E. M. (2011). Eye movement monitoring as a [[process tracing]] methodology in decision making research. _Journal of Neuroscience, Psychology, and Economics_, _4_(2), 125–146. [https://doi.org/10.1037/a0020692](https://doi.org/10.1037/a0020692)
 [online](http://zotero.org/users/local/kZl3QdXV/items/J69IHDJQ) [local](zotero://select/library/items/J69IHDJQ) [pdf](file:///home/gjc216/Zotero/storage/JEABJDVM/Glaholt%20and%20Reingold%20-%202011%20-%20Eye%20movement%20monitoring%20as%20a%20process%20tracing%20metho.pdf)
  
 

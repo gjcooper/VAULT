@@ -27,7 +27,7 @@ There is also a nice easy introduction to the [[Q-learning]] model (with $\alpha
 
 A lot of talk here about the priors used in the modelling, which is definitely sommehting I should be more considerate of in my own work.
 
-Regarding the work on the [[Hypatia Work|Hypatia Health Beta app]] , therte are a number of good resources here in terms of data that could be used for testing, informed priors, and specifications of the models. 
+Regarding the work on the [[Hypatia Health|Hypatia Health Beta app]] , therte are a number of good resources here in terms of data that could be used for testing, informed priors, and specifications of the models. 
 %% end notes %%
 
 ### Annotations

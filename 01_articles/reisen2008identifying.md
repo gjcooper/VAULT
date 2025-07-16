@@ -31,11 +31,11 @@ Reisen, N., Hoffrage, U., & Mast, F. W. (2008). Identifying decision strategies 
 
 ---
 >[!quote|#ffd400]
->Frequently used methods within this paradigm are information boards (e.g., Payne, 1976; Payne, Bettman, & Johnson, 1993), verbal protocols (e.g., Ericsson & Simon, 1984), the recording of eye movements (e.g., Lohse & Johnson, 1996; Russo & Leclerc, 1994; Russo & Rosen, 1975), and the method of Active Information Search (AIS; Huber, Wider, & Huber, 1997). [(p. 641)](zotero://open-pdf/library/items/CDBH97U2?page=641&annotation=JIHIQVYZ)
+>Frequently used methods within this paradigm are information boards (e.g., Payne, 1976; Payne, Bettman, & Johnson, 1993), verbal protocols (e.g., Ericsson & Simon, 1984), the recording of eye movements (e.g., Lohse & Johnson, 1996; Russo & Leclerc, 1994; Russo & Rosen, 1975), and the method of [[Active Information Search ]](AIS; Huber, Wider, & Huber, 1997). [(p. 641)](zotero://open-pdf/library/items/CDBH97U2?page=641&annotation=JIHIQVYZ)
 
 ---
 >[!note|#ffd400]
-> Great table of strengths and weaknesses of process tracing techniques
+> Great table of strengths and weaknesses of [[process tracing]] techniques
 
 ---
 >[!quote|#ffd400]

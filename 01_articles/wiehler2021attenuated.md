@@ -21,7 +21,7 @@ Wiehler, A., Chakroun, K., & Peters, J. (2021). Attenuated directed exploration 
 
 ## My Thoughts
 
-This is a nice resource for the [[Hypatia Work]] I am doing as it outlines several [[reinforcement learning]] models, including the simple [[Q-learning]] model I have already implemented and other potential models including the [[Kalman Filter|Bayesian Learner]] model.
+This is a nice resource for the [[Hypatia Health]] I am doing as it outlines several [[reinforcement learning]] models, including the simple [[Q-learning]] model I have already implemented and other potential models including the [[Kalman Filter|Bayesian Learner]] model.
 
 'm not particularly interested in the [[fMRI]] content here, and the model comparison isn't particularly interesting - especially as the model with the most parameters gets the best fit
 

@@ -30,7 +30,7 @@ Schulte-Mecklenbeck, M., Johnson, J. G., Böckenholt, U., Goldstein, D. G., Russ
 
 ---
 >[!quote|#5fb236]
->Russo, J. E. (2011). Eye fixations as a process trace. In M. Schulte-Mecklenbeck, A. Kühberger, & R. Ranyard (Eds.), A handbook of process tracing methods for decision research (pp. 43–64). Oxford, UK: Psychology Press. [(p. 10)](zotero://open-pdf/library/items/SA68WMGR?page=10&annotation=W7QD7II8)
+>Russo, J. E. (2011). Eye fixations as a process trace. In M. Schulte-Mecklenbeck, A. Kühberger, & R. Ranyard (Eds.), A handbook of [[process tracing]] methods for decision research (pp. 43–64). Oxford, UK: Psychology Press. [(p. 10)](zotero://open-pdf/library/items/SA68WMGR?page=10&annotation=W7QD7II8)
 
 ---%% end annotations %%
 

@@ -21,7 +21,7 @@ Hird, E. J., Slanina-Davies, A., Lewis, G., Hamer, M., & Roiser, J. P. (2024). F
 
 ## My Thoughts
 
-A good [[review article]] that looks at the links between the benefits of exercise and depression symptoms such as [[anhedonia]] and [[apathy]]. This could relate to [[Hypatia Work]] as a source for possible tasks, particularly those that use some sort of effortful response in order to more closely link reward learning to the value that participants place on that reward.
+A good [[review article]] that looks at the links between the benefits of exercise and depression symptoms such as [[anhedonia]] and [[apathy]]. This could relate to [[Hypatia Health]] as a source for possible tasks, particularly those that use some sort of effortful response in order to more closely link reward learning to the value that participants place on that reward.
 
 There are links drawn here between the aforementioned exercise/effort and [[motivation]], [[reward processing]] and [[cognitive control]]
 

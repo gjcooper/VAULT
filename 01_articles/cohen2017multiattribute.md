@@ -12,7 +12,7 @@ aliases:
 
 # Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing
 
-Cohen, A. L., Kang, N., & Leise, T. L. (2017). Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing. _Cognitive Psychology_, _98_, 45–72. [https://doi.org/10.1016/j.cogpsych.2017.08.001](https://doi.org/10.1016/j.cogpsych.2017.08.001)
+Cohen, A. L., Kang, N., & Leise, T. L. (2017). Multi-attribute, multi-alternative models of choice: Choice, reaction time, and [[process tracing]]. _Cognitive Psychology_, _98_, 45–72. [https://doi.org/10.1016/j.cogpsych.2017.08.001](https://doi.org/10.1016/j.cogpsych.2017.08.001)
 [online](http://zotero.org/users/local/kZl3QdXV/items/7WG3NDR8) [local](zotero://select/library/items/7WG3NDR8) [pdf](file:///home/gjc216/Zotero/storage/DQCR5NZC/Cohen%20et%20al.%20-%202017%20-%20Multi-attribute,%20multi-alternative%20models%20of%20choic.pdf)
  
 

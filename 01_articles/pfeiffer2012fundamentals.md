@@ -23,40 +23,26 @@ Pfeiffer, J. (2012). Fundamentals on Decision-Making Behavior. In _Interactive D
 >[!quote|#ffd400]
 >The choice process with its central elements discussed in this cha [(p. 2)](zotero://open-pdf/library/items/TLBFKPD3?page=2&annotation=U93X474M)
 
----%% end annotations %%
+---
+%% end annotations %%
 
 ## Item Notes
 
 ### High Level Overview
 
-This chapter provides an introduction to the concept of consumer choice
-as a multiattribute, multi-alternative choice between competing
-alternatives 2+ differing on 1 on more *attributes*. A list of decision
-strategies proposed for choosing between these options, with references
-to original papers where the strategies were proposed is presented.
+This chapter provides an introduction to the concept of consumer choice as a multiattribute, multi-alternative choice between competing alternatives 2+ differing on 1 on more *attributes*. A [[list of decision strategies]] proposed for choosing between these options, with references to original papers where the strategies were proposed is presented.
 
-Characteristics of these decisions and each presented decision strategy
-are discussed, as well as a review of the methods used to determine
-which decision strategy has been used in a individuals choices.
+Characteristics of these decisions and each presented decision strategy are discussed, as well as a review of the methods used to determine which decision strategy has been used in a individuals choices.
 
-The chapter finished by discussing the influence of complexity of the
-choice task and the influence of attribute or context complexity on the
-decision strategy used by people.
+The chapter finished by discussing the influence of complexity of the choice task and the influence of attribute or context complexity on the decision strategy used by people.
 
 ### Detailed Notes
 
-Section 2.2 is of most relevance to my first paper, with the
-characteristics of decisions (compensatory vs non-compensatory decision
-strategies, aspirations levels being discussed at a high level, followed
-by the list of each decision strategy with a brief discussion. The
-Appendix A from the same book gives some great tables comparing each
-decision strategy on aspects such as compensatory processing and more.
+Section 2.2 is of most relevance to my first paper, with the characteristics of decisions ([[compensatory]]  vs [[non-compensatory]] decision strategies, aspirations levels being discussed at a high level, followed by the list of each decision strategy with a brief discussion. The Appendix A from the same book gives some great tables comparing each decision strategy on aspects such as compensatory processing and more.
 
 ### Relevance to my Work
 
-Of high relevance, this work was a large basis for my first paper, with
-a fair amount of the language from that paper being drawn from this
-chapter.
+Of high relevance, this work was a large basis for my first paper  ([[SFT of DCE]]), with a fair amount of the language from that paper being drawn from this chapter.
 
 #### Tags
 

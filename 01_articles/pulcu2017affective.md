@@ -33,7 +33,7 @@ This does not seem like too muc of a stretch to implement, and the modelling and
 
 ##### Imported on 2025-01-29 6:00 pm
 >[!note|#ffd400]
-> This is a fairly different task structure to what I already have in the [[Hypatia Work]] so far in that the probability of a win or loss is independant.
+> This is a fairly different task structure to what I already have in the [[Hypatia Health]] so far in that the probability of a win or loss is independant.
 
 ---%% end annotations %%
 

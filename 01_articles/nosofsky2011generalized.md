@@ -12,9 +12,8 @@ aliases:
 
 # The generalized context model: an exemplar model of classification
 
-Nosofsky, R. M. (2011). The generalized context model: An exemplar model of classification. In E. M. Pothos & A. J. Wills (Eds.), _Formal Approaches in [[Categorization]]_ (1st ed., pp. 18–39). Cambridge University Press. [https://doi.org/10.1017/CBO9780511921322.002](https://doi.org/10.1017/CBO9780511921322.002)
-[online](http://zotero.org/users/local/kZl3QdXV/items/7736MCSB) [local](zotero://select/library/items/7736MCSB) [pdf](file:///home/gjc216/Zotero/storage/H73IRSHD/Nosofsky%20-%202011%20-%20The%20generalized%20context%20model%20an%20exemplar%20model%20o.pdf)
- 
+Nosofsky, R. M. (2011). The generalized context model: An exemplar model of classification. In E. M. Pothos & A. J. Wills (Eds.), _Formal Approaches in [[Categorisation|Categorization]]_ (1st ed., pp. 18–39). Cambridge University Press. [https://doi.org/10.1017/CBO9780511921322.002](https://doi.org/10.1017/CBO9780511921322.002)
+[online](http://zotero.org/users/local/kZl3QdXV/items/7736MCSB) [local](zotero://select/library/items/7736MCSB) [pdf](file:///home/gjc216/Zotero/storage/H73IRSHD/Nosofsky%20-%202011%20-%20The%20generalized%20context%20model%20an%20exemplar%20model%20o.pdf)03e1c35d76d134bdb9db1588f622d1e383cde71 
 
  
 ### Annotations

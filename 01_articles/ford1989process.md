@@ -19,7 +19,7 @@ Ford, J. K., Schmitt, N., Schechtman, S. L., Hults, B. M., & Doherty, M. L. (198
 ## My Thoughts
 %% begin notes %%
 
-This is a great, yet old, summary of the growing field of process tracing research into multi-attribute decision making.
+This is a great, yet old, summary of the growing field of [[process tracing]] research into multi-attribute decision making.
 
 Some important points highlighted below show that in Ford's opinion, too much process tracing research looks only at [[compensatory]] vs [[non-compensatory]] processing. Also mentioned is the focus in [[process tracing]] at the pre-decisional behaviour.
 

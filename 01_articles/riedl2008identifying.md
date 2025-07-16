@@ -29,7 +29,7 @@ The table at [p 796](zotero://open-pdf/library/items/72E3CIV6?page=796) is a gre
 
 ---
 >[!note|#ffd400]
-> Outcome based vs process tracing methods for strategy discrimination
+> Outcome based vs [[process tracing]] methods for strategy discrimination
 
 ---
 >[!quote|#ffd400]

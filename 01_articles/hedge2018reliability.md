@@ -27,7 +27,7 @@ This goal directly contrasts typical individual difference tools like questionna
 
 There is a definite call for further work on solving this issue, and a request to aim for a more thoughtful approach to selecting experimental paradigms when investigating individual differences.
 
-A lot of this does bear on the goals of the [[Hypatia Work|Hypatia Health beta]] app as the goal of looking at differences over time or between people in treatment groups means we want to be careful to be able to reliably detect those differences.
+A lot of this does bear on the goals of the [[Hypatia Health|Hypatia Health beta]] app as the goal of looking at differences over time or between people in treatment groups means we want to be careful to be able to reliably detect those differences.
 
 %% end notes %%
 
