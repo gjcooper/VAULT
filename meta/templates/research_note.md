@@ -1,5 +1,6 @@
 ---
-cssclass: research_note
+cssclasses:
+    - research_note
 type: "{{itemType}}"{% for type, creators in creators | groupby("creatorType") -%}{% if loop.first %}
 {% endif %}{{type | replace("interviewee", "author") | replace("director", "author") | replace("presenter", "author") | replace("podcaster", "author") | replace("programmer", "author") | replace("cartographer", "author") | replace("inventor", "author") | replace("sponsor", "author")  | replace("performer", "author") | replace("artist", "author")}}: "{%- for creator in creators -%}{%- if creator.name %}{{creator.name}}{%- else %}{{creator.lastName}}, {{creator.firstName}}{%- endif %}{% if not loop.last %}; {% endif %}{% endfor %}"{% if not loop.last %}
 {% endif %}{%- endfor %}{% if title %}
