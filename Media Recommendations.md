@@ -8,3 +8,8 @@
 - rewatch primer 
 - moon
 - upgrade 
+
+# TV recommendations
+
+- Ludwig tv show
+- Serial experiments: Lain (anime show)
