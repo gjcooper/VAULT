@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lopes, Lola L.; Oden, Gregg C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lopes, Lola L.; Oden, Gregg C.
 title: "The role of aspiration level in risky choice: A comparison of cumulative prospect theory and SP/A theory"
-publication: "Journal of Mathematical Psychology"
+publication: Journal of Mathematical Psychology
 date: 1999-01-01
 citekey: lopes1999role
-aliases: 
-    - "The role of aspiration level in risky choice: A comparison of cumulative prospect theory and SP/A theory"
+aliases:
+  - "The role of aspiration level in risky choice: A comparison of cumulative prospect theory and SP/A theory"
 ---
 
 # The role of aspiration level in risky choice: A comparison of cumulative prospect theory and SP/A theory

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Fisher, Matthew; Keil, Frank C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Fisher, Matthew; Keil, Frank C.
 title: "The Binary Bias: A Systematic Distortion in the Integration of Information"
-publication: "Psychological Science"
+publication: Psychological Science
 date: 2018-11-01
 citekey: fisher2018binary
-aliases: 
-    - "The Binary Bias: A Systematic Distortion in the Integration of Information"
+aliases:
+  - "The Binary Bias: A Systematic Distortion in the Integration of Information"
 ---
 
 # The Binary Bias: A Systematic Distortion in the Integration of Information

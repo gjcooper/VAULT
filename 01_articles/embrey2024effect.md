@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Embrey, Jake R.; Li, Amy X.; Liew, Shi Xian; Newell, Ben R."
-title: "The effect of noninstrumental information on reward learning"
-publication: "Memory & Cognition"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Embrey, Jake R.; Li, Amy X.; Liew, Shi Xian; Newell, Ben R.
+title: The effect of noninstrumental information on reward learning
+publication: Memory & Cognition
 date: 2024-07-01
 citekey: embrey2024effect
-aliases: 
-    - "The effect of noninstrumental information on reward learning"
+aliases:
+  - The effect of noninstrumental information on reward learning
 ---
 
 # The effect of noninstrumental information on reward learning

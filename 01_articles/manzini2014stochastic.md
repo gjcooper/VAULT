@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Manzini, Paola; Mariotti, Marco"
-title: "Stochastic Choice and Consideration Sets"
-publication: "Econometrica"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Manzini, Paola; Mariotti, Marco
+title: Stochastic Choice and Consideration Sets
+publication: Econometrica
 date: 2014-01-01
 citekey: manzini2014stochastic
-aliases: 
-    - "Stochastic Choice and Consideration Sets"
+aliases:
+  - Stochastic Choice and Consideration Sets
 ---
 
 # Stochastic Choice and Consideration Sets

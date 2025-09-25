@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pike, Alexandra C.; Robinson, Oliver J."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pike, Alexandra C.; Robinson, Oliver J.
 title: "Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis"
-publication: "JAMA Psychiatry"
+publication: JAMA Psychiatry
 date: 2022-04-01
 citekey: pike2022reinforcementa
-aliases: 
-    - "Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis"
+aliases:
+  - "Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis"
 ---
 
 # Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis

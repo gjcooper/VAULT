@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Sengupta, Lahari; Fränti, Pasi; Machine Learning, School of Computing, University of Eastern Finland, Finland"
-title: "Comparison of eleven measures for estimating difficulty of open-loop TSP instances"
-publication: "Applied Computing and Intelligence"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Sengupta, Lahari; Fränti, Pasi; Machine Learning, School of Computing, University of Eastern Finland, Finland
+title: Comparison of eleven measures for estimating difficulty of open-loop TSP instances
+publication: Applied Computing and Intelligence
 date: 2021-01-01
 citekey: sengupta2021comparison
-aliases: 
-    - "Comparison of eleven measures for estimating difficulty of open-loop TSP instances"
+aliases:
+  - Comparison of eleven measures for estimating difficulty of open-loop TSP instances
 ---
 
 # Comparison of eleven measures for estimating difficulty of open-loop TSP instances

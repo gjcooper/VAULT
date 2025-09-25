@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "preprint"
-author: "Le Pelley, Mike E.; Newell, Ben R; Lagator, Sandra"
-title: "Reward-Driven and Memory-Driven Attentional Biases Automatically Modulate Rapid Choice"
+cssclasses:
+  - research_note
+type: preprint
+author: Le Pelley, Mike E.; Newell, Ben R; Lagator, Sandra
+title: Reward-Driven and Memory-Driven Attentional Biases Automatically Modulate Rapid Choice
 date: 2023-01-01
 citekey: lepelley2023rewarddriven
-aliases: 
-    - "Reward-Driven and Memory-Driven Attentional Biases Automatically Modulate Rapid Choice"
+aliases:
+  - Reward-Driven and Memory-Driven Attentional Biases Automatically Modulate Rapid Choice
 ---
 
 # Reward-Driven and Memory-Driven Attentional Biases Automatically Modulate Rapid Choice

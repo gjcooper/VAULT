@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Payne, John W.; Bettman, James R.; Johnson, Eric J."
-title: "Adaptive strategy selection in decision making."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Payne, John W.; Bettman, James R.; Johnson, Eric J.
+title: Adaptive strategy selection in decision making.
 publication: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 date: 1988-01-01
 citekey: payne1988adaptive
-aliases: 
-    - "Adaptive strategy selection in decision making."
+aliases:
+  - Adaptive strategy selection in decision making.
 ---
 
 # Adaptive strategy selection in decision making.

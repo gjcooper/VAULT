@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Nosofsky, R. M.; Palmeri, T. J."
-title: "An exemplar–based random walk model of speeded classification"
-publication: "Psychological Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Nosofsky, R. M.; Palmeri, T. J.
+title: An exemplar–based random walk model of speeded classification
+publication: Psychological Review
 date: 1997-04-01
 citekey: nosofsky1997exemplarbased
-aliases: 
-    - "An exemplar–based random walk model of speeded classification"
+aliases:
+  - An exemplar–based random walk model of speeded classification
 ---
 
 # An exemplar–based random walk model of speeded classification

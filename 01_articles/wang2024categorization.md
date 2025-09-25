@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Wang, Yusu"
-title: "The Categorization of Continuous Attributes"
-publication: "Journal of Behavioral Decision Making"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Wang, Yusu
+title: The Categorization of Continuous Attributes
+publication: Journal of Behavioral Decision Making
 date: 2024-01-01
 citekey: wang2024categorization
-aliases: 
-    - "The Categorization of Continuous Attributes"
+aliases:
+  - The Categorization of Continuous Attributes
 ---
 
 # The [[Categorisation|Categorization]] of Continuous Attributes

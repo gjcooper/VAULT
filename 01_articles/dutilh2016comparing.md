@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Dutilh, Gilles; Rieskamp, Jörg"
-title: "Comparing perceptual and preferential decision making"
-publication: "Psychonomic Bulletin and Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Dutilh, Gilles; Rieskamp, Jörg
+title: Comparing perceptual and preferential decision making
+publication: Psychonomic Bulletin and Review
 date: 2016-01-01
 citekey: dutilh2016comparing
-aliases: 
-    - "Comparing perceptual and preferential decision making"
+aliases:
+  - Comparing perceptual and preferential decision making
 ---
 
 # Comparing perceptual and preferential decision making

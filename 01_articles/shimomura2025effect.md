@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Shimomura, Kanji; Morita, Kenji"
-title: "The Effect of Reward Magnitude on Different Types of Exploration in Human Reinforcement Learning"
-publication: "Computational Brain & Behavior"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Shimomura, Kanji; Morita, Kenji
+title: The Effect of Reward Magnitude on Different Types of Exploration in Human Reinforcement Learning
+publication: Computational Brain & Behavior
 date: 2025-03-01
 citekey: shimomura2025effect
-aliases: 
-    - "The Effect of Reward Magnitude on Different Types of Exploration in Human Reinforcement Learning"
+aliases:
+  - The Effect of Reward Magnitude on Different Types of Exploration in Human Reinforcement Learning
 ---
 
 # The Effect of Reward Magnitude on Different Types of Exploration in Human Reinforcement Learning

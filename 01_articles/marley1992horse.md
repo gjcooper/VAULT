@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Marley, A A J; Colonius, H"
-title: "The ``horse race'' random utility model for choice probabilities and reaction times, and its competing risks interpretation"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Marley, A A J; Colonius, H
+title: The ``horse race'' random utility model for choice probabilities and reaction times, and its competing risks interpretation
+publication: Journal of Mathematical Psychology
 date: 1992-01-01
 citekey: marley1992horse
-aliases: 
-    - "The ``horse race'' random utility model for choice probabilities and reaction times, and its competing risks interpretation"
+aliases:
+  - The ``horse race'' random utility model for choice probabilities and reaction times, and its competing risks interpretation
 ---
 
 # The "horse race'' random utility model for choice probabilities and reaction times, and its competing risks interpretation

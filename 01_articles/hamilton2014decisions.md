@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hamilton, Rebecca; Spassova, Gerri; Lee, Angela Y.; Thomas, Manoj; Tsai, Claire I.; Goodman, Joseph K.; Malkoc, Selin A.; Bornemann, Torsten; Homburg, Christian; Irmak, Caglar; Wakslak, Cheryl J.; Trope, Yaacov"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hamilton, Rebecca; Spassova, Gerri; Lee, Angela Y.; Thomas, Manoj; Tsai, Claire I.; Goodman, Joseph K.; Malkoc, Selin A.; Bornemann, Torsten; Homburg, Christian; Irmak, Caglar; Wakslak, Cheryl J.; Trope, Yaacov
 title: "Decisions at a Distance: Effects of Psychological Distance on Consumer Decision Making"
-publication: "Journal of Consumer Research"
+publication: Journal of Consumer Research
 date: 2014-01-01
 citekey: hamilton2014decisions
-aliases: 
-    - "Decisions at a Distance: Effects of Psychological Distance on Consumer Decision Making"
+aliases:
+  - "Decisions at a Distance: Effects of Psychological Distance on Consumer Decision Making"
 ---
 
 # Decisions at a Distance: Effects of Psychological Distance on Consumer Decision Making

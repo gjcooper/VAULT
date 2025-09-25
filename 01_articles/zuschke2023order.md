@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Zuschke, Nick"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Zuschke, Nick
 title: "Order in multi-attribute product choice decisions: Evidence from discrete choice experiments combined with eye tracking"
-publication: "Journal of Behavioral Decision Making"
+publication: Journal of Behavioral Decision Making
 date: 2023-01-01
 citekey: zuschke2023order
-aliases: 
-    - "Order in multi-attribute product choice decisions: Evidence from discrete choice experiments combined with eye tracking"
+aliases:
+  - "Order in multi-attribute product choice decisions: Evidence from discrete choice experiments combined with eye tracking"
 ---
 
 # Order in multi-attribute product choice decisions: Evidence from discrete choice experiments combined with eye tracking

@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "book"
-author: "Coombs, C. H.; Kao, R. C."
-title: "Nonmetric factor analysis"
+cssclasses:
+  - research_note
+type: book
+author: Coombs, C. H.; Kao, R. C.
+title: Nonmetric factor analysis
 date: 1955-01-01
 citekey: coombs1955nonmetric
-aliases: 
-    - "Nonmetric factor analysis"
+aliases:
+  - Nonmetric factor analysis
 ---
 
 # Nonmetric factor analysis

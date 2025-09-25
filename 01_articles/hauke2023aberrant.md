@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hauke, Daniel J.; Charlton, Colleen E.; Schmidt, André; Griffiths, John; Woods, Scott W.; Ford, Judith M.; Srihari, Vinod H.; Roth, Volker; Diaconescu, Andreea O.; Mathalon, Daniel H."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hauke, Daniel J.; Charlton, Colleen E.; Schmidt, André; Griffiths, John; Woods, Scott W.; Ford, Judith M.; Srihari, Vinod H.; Roth, Volker; Diaconescu, Andreea O.; Mathalon, Daniel H.
 title: "Aberrant hierarchical prediction errors are associated with transition to psychosis: A computational single-trial analysis of the mismatch negativity"
 publication: "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
 date: 2023-08-01
 citekey: hauke2023aberrant
-aliases: 
-    - "Aberrant hierarchical prediction errors are associated with transition to psychosis: A computational single-trial analysis of the mismatch negativity"
+aliases:
+  - "Aberrant hierarchical prediction errors are associated with transition to psychosis: A computational single-trial analysis of the mismatch negativity"
 ---
 
 # Aberrant hierarchical prediction errors are associated with transition to psychosis: A computational single-trial analysis of the mismatch negativity

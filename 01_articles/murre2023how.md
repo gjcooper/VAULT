@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Murre, Jaap M. J."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Murre, Jaap M. J.
 title: "How averaging individual curves transforms their shape: Mathematical analyses with application to learning and forgetting curves"
-publication: "Journal of Mathematical Psychology"
+publication: Journal of Mathematical Psychology
 date: 2023-12-01
 citekey: murre2023how
-aliases: 
-    - "How averaging individual curves transforms their shape: Mathematical analyses with application to learning and forgetting curves"
+aliases:
+  - "How averaging individual curves transforms their shape: Mathematical analyses with application to learning and forgetting curves"
 ---
 
 # How averaging individual curves transforms their shape: Mathematical analyses with application to learning and forgetting curves

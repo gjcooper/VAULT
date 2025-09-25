@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Roads, Brett D.; Love, Bradley C."
-title: "Modeling Similarity and Psychological Space"
-publication: "Annual Review of Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Roads, Brett D.; Love, Bradley C.
+title: Modeling Similarity and Psychological Space
+publication: Annual Review of Psychology
 date: 2024-01-18
 citekey: roads2024modeling
-aliases: 
-    - "Modeling Similarity and Psychological Space"
+aliases:
+  - Modeling Similarity and Psychological Space
 ---
 
 # Modeling Similarity and Psychological Space

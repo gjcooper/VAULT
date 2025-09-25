@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Botvinick, Matthew; Ritter, Sam; Wang, Jane X.; Kurth-Nelson, Zeb; Blundell, Charles; Hassabis, Demis"
-title: "Reinforcement Learning, Fast and Slow"
-publication: "Trends in Cognitive Sciences"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Botvinick, Matthew; Ritter, Sam; Wang, Jane X.; Kurth-Nelson, Zeb; Blundell, Charles; Hassabis, Demis
+title: Reinforcement Learning, Fast and Slow
+publication: Trends in Cognitive Sciences
 date: 2019-01-01
 citekey: botvinick2019reinforcement
-aliases: 
-    - "Reinforcement Learning, Fast and Slow"
+aliases:
+  - Reinforcement Learning, Fast and Slow
 ---
 
 # Reinforcement Learning, Fast and Slow

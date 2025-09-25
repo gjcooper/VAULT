@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Chernev, Alexander; Gal, David"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Chernev, Alexander; Gal, David
 title: "Categorization Effects in Value Judgments: Averaging Bias in Evaluating Combinations of Vices and Virtues"
-publication: "Journal of Marketing Research"
+publication: Journal of Marketing Research
 date: 2010-08-01
 citekey: chernev2010categorization
-aliases: 
-    - "Categorization Effects in Value Judgments: Averaging Bias in Evaluating Combinations of Vices and Virtues"
+aliases:
+  - "Categorization Effects in Value Judgments: Averaging Bias in Evaluating Combinations of Vices and Virtues"
 ---
 
 # Categorization Effects in Value Judgments: Averaging Bias in Evaluating Combinations of Vices and Virtues

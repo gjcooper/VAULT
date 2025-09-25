@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Eckstein, Maria K.; Master, Sarah L.; Dahl, Ronald E.; Wilbrecht, Linda; Collins, Anne G. E."
-title: "Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal"
-publication: "Developmental Cognitive Neuroscience"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Eckstein, Maria K.; Master, Sarah L.; Dahl, Ronald E.; Wilbrecht, Linda; Collins, Anne G. E.
+title: Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal
+publication: Developmental Cognitive Neuroscience
 date: 2022-06-01
 citekey: eckstein2022reinforcement
-aliases: 
-    - "Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal"
+aliases:
+  - Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal
 ---
 
 # Reinforcement learning and Bayesian inference provide complementary models for the unique advantage of adolescents in stochastic reversal

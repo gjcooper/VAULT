@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Balcombe, Kelvin; Fraser, Iain; Williams, Louis; McSorley, Eugene"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Balcombe, Kelvin; Fraser, Iain; Williams, Louis; McSorley, Eugene
 title: "Examining the relationship between visual attention and stated preferences: A discrete choice experiment using eye-tracking"
-publication: "Journal of Economic Behavior and Organization"
+publication: Journal of Economic Behavior and Organization
 date: 2017-01-01
 citekey: balcombe2017examining
-aliases: 
-    - "Examining the relationship between visual attention and stated preferences: A discrete choice experiment using eye-tracking"
+aliases:
+  - "Examining the relationship between visual attention and stated preferences: A discrete choice experiment using eye-tracking"
 ---
 
 # Examining the relationship between visual attention and stated preferences: A discrete choice experiment using eye-tracking

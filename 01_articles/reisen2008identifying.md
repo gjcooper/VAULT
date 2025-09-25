@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Reisen, Nils; Hoffrage, Ulrich; Mast, Fred W"
-title: "Identifying decision strategies in a consumer choice situation"
-publication: "Judgment and decision making"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Reisen, Nils; Hoffrage, Ulrich; Mast, Fred W
+title: Identifying decision strategies in a consumer choice situation
+publication: Judgment and decision making
 date: 2008-01-01
 citekey: reisen2008identifying
-aliases: 
-    - "Identifying decision strategies in a consumer choice situation"
+aliases:
+  - Identifying decision strategies in a consumer choice situation
 ---
 
 # Identifying decision strategies in a consumer choice situation

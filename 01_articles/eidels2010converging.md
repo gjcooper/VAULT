@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Eidels, Ami; Donkin, Chris; Brown, Scott D.; Heathcote, Andrew"
-title: "Converging measures of workload capacity"
-publication: "Psychonomic Bulletin and Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Eidels, Ami; Donkin, Chris; Brown, Scott D.; Heathcote, Andrew
+title: Converging measures of workload capacity
+publication: Psychonomic Bulletin and Review
 date: 2010-01-01
 citekey: eidels2010converging
-aliases: 
-    - "Converging measures of workload capacity"
+aliases:
+  - Converging measures of workload capacity
 ---
 
 # Converging measures of workload capacity

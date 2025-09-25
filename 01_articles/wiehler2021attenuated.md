@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Wiehler, A.; Chakroun, K.; Peters, J."
-title: "Attenuated directed exploration during reinforcement learning in gambling disorder"
-publication: "The Journal of Neuroscience"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Wiehler, A.; Chakroun, K.; Peters, J.
+title: Attenuated directed exploration during reinforcement learning in gambling disorder
+publication: The Journal of Neuroscience
 date: 2021-03-17
 citekey: wiehler2021attenuated
-aliases: 
-    - "Attenuated directed exploration during reinforcement learning in gambling disorder"
+aliases:
+  - Attenuated directed exploration during reinforcement learning in gambling disorder
 ---
 
 # Attenuated directed exploration during reinforcement learning in gambling disorder

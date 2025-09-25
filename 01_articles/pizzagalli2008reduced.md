@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pizzagalli, Diego A.; Iosifescu, Dan; Hallett, Lindsay A.; Ratner, Kyle G.; Fava, Maurizio"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pizzagalli, Diego A.; Iosifescu, Dan; Hallett, Lindsay A.; Ratner, Kyle G.; Fava, Maurizio
 title: "Reduced hedonic capacity in major depressive disorder: Evidence from a probabilistic reward task"
-publication: "Journal of Psychiatric Research"
+publication: Journal of Psychiatric Research
 date: 2008-11-01
 citekey: pizzagalli2008reduced
-aliases: 
-    - "Reduced hedonic capacity in major depressive disorder: Evidence from a probabilistic reward task"
+aliases:
+  - "Reduced hedonic capacity in major depressive disorder: Evidence from a probabilistic reward task"
 ---
 
 # Reduced hedonic capacity in major depressive disorder: Evidence from a probabilistic reward task

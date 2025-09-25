@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Corbin, Ruth; Marley, A. A. J."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Corbin, Ruth; Marley, A. A. J.
 title: "Random utility models with equality: An apparent, but not actual, generalization of random utility models"
-publication: "Journal of Mathematical Psychology"
+publication: Journal of Mathematical Psychology
 date: 1974-08-01
 citekey: corbin1974random
-aliases: 
-    - "Random utility models with equality: An apparent, but not actual, generalization of random utility models"
+aliases:
+  - "Random utility models with equality: An apparent, but not actual, generalization of random utility models"
 ---
 
 # Random utility models with equality: An apparent, but not actual, generalization of random utility models

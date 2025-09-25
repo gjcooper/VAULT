@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hedge, Craig; Powell, Georgina; Sumner, Petroc"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hedge, Craig; Powell, Georgina; Sumner, Petroc
 title: "The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences"
-publication: "Behavior Research Methods"
+publication: Behavior Research Methods
 date: 2018-06-01
 citekey: hedge2018reliability
-aliases: 
-    - "The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences"
+aliases:
+  - "The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences"
 ---
 
 # The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences

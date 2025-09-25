@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Estes, W. K."
-title: "Traps in the route to models of memory and decision"
-publication: "Psychonomic Bulletin & Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Estes, W. K.
+title: Traps in the route to models of memory and decision
+publication: Psychonomic Bulletin & Review
 date: 2002-03-01
 citekey: estes2002traps
-aliases: 
-    - "Traps in the route to models of memory and decision"
+aliases:
+  - Traps in the route to models of memory and decision
 ---
 
 # Traps in the route to models of memory and decision

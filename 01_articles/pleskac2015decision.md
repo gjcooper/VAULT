@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "bookSection"
-author: "Pleskac, Timothy J."
-editor: "Wright, James D."
+cssclasses:
+  - research_note
+type: bookSection
+author: Pleskac, Timothy J.
+editor: Wright, James D.
 title: "Decision and Choice: Luce's Choice Axiom"
 date: 2015-01-01
 citekey: pleskac2015decision
-aliases: 
-    - "Decision and Choice: Luce's Choice Axiom"
+aliases:
+  - "Decision and Choice: Luce's Choice Axiom"
 ---
 
 # Decision and Choice: Luce's Choice Axiom

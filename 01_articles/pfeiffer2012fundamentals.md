@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "bookSection"
-author: "Pfeiffer, Jella"
-title: "Fundamentals on Decision-Making Behavior"
+cssclasses:
+  - research_note
+type: bookSection
+author: Pfeiffer, Jella
+title: Fundamentals on Decision-Making Behavior
 date: 2012-01-01
 citekey: pfeiffer2012fundamentals
-aliases: 
-    - "Fundamentals on Decision-Making Behavior"
+aliases:
+  - Fundamentals on Decision-Making Behavior
 ---
 
 # Fundamentals on Decision-Making Behavior

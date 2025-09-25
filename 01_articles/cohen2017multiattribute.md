@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Cohen, Andrew L.; Kang, Namyi; Leise, Tanya L."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Cohen, Andrew L.; Kang, Namyi; Leise, Tanya L.
 title: "Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing"
-publication: "Cognitive Psychology"
+publication: Cognitive Psychology
 date: 2017-01-01
 citekey: cohen2017multiattribute
-aliases: 
-    - "Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing"
+aliases:
+  - "Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing"
 ---
 
 # Multi-attribute, multi-alternative models of choice: Choice, reaction time, and process tracing

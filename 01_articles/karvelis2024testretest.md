@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Karvelis, Povilas; Hauke, Daniel J.; Wobmann, Michelle; Andreou, Christina; Mackintosh, Amatya; Bock, Renate de; Borgwardt, Stefan; Diaconescu, Andreea O."
-title: "Test-retest reliability of behavioral and computational measures of advice taking under volatility"
-publication: "PLOS ONE"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Karvelis, Povilas; Hauke, Daniel J.; Wobmann, Michelle; Andreou, Christina; Mackintosh, Amatya; Bock, Renate de; Borgwardt, Stefan; Diaconescu, Andreea O.
+title: Test-retest reliability of behavioral and computational measures of advice taking under volatility
+publication: PLOS ONE
 date: 2024-11-18
 citekey: karvelis2024testretest
-aliases: 
-    - "Test-retest reliability of behavioral and computational measures of advice taking under volatility"
+aliases:
+  - Test-retest reliability of behavioral and computational measures of advice taking under volatility
 ---
 
 # Test-retest reliability of behavioral and computational measures of advice taking under volatility

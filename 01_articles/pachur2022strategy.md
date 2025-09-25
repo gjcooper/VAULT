@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pachur, Thorsten"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pachur, Thorsten
 title: "Strategy selection in decisions from givens: Deciding at a glance?"
-publication: "Cognitive Psychology"
+publication: Cognitive Psychology
 date: 2022-08-01
 citekey: pachur2022strategy
-aliases: 
-    - "Strategy selection in decisions from givens: Deciding at a glance?"
+aliases:
+  - "Strategy selection in decisions from givens: Deciding at a glance?"
 ---
 
 # Strategy selection in decisions from givens: Deciding at a glance?

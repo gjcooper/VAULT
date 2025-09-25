@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Goodman, Joseph K.; Malkoc, Selin A."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Goodman, Joseph K.; Malkoc, Selin A.
 title: "Choosing Here and Now versus There and Later: The Moderating Role of Psychological Distance on Assortment Size Preferences"
-publication: "Journal of Consumer Research"
+publication: Journal of Consumer Research
 date: 2012-01-01
 citekey: goodman2012choosing
-aliases: 
-    - "Choosing Here and Now versus There and Later: The Moderating Role of Psychological Distance on Assortment Size Preferences"
+aliases:
+  - "Choosing Here and Now versus There and Later: The Moderating Role of Psychological Distance on Assortment Size Preferences"
 ---
 
 # Choosing Here and Now versus There and Later: The Moderating Role of Psychological Distance on Assortment Size Preferences

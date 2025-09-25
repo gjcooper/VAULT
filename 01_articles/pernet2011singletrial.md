@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pernet, Cyril R.; Sajda, Paul; Rousselet, Guillaume A."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pernet, Cyril R.; Sajda, Paul; Rousselet, Guillaume A.
 title: "Single-Trial Analyses: Why Bother?"
-publication: "Frontiers in Psychology"
+publication: Frontiers in Psychology
 date: 2011-01-01
 citekey: pernet2011singletrial
-aliases: 
-    - "Single-Trial Analyses: Why Bother?"
+aliases:
+  - "Single-Trial Analyses: Why Bother?"
 ---
 
 # Single-Trial Analyses: Why Bother?

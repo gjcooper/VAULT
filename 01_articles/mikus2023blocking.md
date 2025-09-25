@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Mikus, Nace; Eisenegger, Christoph; Mathys, Christoph; Clark, Luke; Müller, Ulrich; Robbins, Trevor W.; Lamm, Claus; Naef, Michael"
-title: "Blocking D2/D3 dopamine receptors in male participants increases volatility of beliefs when learning to trust others"
-publication: "Nature Communications"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Mikus, Nace; Eisenegger, Christoph; Mathys, Christoph; Clark, Luke; Müller, Ulrich; Robbins, Trevor W.; Lamm, Claus; Naef, Michael
+title: Blocking D2/D3 dopamine receptors in male participants increases volatility of beliefs when learning to trust others
+publication: Nature Communications
 date: 2023-07-08
 citekey: mikus2023blocking
-aliases: 
-    - "Blocking D2/D3 dopamine receptors in male participants increases volatility of beliefs when learning to trust others"
+aliases:
+  - Blocking D2/D3 dopamine receptors in male participants increases volatility of beliefs when learning to trust others
 ---
 
 # Blocking D2/D3 dopamine receptors in male participants increases volatility of beliefs when learning to trust others

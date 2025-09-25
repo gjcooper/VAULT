@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Tversky, Amos; Shafir, Eldar"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Tversky, Amos; Shafir, Eldar
 title: "Choice under Conflict: The Dynamics of Deferred Decision"
-publication: "Psychological Science"
+publication: Psychological Science
 date: 1992-01-01
 citekey: tversky1992choice
-aliases: 
-    - "Choice under Conflict: The Dynamics of Deferred Decision"
+aliases:
+  - "Choice under Conflict: The Dynamics of Deferred Decision"
 ---
 
 # Choice under Conflict: The Dynamics of Deferred Decision

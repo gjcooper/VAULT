@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D."
-title: "Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences"
-publication: "Cognitive Science"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hawkins, Guy E.; Marley, A.A.J.; Heathcote, Andrew; Flynn, Terry N.; Louviere, Jordan J.; Brown, Scott D.
+title: Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences
+publication: Cognitive Science
 date: 2014-05-11
 citekey: hawkins2014integrating
-aliases: 
-    - "Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences"
+aliases:
+  - Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences
 ---
 
 # Integrating Cognitive Process and Descriptive Models of Attitudes and Preferences

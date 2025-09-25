@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Holmes, William R.; Trueblood, Jennifer S.; Heathcote, Andrew"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Holmes, William R.; Trueblood, Jennifer S.; Heathcote, Andrew
 title: "A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model"
-publication: "Cognitive Psychology"
+publication: Cognitive Psychology
 date: 2016-01-01
 citekey: holmes2016new
-aliases: 
-    - "A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model"
+aliases:
+  - "A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model"
 ---
 
 # A new framework for modeling decisions about changing information: The Piecewise Linear Ballistic Accumulator model

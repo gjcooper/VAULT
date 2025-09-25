@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Bhatnagar, Roopali; Orquin, Jacob L."
-title: "A meta-analysis on the effect of visual attention on choice."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Bhatnagar, Roopali; Orquin, Jacob L.
+title: A meta-analysis on the effect of visual attention on choice.
 publication: "Journal of Experimental Psychology: General"
 date: 2022-10-01
 citekey: bhatnagar2022metaanalysis
-aliases: 
-    - "A meta-analysis on the effect of visual attention on choice."
+aliases:
+  - A meta-analysis on the effect of visual attention on choice.
 ---
 
 # A meta-analysis on the effect of visual attention on choice.

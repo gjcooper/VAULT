@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "preprint"
-author: "Pearson, Daniel; Chong, Amy; Garner, Kelly; Le Pelley, Mike"
+cssclasses:
+  - research_note
+type: preprint
+author: Pearson, Daniel; Chong, Amy; Garner, Kelly; Le Pelley, Mike
 title: "Uncertainty-modulated attentional capture: Outcome variance increases attentional priority"
 date: 2023-03-03
 citekey: pearson2023uncertaintymodulated
-aliases: 
-    - "Uncertainty-modulated attentional capture: Outcome variance increases attentional priority"
+aliases:
+  - "Uncertainty-modulated attentional capture: Outcome variance increases attentional priority"
 ---
 
 # Uncertainty-modulated attentional capture: Outcome variance increases attentional priority

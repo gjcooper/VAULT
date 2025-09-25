@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Weber, Lilian A.; Diaconescu, Andreea O.; Mathys, Christoph; Schmidt, André; Kometer, Michael; Vollenweider, Franz; Stephan, Klaas E."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Weber, Lilian A.; Diaconescu, Andreea O.; Mathys, Christoph; Schmidt, André; Kometer, Michael; Vollenweider, Franz; Stephan, Klaas E.
 title: "Ketamine Affects Prediction Errors about Statistical Regularities: A Computational Single-Trial Analysis of the Mismatch Negativity"
-publication: "The Journal of Neuroscience"
+publication: The Journal of Neuroscience
 date: 2020-07-15
 citekey: weber2020ketamine
-aliases: 
-    - "Ketamine Affects Prediction Errors about Statistical Regularities: A Computational Single-Trial Analysis of the Mismatch Negativity"
+aliases:
+  - "Ketamine Affects Prediction Errors about Statistical Regularities: A Computational Single-Trial Analysis of the Mismatch Negativity"
 ---
 
 # Ketamine Affects Prediction Errors about Statistical Regularities: A Computational Single-Trial Analysis of the Mismatch Negativity

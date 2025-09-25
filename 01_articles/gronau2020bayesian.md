@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Gronau, Quentin F.; Lee, Michael D."
-title: "Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics"
-publication: "Computational Brain & Behavior"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Gronau, Quentin F.; Lee, Michael D.
+title: Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics
+publication: Computational Brain & Behavior
 date: 2020-01-01
 citekey: gronau2020bayesian
-aliases: 
-    - "Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics"
+aliases:
+  - Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics
 ---
 
 # Bayesian Inference for Multidimensional Scaling Representations with Psychologically Interpretable Metrics

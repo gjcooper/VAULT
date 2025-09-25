@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Eckstein, Maria K.; Collins, Anne G. E."
-title: "Computational evidence for hierarchically structured reinforcement learning in humans"
-publication: "Proceedings of the National Academy of Sciences"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Eckstein, Maria K.; Collins, Anne G. E.
+title: Computational evidence for hierarchically structured reinforcement learning in humans
+publication: Proceedings of the National Academy of Sciences
 date: 2020-11-24
 citekey: eckstein2020computational
-aliases: 
-    - "Computational evidence for hierarchically structured reinforcement learning in humans"
+aliases:
+  - Computational evidence for hierarchically structured reinforcement learning in humans
 ---
 
 # Computational evidence for hierarchically structured [[reinforcement learning]] in humans

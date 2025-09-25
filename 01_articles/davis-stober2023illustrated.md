@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Davis-Stober, Clintin P.; Marley, A. A. J.; McCausland, William J.; Turner, Brandon M."
-title: "An illustrated guide to context effects"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Davis-Stober, Clintin P.; Marley, A. A. J.; McCausland, William J.; Turner, Brandon M.
+title: An illustrated guide to context effects
+publication: Journal of Mathematical Psychology
 date: 2023-08-01
 citekey: davis-stober2023illustrated
-aliases: 
-    - "An illustrated guide to context effects"
+aliases:
+  - An illustrated guide to context effects
 ---
 
 # An illustrated guide to context effects

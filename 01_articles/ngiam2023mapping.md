@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Ngiam, William Xiang Quan"
-title: "Mapping visual working memory models to a theoretical framework"
-publication: "Psychonomic Bulletin & Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Ngiam, William Xiang Quan
+title: Mapping visual working memory models to a theoretical framework
+publication: Psychonomic Bulletin & Review
 date: 2023-08-28
 citekey: ngiam2023mapping
-aliases: 
-    - "Mapping visual working memory models to a theoretical framework"
+aliases:
+  - Mapping visual working memory models to a theoretical framework
 ---
 
 # Mapping visual working memory models to a theoretical framework

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Busemeyer, J. R.; Townsend, J. T."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Busemeyer, J. R.; Townsend, J. T.
 title: "Decision field theory: A dynamic–cognitive approach to decision making in an uncertain environment"
-publication: "Psychological review"
+publication: Psychological review
 date: 1993-01-01
 citekey: busemeyer1993decision
-aliases: 
-    - "Decision field theory: A dynamic–cognitive approach to decision making in an uncertain environment"
+aliases:
+  - "Decision field theory: A dynamic–cognitive approach to decision making in an uncertain environment"
 ---
 
 # Decision field theory: A dynamic–cognitive approach to decision making in an uncertain environment

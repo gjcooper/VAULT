@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Krajbich, Ian; Rangel, Antonio"
-title: "Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions"
-publication: "Proceedings of the National Academy of Sciences"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Krajbich, Ian; Rangel, Antonio
+title: Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions
+publication: Proceedings of the National Academy of Sciences
 date: 2011-08-16
 citekey: krajbich2011multialternative
-aliases: 
-    - "Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions"
+aliases:
+  - Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions
 ---
 
 # Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions

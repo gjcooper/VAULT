@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Huber, Oswald; Wider, Roman; Huber, Odilo W"
-title: "Active information search and complete information presentation in naturalistic risky decision tasks"
-publication: "Acta Psychologica"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Huber, Oswald; Wider, Roman; Huber, Odilo W
+title: Active information search and complete information presentation in naturalistic risky decision tasks
+publication: Acta Psychologica
 date: 1997-01-01
 citekey: huber1997active
-aliases: 
-    - "Active information search and complete information presentation in naturalistic risky decision tasks"
+aliases:
+  - Active information search and complete information presentation in naturalistic risky decision tasks
 ---
 
 # Active information search and complete information presentation in naturalistic risky decision tasks

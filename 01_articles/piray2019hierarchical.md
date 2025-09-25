@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Piray, Payam; Dezfouli, Amir; Heskes, Tom; Frank, Michael J.; Daw, Nathaniel D."
-title: "Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies"
-publication: "PLOS Computational Biology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Piray, Payam; Dezfouli, Amir; Heskes, Tom; Frank, Michael J.; Daw, Nathaniel D.
+title: Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies
+publication: PLOS Computational Biology
 date: 2019-06-18
 citekey: piray2019hierarchical
-aliases: 
-    - "Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies"
+aliases:
+  - Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies
 ---
 
 # Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies

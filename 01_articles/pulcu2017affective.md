@@ -1,14 +1,15 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pulcu, Erdem; Browning, Michael"
-editor: "Frank, Michael J"
-title: "Affective bias as a rational response to the statistics of rewards and punishments"
-publication: "eLife"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pulcu, Erdem; Browning, Michael
+editor: Frank, Michael J
+title: Affective bias as a rational response to the statistics of rewards and punishments
+publication: eLife
 date: 2017-10-04
 citekey: pulcu2017affective
-aliases: 
-    - "Affective bias as a rational response to the statistics of rewards and punishments"
+aliases:
+  - Affective bias as a rational response to the statistics of rewards and punishments
 ---
 
 # Affective bias as a rational response to the statistics of rewards and punishments

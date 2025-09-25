@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Acikgoz, Yalcin"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Acikgoz, Yalcin
 title: "Adding versus averaging: Evaluability theory applied to job choice decisions"
-publication: "Journal of Behavioral Decision Making"
+publication: Journal of Behavioral Decision Making
 date: 2020-01-01
 citekey: acikgoz2020adding
-aliases: 
-    - "Adding versus averaging: Evaluability theory applied to job choice decisions"
+aliases:
+  - "Adding versus averaging: Evaluability theory applied to job choice decisions"
 ---
 
 # Adding versus averaging: Evaluability theory applied to job choice decisions

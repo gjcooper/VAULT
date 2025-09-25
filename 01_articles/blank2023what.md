@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Blank, Idan A."
-title: "What are large language models supposed to model?"
-publication: "Trends in Cognitive Sciences"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Blank, Idan A.
+title: What are large language models supposed to model?
+publication: Trends in Cognitive Sciences
 date: 2023-08-31
 citekey: blank2023what
-aliases: 
-    - "What are large language models supposed to model?"
+aliases:
+  - What are large language models supposed to model?
 ---
 
 # What are large language models supposed to model?

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Russo, J. Edward; Dosher, Barbara A."
-title: "Strategies for multiattribute binary choice"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Russo, J. Edward; Dosher, Barbara A.
+title: Strategies for multiattribute binary choice
 publication: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 date: 1983-01-01
 citekey: russo1983strategies
-aliases: 
-    - "Strategies for multiattribute binary choice"
+aliases:
+  - Strategies for multiattribute binary choice
 ---
 
 # Strategies for multiattribute binary choice

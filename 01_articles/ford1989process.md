@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Ford, J.Kevin; Schmitt, Neal; Schechtman, Susan L; Hults, Brian M; Doherty, Mary L"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Ford, J.Kevin; Schmitt, Neal; Schechtman, Susan L; Hults, Brian M; Doherty, Mary L
 title: "Process tracing methods: Contributions, problems, and neglected research questions"
-publication: "Organizational Behavior and Human Decision Processes"
+publication: Organizational Behavior and Human Decision Processes
 date: 1989-02-01
 citekey: ford1989process
-aliases: 
-    - "Process tracing methods: Contributions, problems, and neglected research questions"
+aliases:
+  - "Process tracing methods: Contributions, problems, and neglected research questions"
 ---
 
 # Process tracing methods: Contributions, problems, and neglected research questions

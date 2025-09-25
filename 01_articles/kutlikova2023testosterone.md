@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Kutlikova, Hana H.; Zhang, Lei; Eisenegger, Christoph; van Honk, Jack; Lamm, Claus"
-title: "Testosterone eliminates strategic prosocial behavior through impacting choice consistency in healthy males"
-publication: "Neuropsychopharmacology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Kutlikova, Hana H.; Zhang, Lei; Eisenegger, Christoph; van Honk, Jack; Lamm, Claus
+title: Testosterone eliminates strategic prosocial behavior through impacting choice consistency in healthy males
+publication: Neuropsychopharmacology
 date: 2023-09-01
 citekey: kutlikova2023testosterone
-aliases: 
-    - "Testosterone eliminates strategic prosocial behavior through impacting choice consistency in healthy males"
+aliases:
+  - Testosterone eliminates strategic prosocial behavior through impacting choice consistency in healthy males
 ---
 
 # Testosterone eliminates strategic prosocial behavior through impacting choice consistency in healthy males

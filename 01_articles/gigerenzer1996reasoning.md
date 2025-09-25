@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Gigerenzer, Gerd; Goldstein, Daniel G."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Gigerenzer, Gerd; Goldstein, Daniel G.
 title: "Reasoning the fast and frugal way: Models of bounded rationality."
-publication: "Psychological Review"
+publication: Psychological Review
 date: 1996-10-01
 citekey: gigerenzer1996reasoning
-aliases: 
-    - "Reasoning the fast and frugal way: Models of bounded rationality."
+aliases:
+  - "Reasoning the fast and frugal way: Models of bounded rationality."
 ---
 
 # Reasoning the fast and frugal way: Models of bounded rationality.

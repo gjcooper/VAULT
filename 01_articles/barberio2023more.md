@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "preprint"
-author: "Barberio, Amanda C.; Cohen, Dale J."
+cssclasses:
+  - research_note
+type: preprint
+author: Barberio, Amanda C.; Cohen, Dale J.
 title: "More is not always better: The Psychological Value of Groups"
 date: 2023-01-01
 citekey: barberio2023more
-aliases: 
-    - "More is not always better: The Psychological Value of Groups"
+aliases:
+  - "More is not always better: The Psychological Value of Groups"
 ---
 
 # More is not always better: The Psychological Value of Groups

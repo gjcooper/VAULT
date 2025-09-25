@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Fontanesi, Laura; Shenhav, Amitai; Gluth, Sebastian"
-title: "Disentangling choice value and choice conflict in sequential decisions under risk"
-publication: "PLOS Computational Biology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Fontanesi, Laura; Shenhav, Amitai; Gluth, Sebastian
+title: Disentangling choice value and choice conflict in sequential decisions under risk
+publication: PLOS Computational Biology
 date: 2022-10-07
 citekey: fontanesi2022disentangling
-aliases: 
-    - "Disentangling choice value and choice conflict in sequential decisions under risk"
+aliases:
+  - Disentangling choice value and choice conflict in sequential decisions under risk
 ---
 
 # Disentangling choice value and choice conflict in sequential decisions under risk

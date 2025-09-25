@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Swait, Joffre; Adamowicz, Wiktor"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Swait, Joffre; Adamowicz, Wiktor
 title: "The Influence of Task Complexity on Consumer Choice: A Latent Class Model of Decision Strategy Switching"
-publication: "Journal of Consumer Research"
+publication: Journal of Consumer Research
 date: 2001-01-01
 citekey: swait2001influence
-aliases: 
-    - "The Influence of Task Complexity on Consumer Choice: A Latent Class Model of Decision Strategy Switching"
+aliases:
+  - "The Influence of Task Complexity on Consumer Choice: A Latent Class Model of Decision Strategy Switching"
 ---
 
 # The Influence of Task Complexity on Consumer Choice: A Latent Class Model of Decision Strategy Switching

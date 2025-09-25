@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pearson, Daniel; Watson, Poppy; Albertella, Lucy; Le Pelley, Mike E."
-title: "Attentional economics links value-modulated attentional capture and decision-making"
-publication: "Nature Reviews Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pearson, Daniel; Watson, Poppy; Albertella, Lucy; Le Pelley, Mike E.
+title: Attentional economics links value-modulated attentional capture and decision-making
+publication: Nature Reviews Psychology
 date: 2022-06-01
 citekey: pearson2022attentional
-aliases: 
-    - "Attentional economics links value-modulated attentional capture and decision-making"
+aliases:
+  - Attentional economics links value-modulated attentional capture and decision-making
 ---
 
 # Attentional economics links value-modulated attentional capture and decision-making

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hornsby, Adam N.; Love, Bradley C."
-title: "Sequential consumer choice as multi-cued retrieval"
-publication: "Science Advances"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hornsby, Adam N.; Love, Bradley C.
+title: Sequential consumer choice as multi-cued retrieval
+publication: Science Advances
 date: 2022-02-25
 citekey: hornsby2022sequential
-aliases: 
-    - "Sequential consumer choice as multi-cued retrieval"
+aliases:
+  - Sequential consumer choice as multi-cued retrieval
 ---
 
 # Sequential consumer choice as multi-cued retrieval

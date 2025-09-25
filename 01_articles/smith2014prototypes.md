@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Smith, J. David"
-title: "Prototypes, exemplars, and the natural history of categorization"
-publication: "Psychonomic Bulletin & Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Smith, J. David
+title: Prototypes, exemplars, and the natural history of categorization
+publication: Psychonomic Bulletin & Review
 date: 2014-04-01
 citekey: smith2014prototypes
-aliases: 
-    - "Prototypes, exemplars, and the natural history of categorization"
+aliases:
+  - Prototypes, exemplars, and the natural history of categorization
 ---
 
 # Prototypes, exemplars, and the natural history of categorization

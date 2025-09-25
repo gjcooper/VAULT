@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lee, Douglas G.; D'Alessandro, Marco; Iodice, Pierpaolo; Calluso, Cinzia; Rustichini, Aldo; Pezzulo, Giovanni"
-title: "Risky decisions are influenced by individual attributes as a function of risk preference"
-publication: "Cognitive Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lee, Douglas G.; D'Alessandro, Marco; Iodice, Pierpaolo; Calluso, Cinzia; Rustichini, Aldo; Pezzulo, Giovanni
+title: Risky decisions are influenced by individual attributes as a function of risk preference
+publication: Cognitive Psychology
 date: 2023-12-01
 citekey: lee2023risky
-aliases: 
-    - "Risky decisions are influenced by individual attributes as a function of risk preference"
+aliases:
+  - Risky decisions are influenced by individual attributes as a function of risk preference
 ---
 
 # Risky decisions are influenced by individual attributes as a function of risk preference

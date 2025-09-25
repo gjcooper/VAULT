@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Stevenson, Niek; Innes, Reilly J.; Boag, Russell J.; Miletić, Steven; Isherwood, Scott J. S.; Trutti, Anne C.; Heathcote, Andrew; Forstmann, Birte U."
-title: "Joint Modelling of Latent Cognitive Mechanisms Shared Across Decision-Making Domains"
-publication: "Computational Brain & Behavior"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Stevenson, Niek; Innes, Reilly J.; Boag, Russell J.; Miletić, Steven; Isherwood, Scott J. S.; Trutti, Anne C.; Heathcote, Andrew; Forstmann, Birte U.
+title: Joint Modelling of Latent Cognitive Mechanisms Shared Across Decision-Making Domains
+publication: Computational Brain & Behavior
 date: 2024-03-01
 citekey: stevenson2024joint
-aliases: 
-    - "Joint Modelling of Latent Cognitive Mechanisms Shared Across Decision-Making Domains"
+aliases:
+  - Joint Modelling of Latent Cognitive Mechanisms Shared Across Decision-Making Domains
 ---
 
 # Joint Modelling of Latent Cognitive Mechanisms Shared Across Decision-Making Domains

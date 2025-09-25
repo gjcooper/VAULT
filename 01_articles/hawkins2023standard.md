@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hawkins, Guy E.; Cooper, Gavin J.; Cavallaro, Jon-Paul"
-title: "The standard relationship between choice frequency and choice time is violated in multi-attribute preferential choice"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hawkins, Guy E.; Cooper, Gavin J.; Cavallaro, Jon-Paul
+title: The standard relationship between choice frequency and choice time is violated in multi-attribute preferential choice
+publication: Journal of Mathematical Psychology
 date: 2023-08-01
 citekey: hawkins2023standard
-aliases: 
-    - "The standard relationship between choice frequency and choice time is violated in multi-attribute preferential choice"
+aliases:
+  - The standard relationship between choice frequency and choice time is violated in multi-attribute preferential choice
 ---
 
 # The standard relationship between choice frequency and choice time is violated in multi-attribute preferential choice

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Zilker, Veronika"
-title: "Stronger attentional biases can be linked to higher reward rate in preferential choice"
-publication: "Cognition"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Zilker, Veronika
+title: Stronger attentional biases can be linked to higher reward rate in preferential choice
+publication: Cognition
 date: 2022-08-01
 citekey: zilker2022strongera
-aliases: 
-    - "Stronger attentional biases can be linked to higher reward rate in preferential choice"
+aliases:
+  - Stronger attentional biases can be linked to higher reward rate in preferential choice
 ---
 
 # Stronger attentional biases can be linked to higher reward rate in preferential choice

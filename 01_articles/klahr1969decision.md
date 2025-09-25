@@ -1,5 +1,6 @@
 ---
-cssclass: research_note
+cssclasses:
+  - research_note
 type: journalArticle
 author: Klahr, David
 title: "Decision Making in a Complex Environment: The Use of Similarity Judgements to Predict Preferences"

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Krajbich, Ian; Armel, Carrie; Rangel, Antonio"
-title: "Visual fixations and the computation and comparison of value in simple choice"
-publication: "Nature Neuroscience"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Krajbich, Ian; Armel, Carrie; Rangel, Antonio
+title: Visual fixations and the computation and comparison of value in simple choice
+publication: Nature Neuroscience
 date: 2010-10-12
 citekey: krajbich2010visual
-aliases: 
-    - "Visual fixations and the computation and comparison of value in simple choice"
+aliases:
+  - Visual fixations and the computation and comparison of value in simple choice
 ---
 
 # Visual fixations and the computation and comparison of value in simple choice

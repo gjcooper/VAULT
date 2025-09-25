@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Sajda, P.; Philiastides, M.G.; Parra, L.C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Sajda, P.; Philiastides, M.G.; Parra, L.C.
 title: "Single-Trial Analysis of Neuroimaging Data: Inferring Neural Networks Underlying Perceptual Decision-Making in the Human Brain"
-publication: "IEEE Reviews in Biomedical Engineering"
+publication: IEEE Reviews in Biomedical Engineering
 date: 2009-01-01
 citekey: sajda2009singletrial
-aliases: 
-    - "Single-Trial Analysis of Neuroimaging Data: Inferring Neural Networks Underlying Perceptual Decision-Making in the Human Brain"
+aliases:
+  - "Single-Trial Analysis of Neuroimaging Data: Inferring Neural Networks Underlying Perceptual Decision-Making in the Human Brain"
 ---
 
 # Single-Trial Analysis of Neuroimaging Data: Inferring Neural Networks Underlying Perceptual Decision-Making in the Human Brain

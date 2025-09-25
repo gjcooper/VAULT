@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Poon, Neo; Luckman, Ashley; Isoni, Andrea; Mullett, Timothy L."
-title: "A query theory account of the attraction effect"
-publication: "Cognition"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Poon, Neo; Luckman, Ashley; Isoni, Andrea; Mullett, Timothy L.
+title: A query theory account of the attraction effect
+publication: Cognition
 date: 2023-09-01
 citekey: poon2023query
-aliases: 
-    - "A query theory account of the attraction effect"
+aliases:
+  - A query theory account of the attraction effect
 ---
 
 # A query theory account of the attraction effect

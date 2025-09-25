@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Ratcliff, Roger; Smith, Philip L.; Brown, Scott D.; McKoon, Gail"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Ratcliff, Roger; Smith, Philip L.; Brown, Scott D.; McKoon, Gail
 title: "Diffusion Decision Model: Current Issues and History"
-publication: "Trends in Cognitive Sciences"
+publication: Trends in Cognitive Sciences
 date: 2016-04-01
 citekey: ratcliff2016diffusion
-aliases: 
-    - "Diffusion Decision Model: Current Issues and History"
+aliases:
+  - "Diffusion Decision Model: Current Issues and History"
 ---
 
 # Diffusion Decision Model: Current Issues and History

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Zhou, Ran; Pitt, Mark A."
-title: "Dual-process modeling of sequential decision making in the balloon analogue risk task"
-publication: "Cognitive Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Zhou, Ran; Pitt, Mark A.
+title: Dual-process modeling of sequential decision making in the balloon analogue risk task
+publication: Cognitive Psychology
 date: 2024-03-01
 citekey: zhou2024dualprocess
-aliases: 
-    - "Dual-process modeling of sequential decision making in the balloon analogue risk task"
+aliases:
+  - Dual-process modeling of sequential decision making in the balloon analogue risk task
 ---
 
 # Dual-process modeling of sequential decision making in the balloon analogue risk task

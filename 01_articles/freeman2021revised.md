@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Freeman, Daniel; Loe, Bao S.; Kingdon, David; Startup, Helen; Molodynski, Andrew; Rosebrock, Laina; Brown, Poppy; Sheaves, Bryony; Waite, Felicity; Bird, Jessica C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Freeman, Daniel; Loe, Bao S.; Kingdon, David; Startup, Helen; Molodynski, Andrew; Rosebrock, Laina; Brown, Poppy; Sheaves, Bryony; Waite, Felicity; Bird, Jessica C.
 title: "The revised Green et al., Paranoid Thoughts Scale (R-GPTS): psychometric properties, severity ranges, and clinical cut-offs"
-publication: "Psychological Medicine"
+publication: Psychological Medicine
 date: 2021-01-01
 citekey: freeman2021revised
-aliases: 
-    - "The revised Green et al., Paranoid Thoughts Scale (R-GPTS): psychometric properties, severity ranges, and clinical cut-offs"
+aliases:
+  - "The revised Green et al., Paranoid Thoughts Scale (R-GPTS): psychometric properties, severity ranges, and clinical cut-offs"
 ---
 
 # The revised Green et al., Paranoid Thoughts Scale (R-GPTS): psychometric properties, severity ranges, and clinical cut-offs

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Rahal, Rima-Maria; Fiedler, Susann; Adetula, Adeyemi; Berntsson, Ronnie P.-A.; Dirnagl, Ulrich; Feld, Gordon B.; Fiebach, Christian J.; Himi, Samsad Afrin; Horner, Aidan J.; Lonsdorf, Tina B.; Schönbrodt, Felix; Silan, Miguel Alejandro A.; Wenzler, Michael; Azevedo, Flávio"
-title: "Quality research needs good working conditions"
-publication: "Nature Human Behaviour"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Rahal, Rima-Maria; Fiedler, Susann; Adetula, Adeyemi; Berntsson, Ronnie P.-A.; Dirnagl, Ulrich; Feld, Gordon B.; Fiebach, Christian J.; Himi, Samsad Afrin; Horner, Aidan J.; Lonsdorf, Tina B.; Schönbrodt, Felix; Silan, Miguel Alejandro A.; Wenzler, Michael; Azevedo, Flávio
+title: Quality research needs good working conditions
+publication: Nature Human Behaviour
 date: 2023-02-08
 citekey: rahal2023quality
-aliases: 
-    - "Quality research needs good working conditions"
+aliases:
+  - Quality research needs good working conditions
 ---
 
 # Quality research needs good working conditions

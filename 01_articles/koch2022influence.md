@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "preprint"
-author: "Koch, Christoph; Zika, Ondrej; Bruckner, Rasmus; Schuck, Nicolas W."
-title: "Influence of surprise on reinforcement learning in younger and older adults"
+cssclasses:
+  - research_note
+type: preprint
+author: Koch, Christoph; Zika, Ondrej; Bruckner, Rasmus; Schuck, Nicolas W.
+title: Influence of surprise on reinforcement learning in younger and older adults
 date: 2022-12-03
 citekey: koch2022influence
-aliases: 
-    - "Influence of surprise on reinforcement learning in younger and older adults"
+aliases:
+  - Influence of surprise on reinforcement learning in younger and older adults
 ---
 
 # Influence of surprise on reinforcement learning in younger and older adults

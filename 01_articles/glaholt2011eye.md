@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Glaholt, Mackenzie G.; Reingold, Eyal M."
-title: "Eye movement monitoring as a process tracing methodology in decision making research."
-publication: "Journal of Neuroscience, Psychology, and Economics"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Glaholt, Mackenzie G.; Reingold, Eyal M.
+title: Eye movement monitoring as a process tracing methodology in decision making research.
+publication: Journal of Neuroscience, Psychology, and Economics
 date: 2011-05-01
 citekey: glaholt2011eye
-aliases: 
-    - "Eye movement monitoring as a process tracing methodology in decision making research."
+aliases:
+  - Eye movement monitoring as a process tracing methodology in decision making research.
 ---
 
 # Eye movement monitoring as a process tracing methodology in decision making research.

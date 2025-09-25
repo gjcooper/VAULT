@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Harada-Laszlo, Mia; Talwar, Anahita; Robinson, Oliver J.; Pike, Alexandra C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Harada-Laszlo, Mia; Talwar, Anahita; Robinson, Oliver J.; Pike, Alexandra C.
 title: "A series of unfortunate events: Do those who catastrophize learn more after negative outcomes?"
-publication: "Mental Health Science"
+publication: Mental Health Science
 date: 2024-01-01
 citekey: harada-laszlo2024series
-aliases: 
-    - "A series of unfortunate events: Do those who catastrophize learn more after negative outcomes?"
+aliases:
+  - "A series of unfortunate events: Do those who catastrophize learn more after negative outcomes?"
 ---
 
 # A series of unfortunate events: Do those who catastrophize learn more after negative outcomes?

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Nisbett, Richard E.; Wilson, Timothy D."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Nisbett, Richard E.; Wilson, Timothy D.
 title: "Telling more than we can know: Verbal reports on mental processes."
-publication: "Psychological Review"
+publication: Psychological Review
 date: 1977-05-01
 citekey: nisbett1977telling
-aliases: 
-    - "Telling more than we can know: Verbal reports on mental processes."
+aliases:
+  - "Telling more than we can know: Verbal reports on mental processes."
 ---
 
 # Telling more than we can know: Verbal reports on mental processes.

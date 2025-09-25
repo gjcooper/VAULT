@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hicks, Michael Townsen; Humphries, James; Slater, Joe"
-title: "ChatGPT is bullshit"
-publication: "Ethics and Information Technology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hicks, Michael Townsen; Humphries, James; Slater, Joe
+title: ChatGPT is bullshit
+publication: Ethics and Information Technology
 date: 2024-06-08
 citekey: hicks2024chatgpt
-aliases: 
-    - "ChatGPT is bullshit"
+aliases:
+  - ChatGPT is bullshit
 ---
 
 # ChatGPT is bullshit

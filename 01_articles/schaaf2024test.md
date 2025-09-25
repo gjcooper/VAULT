@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Schaaf, Jessica V.; Weidinger, Laura; Molleman, Lucas; van den Bos, Wouter"
-title: "Test–retest reliability of reinforcement learning parameters"
-publication: "Behavior Research Methods"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Schaaf, Jessica V.; Weidinger, Laura; Molleman, Lucas; van den Bos, Wouter
+title: Test–retest reliability of reinforcement learning parameters
+publication: Behavior Research Methods
 date: 2024-08-01
 citekey: schaaf2024test
-aliases: 
-    - "Test–retest reliability of reinforcement learning parameters"
+aliases:
+  - Test–retest reliability of reinforcement learning parameters
 ---
 
 # Test–retest reliability of reinforcement learning parameters

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Pike, Alexandra C.; Sharpley, Ann L.; Park, Rebecca J.; Cowen, Philip J.; Browning, Michael; Pulcu, Erdem"
-title: "Adaptive learning from outcome contingencies in eating-disorder risk groups"
-publication: "Translational Psychiatry"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Pike, Alexandra C.; Sharpley, Ann L.; Park, Rebecca J.; Cowen, Philip J.; Browning, Michael; Pulcu, Erdem
+title: Adaptive learning from outcome contingencies in eating-disorder risk groups
+publication: Translational Psychiatry
 date: 2023-11-04
 citekey: pike2023adaptive
-aliases: 
-    - "Adaptive learning from outcome contingencies in eating-disorder risk groups"
+aliases:
+  - Adaptive learning from outcome contingencies in eating-disorder risk groups
 ---
 
 # Adaptive learning from outcome contingencies in eating-disorder risk groups

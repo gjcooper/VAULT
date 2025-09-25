@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hird, E. J.; Slanina-Davies, A.; Lewis, G.; Hamer, M.; Roiser, J. P."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hird, E. J.; Slanina-Davies, A.; Lewis, G.; Hamer, M.; Roiser, J. P.
 title: "From movement to motivation: a proposed framework to understand the antidepressant effect of exercise"
-publication: "Translational Psychiatry"
+publication: Translational Psychiatry
 date: 2024-07-04
 citekey: hird2024movement
-aliases: 
-    - "From movement to motivation: a proposed framework to understand the antidepressant effect of exercise"
+aliases:
+  - "From movement to motivation: a proposed framework to understand the antidepressant effect of exercise"
 ---
 
 # From movement to motivation: a proposed framework to understand the antidepressant effect of exercise

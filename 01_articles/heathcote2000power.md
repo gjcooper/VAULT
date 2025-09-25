@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Heathcote, Andrew; Brown, Scott; Mewhort, D. J. K."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Heathcote, Andrew; Brown, Scott; Mewhort, D. J. K.
 title: "The power law repealed: The case for an exponential law of practice"
-publication: "Psychonomic Bulletin & Review"
+publication: Psychonomic Bulletin & Review
 date: 2000-06-01
 citekey: heathcote2000power
-aliases: 
-    - "The power law repealed: The case for an exponential law of practice"
+aliases:
+  - "The power law repealed: The case for an exponential law of practice"
 ---
 
 # The power law repealed: The case for an exponential law of practice

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Le Pelley, Mike E.; Pearson, Daniel; Griffiths, Oren; Beesley, Tom"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Le Pelley, Mike E.; Pearson, Daniel; Griffiths, Oren; Beesley, Tom
 title: "When goals conflict with values: counterproductive attentional and oculomotor capture by reward-related stimuli"
-publication: "Journal of Experimental Psychology. General"
+publication: Journal of Experimental Psychology. General
 date: 2015-02-01
 citekey: lepelley2015when
-aliases: 
-    - "When goals conflict with values: counterproductive attentional and oculomotor capture by reward-related stimuli"
+aliases:
+  - "When goals conflict with values: counterproductive attentional and oculomotor capture by reward-related stimuli"
 ---
 
 # When goals conflict with values: counterproductive attentional and oculomotor capture by reward-related stimuli

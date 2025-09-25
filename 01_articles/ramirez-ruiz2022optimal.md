@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Ramírez-Ruiz, Jorge; Moreno-Bote, Rubén"
-title: "Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making"
-publication: "Cognitive Science"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Ramírez-Ruiz, Jorge; Moreno-Bote, Rubén
+title: Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making
+publication: Cognitive Science
 date: 2022-01-01
 citekey: ramirez-ruiz2022optimal
-aliases: 
-    - "Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making"
+aliases:
+  - Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making
 ---
 
 # Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making

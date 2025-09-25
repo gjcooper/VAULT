@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Barnby, J. M.; Raihani, N.; Dayan, P."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Barnby, J. M.; Raihani, N.; Dayan, P.
 title: "Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent"
-publication: "Cognition"
+publication: Cognition
 date: 2022-08-01
 citekey: barnby2022knowing
-aliases: 
-    - "Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent"
+aliases:
+  - "Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent"
 ---
 
 # Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent

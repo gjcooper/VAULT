@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lieder, Falk; Daunizeau, Jean; Garrido, Marta I.; Friston, Karl J.; Stephan, Klaas E."
-title: "Modelling Trial-by-Trial Changes in the Mismatch Negativity"
-publication: "PLOS Computational Biology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lieder, Falk; Daunizeau, Jean; Garrido, Marta I.; Friston, Karl J.; Stephan, Klaas E.
+title: Modelling Trial-by-Trial Changes in the Mismatch Negativity
+publication: PLOS Computational Biology
 date: 2013-02-21
 citekey: lieder2013modelling
-aliases: 
-    - "Modelling Trial-by-Trial Changes in the Mismatch Negativity"
+aliases:
+  - Modelling Trial-by-Trial Changes in the Mismatch Negativity
 ---
 
 # Modelling Trial-by-Trial Changes in the Mismatch Negativity

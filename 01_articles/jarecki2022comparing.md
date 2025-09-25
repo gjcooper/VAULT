@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Jarecki, Jana B.; Rieskamp, Jörg"
-title: "Comparing attribute-based and memory-based preferential choice"
-publication: "DECISION"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Jarecki, Jana B.; Rieskamp, Jörg
+title: Comparing attribute-based and memory-based preferential choice
+publication: DECISION
 date: 2022-03-01
 citekey: jarecki2022comparing
-aliases: 
-    - "Comparing attribute-based and memory-based preferential choice"
+aliases:
+  - Comparing attribute-based and memory-based preferential choice
 ---
 
 # Comparing attribute-based and memory-based preferential choice

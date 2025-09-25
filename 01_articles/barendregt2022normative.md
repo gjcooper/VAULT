@@ -1,14 +1,15 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Barendregt, Nicholas W; Gold, Joshua I; Josić, Krešimir; Kilpatrick, Zachary P"
-editor: "Latham, Peter"
-title: "Normative decision rules in changing environments"
-publication: "eLife"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Barendregt, Nicholas W; Gold, Joshua I; Josić, Krešimir; Kilpatrick, Zachary P
+editor: Latham, Peter
+title: Normative decision rules in changing environments
+publication: eLife
 date: 2022-10-25
 citekey: barendregt2022normative
-aliases: 
-    - "Normative decision rules in changing environments"
+aliases:
+  - Normative decision rules in changing environments
 ---
 
 # Normative decision rules in changing environments

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lucas, Christopher G.; Griffiths, Thomas L.; Xu, Fei; Fawcett, Christine; Gopnik, Alison; Kushnir, Tamar; Markson, Lori; Hu, Jane"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lucas, Christopher G.; Griffiths, Thomas L.; Xu, Fei; Fawcett, Christine; Gopnik, Alison; Kushnir, Tamar; Markson, Lori; Hu, Jane
 title: "The Child as Econometrician: A Rational Model of Preference Understanding in Children"
-publication: "PLOS ONE"
+publication: PLOS ONE
 date: 2014-03-25
 citekey: lucas2014child
-aliases: 
-    - "The Child as Econometrician: A Rational Model of Preference Understanding in Children"
+aliases:
+  - "The Child as Econometrician: A Rational Model of Preference Understanding in Children"
 ---
 
 # The Child as Econometrician: A Rational Model of Preference Understanding in Children

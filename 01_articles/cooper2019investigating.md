@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Cooper, Gavin J.; Hawkins, Guy E."
-title: "Investigating consumer decision strategies with systems factorial technology"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Cooper, Gavin J.; Hawkins, Guy E.
+title: Investigating consumer decision strategies with systems factorial technology
+publication: Journal of Mathematical Psychology
 date: 2019-10-01
 citekey: cooper2019investigating
-aliases: 
-    - "Investigating consumer decision strategies with systems factorial technology"
+aliases:
+  - Investigating consumer decision strategies with systems factorial technology
 ---
 
 # Investigating consumer decision strategies with systems factorial technology

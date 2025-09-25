@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Gao, Mengcun; Turner, Brandon M.; Sloutsky, Vladimir M."
-title: "The Role of Attention in Category Representation"
-publication: "Cognitive Science"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Gao, Mengcun; Turner, Brandon M.; Sloutsky, Vladimir M.
+title: The Role of Attention in Category Representation
+publication: Cognitive Science
 date: 2024-01-01
 citekey: gao2024role
-aliases: 
-    - "The Role of Attention in Category Representation"
+aliases:
+  - The Role of Attention in Category Representation
 ---
 
 # The Role of Attention in Category Representation

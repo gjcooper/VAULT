@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Navarro, Daniel J.; Griffiths, Thomas L.; Steyvers, Mark; Lee, Michael D."
-title: "Modeling individual differences using Dirichlet processes"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Navarro, Daniel J.; Griffiths, Thomas L.; Steyvers, Mark; Lee, Michael D.
+title: Modeling individual differences using Dirichlet processes
+publication: Journal of Mathematical Psychology
 date: 2006-01-01
 citekey: navarro2006modeling
-aliases: 
-    - "Modeling individual differences using Dirichlet processes"
+aliases:
+  - Modeling individual differences using Dirichlet processes
 ---
 
 # Modeling individual differences using Dirichlet processes

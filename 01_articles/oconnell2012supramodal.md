@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "O'Connell, R G; Dockree, P M; Kelly, S P"
-title: "A supramodal accumulation--to--bound signal that determines perceptual decisions in humans"
-publication: "Nature Neuroscience"
+cssclasses:
+  - research_note
+type: journalArticle
+author: O'Connell, R G; Dockree, P M; Kelly, S P
+title: A supramodal accumulation--to--bound signal that determines perceptual decisions in humans
+publication: Nature Neuroscience
 date: 2012-01-01
 citekey: oconnell2012supramodal
-aliases: 
-    - "A supramodal accumulation--to--bound signal that determines perceptual decisions in humans"
+aliases:
+  - A supramodal accumulation--to--bound signal that determines perceptual decisions in humans
 ---
 
 # A supramodal accumulation--to--bound signal that determines perceptual decisions in humans

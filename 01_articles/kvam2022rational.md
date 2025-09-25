@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Kvam, Peter D.; Alaukik, Abhay; Mims, Callie E.; Martemyanova, Arina; Baldwin, Matthew"
-title: "Rational inference strategies and the genesis of polarization and extremism"
-publication: "Scientific Reports"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Kvam, Peter D.; Alaukik, Abhay; Mims, Callie E.; Martemyanova, Arina; Baldwin, Matthew
+title: Rational inference strategies and the genesis of polarization and extremism
+publication: Scientific Reports
 date: 2022-05-05
 citekey: kvam2022rational
-aliases: 
-    - "Rational inference strategies and the genesis of polarization and extremism"
+aliases:
+  - Rational inference strategies and the genesis of polarization and extremism
 ---
 
 # Rational inference strategies and the genesis of polarization and extremism

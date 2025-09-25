@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Engländer, Tibor; Tyszka, Tadeusz"
-title: "Information seeking in open decision situations"
-publication: "Acta Psychologica"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Engländer, Tibor; Tyszka, Tadeusz
+title: Information seeking in open decision situations
+publication: Acta Psychologica
 date: 1980-01-01
 citekey: englander1980information
-aliases: 
-    - "Information seeking in open decision situations"
+aliases:
+  - Information seeking in open decision situations
 ---
 
 # Information seeking in open decision situations

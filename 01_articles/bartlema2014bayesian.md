@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Bartlema, Annelies; Lee, Michael; Wetzels, Ruud; Vanpaemel, Wolf"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Bartlema, Annelies; Lee, Michael; Wetzels, Ruud; Vanpaemel, Wolf
 title: "A Bayesian hierarchical mixture approach to individual differences: Case studies in selective attention and representation in category learning"
-publication: "Journal of Mathematical Psychology"
+publication: Journal of Mathematical Psychology
 date: 2014-04-01
 citekey: bartlema2014bayesian
-aliases: 
-    - "A Bayesian hierarchical mixture approach to individual differences: Case studies in selective attention and representation in category learning"
+aliases:
+  - "A Bayesian hierarchical mixture approach to individual differences: Case studies in selective attention and representation in category learning"
 ---
 
 # A Bayesian hierarchical mixture approach to individual differences: Case studies in selective attention and representation in category learning

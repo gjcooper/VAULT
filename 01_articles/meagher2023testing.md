@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Meagher, Brian J.; Nosofsky, Robert M."
-title: "Testing formal cognitive models of classification and old-new recognition in a real-world high-dimensional category domain"
-publication: "Cognitive Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Meagher, Brian J.; Nosofsky, Robert M.
+title: Testing formal cognitive models of classification and old-new recognition in a real-world high-dimensional category domain
+publication: Cognitive Psychology
 date: 2023-09-01
 citekey: meagher2023testing
-aliases: 
-    - "Testing formal cognitive models of classification and old-new recognition in a real-world high-dimensional category domain"
+aliases:
+  - Testing formal cognitive models of classification and old-new recognition in a real-world high-dimensional category domain
 ---
 
 # Testing formal cognitive models of classification and old-new recognition in a real-world high-dimensional category domain

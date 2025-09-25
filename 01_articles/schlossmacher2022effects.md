@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Schlossmacher, Insa; Lucka, Felix; Peters, Antje; Bruchmann, Maximilian; Straube, Thomas"
-title: "Effects of awareness and task relevance on neurocomputational models of mismatch negativity generation"
-publication: "NeuroImage"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Schlossmacher, Insa; Lucka, Felix; Peters, Antje; Bruchmann, Maximilian; Straube, Thomas
+title: Effects of awareness and task relevance on neurocomputational models of mismatch negativity generation
+publication: NeuroImage
 date: 2022-11-01
 citekey: schlossmacher2022effects
-aliases: 
-    - "Effects of awareness and task relevance on neurocomputational models of mismatch negativity generation"
+aliases:
+  - Effects of awareness and task relevance on neurocomputational models of mismatch negativity generation
 ---
 
 # Effects of awareness and task relevance on neurocomputational models of mismatch negativity generation

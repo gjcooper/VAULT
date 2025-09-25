@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "bookSection"
-editor: "Pothos, Emmanuel M.; Wills, Andy J."
-author: "Nosofsky, Robert M."
+cssclasses:
+  - research_note
+type: bookSection
+editor: Pothos, Emmanuel M.; Wills, Andy J.
+author: Nosofsky, Robert M.
 title: "The generalized context model: an exemplar model of classification"
 date: 2011-01-27
 citekey: nosofsky2011generalized
-aliases: 
-    - "The generalized context model: an exemplar model of classification"
+aliases:
+  - "The generalized context model: an exemplar model of classification"
 ---
 
 # The generalized context model: an exemplar model of classification

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Schulte-Mecklenbeck, Michael; Johnson, Joseph G.; Böckenholt, Ulf; Goldstein, Daniel G.; Russo, J. Edward; Sullivan, Nicolette J.; Willemsen, Martijn C."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Schulte-Mecklenbeck, Michael; Johnson, Joseph G.; Böckenholt, Ulf; Goldstein, Daniel G.; Russo, J. Edward; Sullivan, Nicolette J.; Willemsen, Martijn C.
 title: "Process-Tracing Methods in Decision Making: On Growing Up in the 70s"
-publication: "Current Directions in Psychological Science"
+publication: Current Directions in Psychological Science
 date: 2017-01-01
 citekey: schulte-mecklenbeck2017processtracing
-aliases: 
-    - "Process-Tracing Methods in Decision Making: On Growing Up in the 70s"
+aliases:
+  - "Process-Tracing Methods in Decision Making: On Growing Up in the 70s"
 ---
 
 # Process-Tracing Methods in Decision Making: On Growing Up in the 70s

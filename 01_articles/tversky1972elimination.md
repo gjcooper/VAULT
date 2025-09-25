@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Tversky, Amos"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Tversky, Amos
 title: "Elimination by aspects: A theory of choice"
-publication: "Psychological Review"
+publication: Psychological Review
 date: 1972-01-01
 citekey: tversky1972elimination
-aliases: 
-    - "Elimination by aspects: A theory of choice"
+aliases:
+  - "Elimination by aspects: A theory of choice"
 ---
 
 # Elimination by aspects: A theory of choice

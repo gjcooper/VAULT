@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Rieskamp, Jörg; Hoffrage, Ulrich"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Rieskamp, Jörg; Hoffrage, Ulrich
 title: "Inferences under time pressure: How opportunity costs affect strategy selection"
-publication: "Acta Psychologica"
+publication: Acta Psychologica
 date: 2008-02-01
 citekey: rieskamp2008inferences
-aliases: 
-    - "Inferences under time pressure: How opportunity costs affect strategy selection"
+aliases:
+  - "Inferences under time pressure: How opportunity costs affect strategy selection"
 ---
 
 # Inferences under time pressure: How opportunity costs affect strategy selection

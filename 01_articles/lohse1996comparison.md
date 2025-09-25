@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lohse, Gerald L.; Johnson, Eric J."
-title: "A Comparison of Two Process Tracing Methods for Choice Tasks"
-publication: "Organizational Behavior and Human Decision Processes"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lohse, Gerald L.; Johnson, Eric J.
+title: A Comparison of Two Process Tracing Methods for Choice Tasks
+publication: Organizational Behavior and Human Decision Processes
 date: 1996-10-01
 citekey: lohse1996comparison
-aliases: 
-    - "A Comparison of Two Process Tracing Methods for Choice Tasks"
+aliases:
+  - A Comparison of Two Process Tracing Methods for Choice Tasks
 ---
 
 # A Comparison of Two Process Tracing Methods for Choice Tasks

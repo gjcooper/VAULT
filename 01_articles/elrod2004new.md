@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Elrod, Terry; Johnson, Richard D.; White, Joan"
-title: "A new integrated model of noncompensatory and compensatory decision strategies"
-publication: "Organizational Behavior and Human Decision Processes"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Elrod, Terry; Johnson, Richard D.; White, Joan
+title: A new integrated model of noncompensatory and compensatory decision strategies
+publication: Organizational Behavior and Human Decision Processes
 date: 2004-01-01
 citekey: elrod2004new
-aliases: 
-    - "A new integrated model of noncompensatory and compensatory decision strategies"
+aliases:
+  - A new integrated model of noncompensatory and compensatory decision strategies
 ---
 
 # A new integrated model of noncompensatory and compensatory decision strategies

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Watson, Poppy; Pearson, Daniel; Chow, Michelle; Theeuwes, Jan; Wiers, Reinout W.; Most, Steven B.; Le Pelley, Mike E."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Watson, Poppy; Pearson, Daniel; Chow, Michelle; Theeuwes, Jan; Wiers, Reinout W.; Most, Steven B.; Le Pelley, Mike E.
 title: "Capture and Control: Working Memory Modulates Attentional Capture by Reward-Related Stimuli"
-publication: "Psychological Science"
+publication: Psychological Science
 date: 2019-08-01
 citekey: watson2019capture
-aliases: 
-    - "Capture and Control: Working Memory Modulates Attentional Capture by Reward-Related Stimuli"
+aliases:
+  - "Capture and Control: Working Memory Modulates Attentional Capture by Reward-Related Stimuli"
 ---
 
 # Capture and Control: Working Memory Modulates Attentional Capture by Reward-Related Stimuli

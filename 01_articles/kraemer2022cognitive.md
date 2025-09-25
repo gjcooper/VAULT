@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Kraemer, Peter M.; Weilbächer, Regina A.; Mechera-Ostrovsky, Tehilla; Gluth, Sebastian"
-title: "Cognitive and neural principles of a memory bias on preferential choices"
-publication: "Current Research in Neurobiology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Kraemer, Peter M.; Weilbächer, Regina A.; Mechera-Ostrovsky, Tehilla; Gluth, Sebastian
+title: Cognitive and neural principles of a memory bias on preferential choices
+publication: Current Research in Neurobiology
 date: 2022-01-01
 citekey: kraemer2022cognitive
-aliases: 
-    - "Cognitive and neural principles of a memory bias on preferential choices"
+aliases:
+  - Cognitive and neural principles of a memory bias on preferential choices
 ---
 
 # Cognitive and neural principles of a memory bias on preferential choices

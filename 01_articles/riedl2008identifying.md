@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Riedl, René; Brandstätter, Eduard; Roithmayr, Friedrich"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Riedl, René; Brandstätter, Eduard; Roithmayr, Friedrich
 title: "Identifying decision strategies: A process-and outcome-based classification method"
-publication: "Behavior Research Methods"
+publication: Behavior Research Methods
 date: 2008-01-01
 citekey: riedl2008identifying
-aliases: 
-    - "Identifying decision strategies: A process-and outcome-based classification method"
+aliases:
+  - "Identifying decision strategies: A process-and outcome-based classification method"
 ---
 
 # Identifying decision strategies: A process-and outcome-based classification method

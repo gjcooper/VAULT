@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Fific, Mario; Little, Daniel R; Nosofsky, Robert M"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Fific, Mario; Little, Daniel R; Nosofsky, Robert M
 title: "Logical-rule models of classification response times: A synthesis of mental-architecture, random-walk, and decision-bound approaches."
-publication: "Psychological Review"
+publication: Psychological Review
 date: 2010-01-01
 citekey: fific2010logicalrule
-aliases: 
-    - "Logical-rule models of classification response times: A synthesis of mental-architecture, random-walk, and decision-bound approaches."
+aliases:
+  - "Logical-rule models of classification response times: A synthesis of mental-architecture, random-walk, and decision-bound approaches."
 ---
 
 # Logical-rule models of classification response times: A synthesis of mental-architecture, random-walk, and decision-bound approaches.

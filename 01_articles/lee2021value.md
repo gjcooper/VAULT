@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lee, Douglas G.; Usher, Marius"
-title: "Value certainty in drift-diffusion models of preferential choice."
-publication: "Psychological Review"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lee, Douglas G.; Usher, Marius
+title: Value certainty in drift-diffusion models of preferential choice.
+publication: Psychological Review
 date: 2021-10-25
 citekey: lee2021value
-aliases: 
-    - "Value certainty in drift-diffusion models of preferential choice."
+aliases:
+  - Value certainty in drift-diffusion models of preferential choice.
 ---
 
 # Value certainty in drift-diffusion models of preferential choice.

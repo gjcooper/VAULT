@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Estes, W. K."
-title: "The problem of inference from curves based on group data."
-publication: "Psychological Bulletin"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Estes, W. K.
+title: The problem of inference from curves based on group data.
+publication: Psychological Bulletin
 date: 1956-03-01
 citekey: estes1956problem
-aliases: 
-    - "The problem of inference from curves based on group data."
+aliases:
+  - The problem of inference from curves based on group data.
 ---
 
 # The problem of inference from curves based on group data.

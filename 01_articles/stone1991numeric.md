@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Stone, Dan N; Schkade, David A"
-title: "Numeric and linguistic information representation in multiattribute choice"
-publication: "Organizational Behavior and Human Decision Processes"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Stone, Dan N; Schkade, David A
+title: Numeric and linguistic information representation in multiattribute choice
+publication: Organizational Behavior and Human Decision Processes
 date: 1991-06-01
 citekey: stone1991numeric
-aliases: 
-    - "Numeric and linguistic information representation in multiattribute choice"
+aliases:
+  - Numeric and linguistic information representation in multiattribute choice
 ---
 
 # Numeric and linguistic information representation in multiattribute choice

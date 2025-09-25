@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Lozin, Mariya; Pinhas, Michal"
-title: "Differential processing of “small” and “large” multidigit numbers"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Lozin, Mariya; Pinhas, Michal
+title: Differential processing of “small” and “large” multidigit numbers
 publication: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 date: 2022-01-01
 citekey: lozin2022differential
-aliases: 
-    - "Differential processing of “small” and “large” multidigit numbers"
+aliases:
+  - Differential processing of “small” and “large” multidigit numbers
 ---
 
 # Differential processing of “small” and “large” multidigit numbers

@@ -1,12 +1,13 @@
 ---
-cssclass: research_note
-type: "book"
-author: "Payne, John W.; Bettman, James R.; Johnson, Eric J."
-title: "The Adaptive Decision Maker"
+cssclasses:
+  - research_note
+type: book
+author: Payne, John W.; Bettman, James R.; Johnson, Eric J.
+title: The Adaptive Decision Maker
 date: 1993-05-28
 citekey: payne1993adaptive
-aliases: 
-    - "The Adaptive Decision Maker"
+aliases:
+  - The Adaptive Decision Maker
 ---
 
 # The Adaptive Decision Maker

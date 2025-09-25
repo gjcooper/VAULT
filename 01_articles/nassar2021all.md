@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Nassar, Matthew R.; Waltz, James A.; Albrecht, Matthew A.; Gold, James M.; Frank, Michael J."
-title: "All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs"
-publication: "Brain"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Nassar, Matthew R.; Waltz, James A.; Albrecht, Matthew A.; Gold, James M.; Frank, Michael J.
+title: All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs
+publication: Brain
 date: 2021-04-12
 citekey: nassar2021all
-aliases: 
-    - "All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs"
+aliases:
+  - All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs
 ---
 
 # All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs

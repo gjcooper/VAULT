@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "He, Lisheng; Wall, Daniel; Reeck, Crystal; Bhatia, Sudeep"
-title: "Information acquisition and decision strategies in intertemporal choice"
-publication: "Cognitive Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: He, Lisheng; Wall, Daniel; Reeck, Crystal; Bhatia, Sudeep
+title: Information acquisition and decision strategies in intertemporal choice
+publication: Cognitive Psychology
 date: 2023-05-01
 citekey: he2023information
-aliases: 
-    - "Information acquisition and decision strategies in intertemporal choice"
+aliases:
+  - Information acquisition and decision strategies in intertemporal choice
 ---
 
 # Information acquisition and decision strategies in intertemporal choice

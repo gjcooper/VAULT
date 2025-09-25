@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Luce, R. Duncan"
-title: "The choice axiom after twenty years"
-publication: "Journal of Mathematical Psychology"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Luce, R. Duncan
+title: The choice axiom after twenty years
+publication: Journal of Mathematical Psychology
 date: 1977-06-01
 citekey: luce1977choice
-aliases: 
-    - "The choice axiom after twenty years"
+aliases:
+  - The choice axiom after twenty years
 ---
 
 # The choice axiom after twenty years

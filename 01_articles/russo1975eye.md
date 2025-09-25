@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Russo, J. Edward; Rosen, Larry D."
-title: "An eye fixation analysis of multialternative choice"
-publication: "Memory & Cognition"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Russo, J. Edward; Rosen, Larry D.
+title: An eye fixation analysis of multialternative choice
+publication: Memory & Cognition
 date: 1975-05-01
 citekey: russo1975eye
-aliases: 
-    - "An eye fixation analysis of multialternative choice"
+aliases:
+  - An eye fixation analysis of multialternative choice
 ---
 
 # An eye fixation analysis of multialternative choice

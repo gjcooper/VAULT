@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "van Geen, Camilla; Gerraty, Raphael T."
+cssclasses:
+  - research_note
+type: journalArticle
+author: van Geen, Camilla; Gerraty, Raphael T.
 title: "Hierarchical Bayesian models of reinforcement learning: Introduction and comparison to alternative methods"
-publication: "Journal of Mathematical Psychology"
+publication: Journal of Mathematical Psychology
 date: 2021-12-01
 citekey: vangeen2021hierarchical
-aliases: 
-    - "Hierarchical Bayesian models of reinforcement learning: Introduction and comparison to alternative methods"
+aliases:
+  - "Hierarchical Bayesian models of reinforcement learning: Introduction and comparison to alternative methods"
 ---
 
 # Hierarchical Bayesian models of [[reinforcement learning]]: Introduction and comparison to alternative methods

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Nosofsky, R. M."
-title: "Attention, similarity, and the identification–categorization relationship"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Nosofsky, R. M.
+title: Attention, similarity, and the identification–categorization relationship
 publication: "Journal of Experimental Psychology: General"
 date: 1986-01-01
 citekey: nosofsky1986attention
-aliases: 
-    - "Attention, similarity, and the identification–categorization relationship"
+aliases:
+  - Attention, similarity, and the identification–categorization relationship
 ---
 
 # Attention, similarity, and the identification–categorization relationship

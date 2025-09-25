@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Billings, Robert S.; Marcus, Stephen A."
+cssclasses:
+  - research_note
+type: journalArticle
+author: Billings, Robert S.; Marcus, Stephen A.
 title: "Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing"
-publication: "Organizational Behavior and Human Performance"
+publication: Organizational Behavior and Human Performance
 date: 1983-06-01
 citekey: billings1983measures
-aliases: 
-    - "Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing"
+aliases:
+  - "Measures of compensatory and noncompensatory models of decision behavior: Process tracing versus policy capturing"
 ---
 
 # Measures of compensatory and noncompensatory models of decision behavior: [[process tracing]] versus policy capturing

@@ -1,13 +1,14 @@
 ---
-cssclass: research_note
-type: "journalArticle"
-author: "Hutchinson, Brendan T.; Bandara, Kavindu H.; McGovern, Hugh T.; Talipski, Louisa A."
-title: "Insights on overflow from failure to report tasks"
-publication: "Behavioural Brain Research"
+cssclasses:
+  - research_note
+type: journalArticle
+author: Hutchinson, Brendan T.; Bandara, Kavindu H.; McGovern, Hugh T.; Talipski, Louisa A.
+title: Insights on overflow from failure to report tasks
+publication: Behavioural Brain Research
 date: 2022-01-01
 citekey: hutchinson2022insights
-aliases: 
-    - "Insights on overflow from failure to report tasks"
+aliases:
+  - Insights on overflow from failure to report tasks
 ---
 
 # Insights on overflow from failure to report tasks
