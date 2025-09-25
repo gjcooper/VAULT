@@ -28,8 +28,6 @@ What do I want to do if this job with Joe doesn't work out.
 - Field - Do I apply for grants, do I apply for a post-doc job in a local lab? How cloce to cognitive modelling does the position really have to be? Could I look at economic modelling, linguistic modelling, some other tangentially related field?
 - Do i move out of academia and into industry? How flexible do I want my work and is academia that relevant to me longer term?
 
-# Linear model reviewer response notes
+## SocR Lab Meeting
 
-- Need to reshape the pre-processed data to include the raw attribute values before running the linear model. __Still need to rerun the new script__
-- The log-likelihood functions will also need adjustment in order to correctly apply the drift rates (with linear application to the attribute values) to calculate each individual likelihood of accept/reject.
--  Shoot a message to Guy about the new log-likelihood functions here. Should each architecture be rewritten using the linear function of the prices and ratings - that is - still keep the architectures, but instead of a H/L/D use a intercept/slope.
+Hayley Dorfman (.com/github etc) has a nice talk on bayesian reinforcement learning models and beliefs about control (how much control an agent/person has over the outcomes). One attendee from Tufts (rmirsk01@tufts.edu) had an interesting question about control and artificial agents that put me in mind of the Trust in AI group at Newcastle.
