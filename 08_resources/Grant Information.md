@@ -1,0 +1,1 @@
+One early career grant of note is the DECRA - a person-specific grant that provides funding for a position and project funds for three years. Information is available at https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra and is available for people within 5 years of PhD award.

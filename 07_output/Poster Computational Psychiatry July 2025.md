@@ -33,3 +33,8 @@ Applying cognitive models to biological data provides insights into the underlyi
 
 
 As an early stage investigator travelling from Australia, the financial burden of attending this conference is significant due to the substantial distance and high travel costs. My current project operates under uncertain funding arrangements as the current funding will have ended by the time the conference takes place. This makes it challenging to secure support for international conference participation and therefore this award would assist in securing attendance even after the project grant is completed. This award would enable me to present my work, receive critical feedback, and engage with leading researchers. Disseminating my findings at this conference will benefit the broader research community by showcasing a valuable tool for computational research in psychiatry. It would also allow me to foster collaborations that could shape the future direction of my research.
+
+
+## Links
+
+[[Hypatia Health]], [[Computational Psychiatry 2025]]

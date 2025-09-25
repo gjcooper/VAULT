@@ -1,0 +1,1 @@
+Met and discussed the [[Hypatia Health]] project with Andreea at the [[Computational Psychiatry 2025]] conference. I spoke with her about her gamified experiments for investigating psychosis? combined with mathematical modelling.
