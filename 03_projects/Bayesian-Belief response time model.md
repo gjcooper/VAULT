@@ -60,3 +60,7 @@ This could be modelled with $v_s$ going from $0 \leq x \leq \infty$ where a valu
 # Initial plans
 
 Create the models and simulate from them to get some plots showing the expected patterns for different KL etc. The goal would be to get this working on a lot of the **Phase 2** data from places like the [[barnby2022knowing|Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent]] project and other work from [[Joseph Barnby]] using a similar task but with adolescents.
+
+
+# Notes on implementation
+

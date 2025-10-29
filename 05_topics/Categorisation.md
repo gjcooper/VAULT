@@ -13,3 +13,10 @@ The psychological study of how people form categories of objects, typically base
 Two large classes of models of categorisation include the [[Robert M Nosofsky|Nosofsky]] model, outlined in [[nosofsky2011generalized|The generalized context model: an exemplar model of classification]].
 
 Another alternative is the prototype model of categorisation, argued for by such people as [[Peter Juslin]], and contrasted with the exemplar model and others in [[smith2014prototypes|Prototypes, exemplars, and the natural history of categorization]].
+
+
+# Some effects described in the literature
+
+## Categorical Perception Effect
+
+Given a continuous dimension that has categories (natural or imposed) over it, the categorical perception effect is difference in the judgements (say for instance similarity) of two items that cross the categorical boundary when compared to a judgement of two items within a category that have the same absolute difference on the continuous dimension.

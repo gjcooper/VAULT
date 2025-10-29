@@ -1,1 +1,1 @@
-CEO of [[hypatia]] and academic at [[Royal Holloway]], Joe is also my boss on the [[Hypatia Health|Hypatia Health beta]] project.
+CEO of Hypatia and academic at [[Kings College, London]]  (formerly [[Royal Holloway]]), Joe is also my boss on the [[Hypatia Health|Hypatia Health beta]] project.
