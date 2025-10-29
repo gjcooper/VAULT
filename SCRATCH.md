@@ -31,3 +31,19 @@ What do I want to do if this job with Joe doesn't work out.
 ## SocR Lab Meeting
 
 Hayley Dorfman (.com/github etc) has a nice talk on bayesian reinforcement learning models and beliefs about control (how much control an agent/person has over the outcomes). One attendee from Tufts (rmirsk01@tufts.edu) had an interesting question about control and artificial agents that put me in mind of the Trust in AI group at Newcastle.
+
+# Consumer Involvement Workshop
+
+Aus terminology
+- Consumer and Community Involvement
+UK/US/Canada terminology
+- Patient and Public Involvement
+
+Consumer Involvement even prior to Ethics application.
+
+When communicating, make a regular contact (say ev 2 months) to reach out even if nothing has happened.
+
+
+# Hours for Garston and Alex
+
+27 hours remaining on contract that are claimed but not used
