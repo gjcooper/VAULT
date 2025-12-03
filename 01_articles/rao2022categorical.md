@@ -47,8 +47,9 @@ They use relative rates of similar/different judgements and the response times o
 ##### Keywords
 
 #subject/categorical_perception #subject/probabilistic_reasoning #subject/rational_number_processing #subject/statistical_significance #subject/statistics_education
-
+#journal_club 
 ##### Authors
+
 
 [[V. N. Vimal Rao]] [[Jeffrey K. Bye]] [[Sashank Varma]]
 

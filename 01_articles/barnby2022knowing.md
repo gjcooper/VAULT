@@ -40,7 +40,7 @@ Can definitely see the parallels to the [[BPD Self-other social model]] work her
 
 ---
 >[!quote|#ffd400]
->We formalised the influence of a participant’s SVO on their learning about their partner by building and comparing ten Bayesian belief and five heuristic models (Table A.1). We usedphase 1 behaviour to estimate participants’ own SVO, operationalised in terms of parameters of their subjective utility for earnings for themselves and their partner. In phase 2, models either a) integrated a participant’s SVO into their prior beliefs about their partner in a Bayesian updating process, b) used separate prior values for the inferred SVO of a partner (but still used a Bayesian updating process), or c), adopted a heuristic reinforcement learning approach. [(p. 3)](zotero://open-pdf/library/items/6F5AIET7?page=3&annotation=ZIRSASK5)
+>We formalised the influence of a participant’s SVO on their learning about their partner by building and comparing ten Bayesian belief and five heuristic models (Table A.1). We used phase 1 behaviour to estimate participants’ own SVO, operationalised in terms of parameters of their subjective utility for earnings for themselves and their partner. In phase 2, models either a) integrated a participant’s SVO into their prior beliefs about their partner in a Bayesian updating process, b) used separate prior values for the inferred SVO of a partner (but still used a Bayesian updating process), or c), adopted a heuristic reinforcement learning approach. [(p. 3)](zotero://open-pdf/library/items/6F5AIET7?page=3&annotation=ZIRSASK5)
 
 ---
 >[!quote|#2ea8e5]

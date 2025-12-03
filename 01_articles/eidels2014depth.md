@@ -44,6 +44,8 @@ The interpretation most favoured by the authors is that perhaps a certain propor
 
 #subject/adult #subject/attention #subject/color_perception #subject/depth_of_processing #subject/dyslexia #subject/female #subject/forced_reading #subject/humans #subject/illusions #subject/male #subject/reading #subject/selective_attention #subject/stroop_effect #subject/stroop_test
 
+#journal_club 
+
 ##### Authors
 
 [[Ami Eidels]] [[Kathryn Ryan]] [[Paul Williams]] [[Daniel Algom]]

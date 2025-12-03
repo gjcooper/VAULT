@@ -36,7 +36,7 @@ This allows inference between models, groups parameter distributions and random 
 
 ##### Imported on 2024-07-31 1:51 pm
 >[!quote|#ffd400]
->Although HPE characterizes variation across subjects in the model parameters hkn (that is, ittreats those parameters as random effects), acritical assumption of the procedure isthat the parameters for model k are estimated assuming that the same model isresponsible for generating data in all subjects. [(p. 4)](zotero://open-pdf/library/items/7HTTLGHF?page=4&annotation=349WLLPG)
+>Although HPE characterizes variation across subjects in the model parameters hkn (that is, it treats those parameters as random effects), acritical assumption of the procedure isthat the parameters for model k are estimated assuming that the same model isresponsible for generating data in all subjects. [(p. 4)](zotero://open-pdf/library/items/7HTTLGHF?page=4&annotation=349WLLPG)
 
 ---
 >[!quote|#5fb236]

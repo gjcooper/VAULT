@@ -35,6 +35,8 @@ A purely economic paper that proposes a psychological reason behind the observed
 
 #### Tags
 
+#journal_club 
+
 ##### Keywords
 
 

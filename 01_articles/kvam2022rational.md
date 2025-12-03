@@ -42,7 +42,7 @@ Their proposed solutions also seem to be a bit weak sauce. Change the way people
 ##### Keywords
 
 #subject/human_behaviour #subject/psychology
-
+#journal_club 
 ##### Authors
 
 [[Peter D. Kvam]] [[Abhay Alaukik]] [[Callie E. Mims]] [[Arina Martemyanova]] [[Matthew Baldwin]]
