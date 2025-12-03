@@ -64,3 +64,6 @@ Create the models and simulate from them to get some plots showing the expected 
 
 # Notes on implementation
 
+
+Currently have a simulation model that takes a $D_{KL}$ difference between x and randomly samples a response time and choice between two options using the [[rtdists]] package in R. What does this choice mean? Correct vs incorrect is often the chosen metric here and I guess this makes sense as this is what defines the “appropriateness” of the choice after the fact - how accurately was the participant able to anticipate the action of the partner in the game.
+

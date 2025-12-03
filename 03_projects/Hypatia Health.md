@@ -101,3 +101,8 @@ I wonder if this could have an application here in the domain of psychiatric con
 Sayidda lived experience
 
 project coordinator, ux, front end backend based in WA.
+
+
+## People involved
+
+Led by [[Joseph Barnby]], with original CI's [[Alex Pike]], [[Catia Oliviera]] and [[Lei Zhang]]. Lei has left - but been invited to the advisory board in the second stage of the project.

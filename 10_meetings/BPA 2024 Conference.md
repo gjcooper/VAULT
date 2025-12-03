@@ -46,7 +46,7 @@ Identified key areas for schizophrenia consumers, third area was cognition.
 
 Lots of CS+ and CS- stimuli, so simple cue reward learning, associative learning.
 
-The cognitive lateral hypothalamus in [[Trends in cognitive science]] paper.
+The cognitive lateral hypothalamus in [[Trends in cognitive sciences]] paper.
 
 
 ## incidental conversation 
