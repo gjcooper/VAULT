@@ -12,7 +12,7 @@ created: 2023-05-27 21:11
 
 ## Brief motivation
 
-Take the model inspired by the [[generalised context model]] (See [[nosofsky2011generalized]]) as applied to the [[Veridical task]] (both variants), the [[Preferential task]] and more.
+Take the model inspired by the [[Generalised Context Model]] (See [[nosofsky2011generalized]]) as applied to the [[Veridical task]] (both variants), the [[Preferential task]] and more.
 
 **Possible references**: [[stone1991numeric]], 
 
