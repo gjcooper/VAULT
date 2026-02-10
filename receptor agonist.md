@@ -1,0 +1,2 @@
+ A receptor agonist is a molecule that binds to a receptor's proteins and activates them, mimicking the bodies natural communication (signalling) molecules (ie neurotransmitters).
+These neurotransmitters (and hormones) are also sometimes called ligands - a molecule that binds to another (usually larger) molecule.
