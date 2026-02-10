@@ -55,7 +55,7 @@ Along with a standard null model that disassociates the bayesian belief choice m
 $$
 v_t = v_s*v_o
 $$
-This could be modelled with $v_s$ going from $0 \leq x \leq \infty$ where a value == 1 shows no practice effects, and value < 1 shows a slowing down over time and a value > 1 shows a speeding up over time.
+This could be modelled with $v_s$ going from $0 \leq x \leq \infty$ where a value == 1 shows no practice effects, and value < 1 shows a slowing down over time and a value > 1 shows a speeding up over time.  Check out some of [[Nathan Evans]] recent work on DDM with a function form fit to a DDM (linear or more likely power law/exponential covering things like practice effects).
 
 # Initial plans
 

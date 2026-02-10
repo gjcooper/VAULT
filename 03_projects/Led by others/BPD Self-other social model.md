@@ -1,3 +1,7 @@
+---
+aliases:
+  - Bayesian-belief self-other social model
+---
 # Notes and thoughts on the BPD computational model project
 
 ### Questions
@@ -5,7 +9,7 @@
 - What is a [[Fehr-Schmidt utility function]]?
 - How does the [[Hierarchical Bayesian Inference algorithm]] work? See the paper in Zotero.
 - What does it mean to centre and scale dependent regressors?
-- What does [[exceedance probability]] mean and what does [[Model responsibility]] mean.
+- What does [[Exceedance probability]] mean and what does [[Model responsibility]] mean.
 
 ### Thoughts
 
@@ -16,3 +20,8 @@
 ### Extension to the model to capture response time
 
 [[Joseph Barnby]] has proposed an extension to the model that will incorporate evidence accumulation models to capture response times. More details can be found in the [[Bayesian-Belief response time model]]
+
+## Related work
+
+- [[barnby2022knowing|Knowing me, knowing you: Interpersonal similarity improves predictive accuracy and reduces attributions of harmful intent]]
+- [[barnby2025selfother|Self-other generalisation shapes social interaction and is disrupted in borderline personality disorder]]
