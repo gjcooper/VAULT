@@ -60,7 +60,7 @@ The take home is the the [[MLBA]] outperforms the other models in most cases, al
 
 ##### Publication
 
-#pub/cognitive_psychology
+[[Cognitive Psychology]]
 
 
 %% Import Date: 2024-05-21T15:17:30.110+10:00 %%

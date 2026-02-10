@@ -32,7 +32,7 @@ Russo, J. E., & Rosen, L. D. (1975). An eye fixation analysis of multialternativ
 
 ##### Authors
 
-#author/russo_j_edward  #author/rosen_larry_d.
+[[J Edward Russo]]  #author/rosen_larry_d.
 
 ##### Publication
 

@@ -9,6 +9,7 @@ date: 1972-01-01
 citekey: tversky1972elimination
 aliases:
   - "Elimination by aspects: A theory of choice"
+  - "Tversky (1972)"
 ---
 
 # Elimination by aspects: A theory of choice

@@ -104,7 +104,7 @@ There is some reasonable work here on using features of the data, namely risk av
 
 ##### Publication
 
-#pub/cognitive_psychology
+[[Cognitive Psychology]]
 
 
 %% Import Date: 2024-02-26T10:35:43.848+11:00 %%

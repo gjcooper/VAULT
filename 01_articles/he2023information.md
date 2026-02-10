@@ -50,7 +50,7 @@ The more important contribution would be the attention model they develop, which
 
 ##### Publication
 
-#pub/cognitive_psychology
+[[Cognitive Psychology]]
 
 
 %% Import Date: 2023-12-01T12:23:18.580+11:00 %%

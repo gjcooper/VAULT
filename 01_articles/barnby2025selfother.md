@@ -23,7 +23,7 @@ Barnby, J. M., Nguyen, J., Griem, J., Wloszek, M., Burgess, H., Richards, L. J.,
 
 ## My Thoughts
 
-This paper forms the basis of ideas about the [[Bayesian-Belief response time model]], along with initial data used as a test of the DDM bayesian belief idea. IO have also written about this project that forms the basis of this paper in [[BPD Self-other social model]].
+This paper forms the basis of ideas about the [[Bayesian-Belief response time model]], along with initial data used as a test of the DDM bayesian belief idea. I have also written about this project that forms the basis of this paper in [[BPD Self-other social model]].
 
 In specifics of this paper there are a few nice things here in terms of the [[model responsibility]] and [[Exceedance probability]] measures used - which were new to me. Also this has some detailed notes on the model that honestly I am still wrapping my head around.
 

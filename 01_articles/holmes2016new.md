@@ -92,7 +92,7 @@ information becomes available for the participant.
 
 ##### Publication
 
-#pub/cognitive_psychology
+[[Cognitive Psychology]]
 
 
 %% Import Date: 2023-07-10T15:12:33.384+10:00 %%

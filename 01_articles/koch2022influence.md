@@ -21,7 +21,7 @@ Koch, C., Zika, O., Bruckner, R., & Schuck, N. W. (2022). _Influence of surprise
 
 ## My Thoughts
 
-This preprint provides some nice [[model comparison]] using metrics like [[AIC]], but also model [[exceedance probability]] as a way of determining which of the main four models described best representes performance in a [[reinforcement learning]] task.
+This preprint provides some nice [[model comparison]] using metrics like [[AIC]], but also model [[Exceedance probability]] as a way of determining which of the main four models described best representes performance in a [[reinforcement learning]] task.
 
 The RL task involved three distributions for rewards (from three options). Only two options were displayed on the screen at each trial, and two of the options had a standard gaussian distribution for the reward value. The third option (with the medium mean reward) actually generated rewards from a bimodal distribution is add the idea of suprising events to the given rewards.
 
