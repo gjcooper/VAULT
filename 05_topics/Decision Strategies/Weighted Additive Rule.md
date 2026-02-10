@@ -4,6 +4,7 @@ aliases:
     - Addition of utilities rule
     - Multiattribute utility model
     - WADD
+    - rational model of decision making
 ---
 
 # Weighted Additive Rule
