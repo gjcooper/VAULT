@@ -26,6 +26,13 @@ aliases:
 
 ## My Thoughts
 
+
+#### How do they know this?
+
+#### What would I need to believe to accept this argument?
+
+#### What questions does this raise that aren’t addressed?
+
 {% endif %}{% endpersist %}
 
 ### Annotations

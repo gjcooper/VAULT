@@ -22,7 +22,7 @@ Oh, H., Beck, J. M., Zhu, P., Sommer, M. A., Ferrari, S., & Egner, T. (2016). Sa
 
 ## My Thoughts
 
-An impressive modelling effort looking at a probabilitic learning task with four cues. In two experiments the cues are compound, and in the last task the cues are kept independent. The main manipulation of the tasks is after learning the weighting of the cues a final phase where time pressure was manipulated in order to attempt to instigate a strategy change.
+An impressive modelling effort looking at a probabilistic learning task with four cues. In two experiments the cues are compound, and in the last task the cues are kept independent. The main manipulation of the tasks is after learning the weighting of the cues a final phase where time pressure was manipulated in order to attempt to instigate a strategy change.
 
 This was pretty much always successful as indicated by the model selected using [[Variational Bayes]] and [[Exceedance probability]] model selection. All modelling seems to have been done on individuals - which makes sense as individuals can have different strategies.
 

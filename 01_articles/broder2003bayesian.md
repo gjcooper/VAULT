@@ -9,6 +9,7 @@ date: 2003-01-01
 citekey: broder2003bayesian
 aliases: 
     - "Bayesian strategy assessment in multi-attribute decision making"
+    - Bröder and Schiffer (2003)
 ---
 
 # Bayesian strategy assessment in multi-attribute decision making
