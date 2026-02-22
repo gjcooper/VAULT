@@ -17,7 +17,7 @@ Tools to use:
 - [Valve](https://valve.josiahparry.com/) looks promising as a way to distribute Plumber API calls over multiple processes.
 
 https://www.figma.com
-# Initial Plans
+## Initial Plans
 
 First things, getting a modularised RL 2-parameters model up and running.
 
@@ -27,7 +27,7 @@ First things, getting a modularised RL 2-parameters model up and running.
 - Look into the [[softmax]] function for the [[stan]] code
 
 
-# Simulation
+## Simulation
 -  Add variable rewards to the simulation
 -  Simulate multiple people from a group level distribution
 
@@ -106,3 +106,11 @@ project coordinator, ux, front end backend based in WA.
 ## People involved
 
 Led by [[Joseph Barnby]], with original CI's [[Alex Pike]], [[Catia Oliviera]] and [[Lei Zhang]]. Lei has left - but been invited to the advisory board in the second stage of the project.
+
+## Ideas for Hypatia modelling
+
+Take two datasets. For the first dataset, model as normal and generate priors for the second dataset.
+
+For dataset number 2 model hierarchically as normal with the same approach as dataset 1. Use simulated data with known generating values.
+
+Additionally for dataset 2 use a new approach where each new participant is modelled using either single subject [[MCMC]], or an alternative [[Maximum Likelihood]] process one at a time.

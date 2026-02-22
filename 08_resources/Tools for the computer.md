@@ -1,1 +1,1 @@
-Tabula (for extracting data from PDFs)
+- Tabula (for extracting data from PDFs)

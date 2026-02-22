@@ -33,7 +33,6 @@ R2 RT comments. Use Marley/Hawkins inspired likelihood of LBA where probabilitie
 
 ## References of note
 
-- [[broder2003bayesian|Bayesian strategy assessment in multi-attribute decision making]]
 - [[corbin1974random|Random utility models with equality: An apparent, but not actual, generalization of random utility models]]
 - [[eidels2010converging|Converging measures of workload capacity]]
 - [[gigerenzer2001simple|Simple heuristics that make us smart]]
@@ -43,8 +42,12 @@ R2 RT comments. Use Marley/Hawkins inspired likelihood of LBA where probabilitie
 - [[lee2023risky|Risky decisions are influenced by individual attributes as a function of risk preference]]
 - [[manzini2014stochastic|Stochastic Choice and Consideration Sets]]
 - [[murre2023how|How averaging individual curves transforms their shape: Mathematical analyses with application to learning and forgetting curves]]
+
+### Refs from Reviewers
+- [[broder2003bayesian|Bayesian strategy assessment in multi-attribute decision making]]
 - [[oh2016satisficing|Satisficing in split-second decision making is characterized by strategic cue discounting.]]
 - [[lee2019understanding|Understanding the complexity of simple decisions: Modeling multiple behaviors and switching strategies]]
 - [[lee2004evidence|Evidence accumulation in decision making: Unifying the “take the best” and the “rational” models]] Marrying [[Take the Best]] and rational models of decision making.
 - [[schulze2021who|Who you know is what you know: Modeling boundedly rational social sampling.]] Details/comparison to my latent mixture approach.
 - [[pachur2017how|How the twain can meet: Prospect theory and models of heuristics in risky choice]]. Some latent mixture approaches here, but also the intersection of different models of decision making being integrated.
+- [[krueger2024identifying|Identifying resource-rational heuristics for risky choice.]] A reference here for the [[Elementary Information Processes]] section but also the choices between strategies.
