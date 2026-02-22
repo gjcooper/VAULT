@@ -1,5 +1,4 @@
 
-
 For better resolution, try https://optifine.net/home
 
 Australia mod as seen in survive 100 days: https://www.curseforge.com/minecraft/modpacks/smittieking-australia
@@ -21,3 +20,11 @@ Features: Animal/Veg farm. Flowers galore. Mining nearby
 
 #### Pillager Base
 Location: 604, 88, -240  (Hill overlooking base)
+
+#### Underwater broken netherportal
+Location: 756, 63, -1035
+
+### Dadison Main
+
+Seed: 7304258263241260809
+

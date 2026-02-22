@@ -2,12 +2,6 @@
 
 _Notes placed here should be cleaned out regularly into the appropriate places, or actioned upon and removed_
 
-
-# cpm
-
-Luca was the person who I talked to
-
-
 # Next steps in my career
 
 What do I want to do if this job with Joe doesn't work out.
@@ -20,29 +14,13 @@ What do I want to do if this job with Joe doesn't work out.
 
 Hayley Dorfman (.com/github etc) has a nice talk on bayesian reinforcement learning models and beliefs about control (how much control an agent/person has over the outcomes). One attendee from Tufts (rmirsk01@tufts.edu) had an interesting question about control and artificial agents that put me in mind of the Trust in AI group at Newcastle.
 
-# Consumer Involvement Workshop
-
-Aus terminology
-- Consumer and Community Involvement
-UK/US/Canada terminology
-- Patient and Public Involvement
-
-Consumer Involvement even prior to Ethics application.
-
-When communicating, make a regular contact (say ev 2 months) to reach out even if nothing has happened.
-
+[[Consumer Involvement in Research]]
 
 # Hours for Garston and Alex
 
 27 hours remaining on contract that are claimed but not used
 
-## Ideas for Hypatia modelling
 
-Take two datasets. For the first dataset, model as normal and generate priors for the second dataset.
-
-For dataset number 2 model hierarchically as normal with the same approach as dataset 1. Use simulated data with known generating values.
-
-Additionally for dataset 2 use a new approach where each new participant is modelled using either single subject [[MCMC]], or an alternative [[Maximum Likelihood]] process one at a time.
 
 ## DDM Thoughts
 
@@ -94,3 +72,74 @@ Noai mode in browser search. https://fosstodon.org/@erikjan/116031248354020337
 
 # DND
 https://www.reddit.com/r/YouShouldKnow/s/Y6KNZLFo7O
+
+## Hierarchical parameter recovery problem
+
+Compression at group level, then generate from the compressed parameter values, Fit again and you get more compression.
+
+# Eloise Dragon Girls Books
+
+- Zora snow dragon
+- Hana thunder dragon
+- Eloise flame dragon
+
+# Rough garden bed measurements
+
+750 x 3, 6000 x 1, 1875 x 2, 1278 x 4, 2032 x 2. Last two lengths could have an extra 375 added.
+
+# Possible problems medical 
+
+diverticulitis (inflammation or infection of small punches in colon wall), colitis (inflammation of inner lining of colon)
+
+# Gavin Life History (Medical)
+
+- quit smoking January 2012
+- pilonidal sinus surgery December 2012 Hunter valley private 
+- wrist surgery 1999 Mater Hospital
+- 
+
+## FOR code report
+
+════════════════════════════════════════
+FOR CODE CLASSIFICATION REPORT
+Code depth: 4-digit (Group level)
+════════════════════════════════════════
+
+SINGLE BEST CODE
+────────────────
+3202  Clinical sciences  (100%)
+Justification: The manuscript investigates patient treatment preferences for low-risk differentiated thyroid cancer using a discrete choice experiment, examining trade-offs between active surveillance, hemithyroidectomy, and total thyroidectomy. This falls squarely within clinical sciences as it covers the management of a specific disease and shared decision-making in clinical practice.
+Definition reference: "This group covers specific clinical aspects of medicine, including causes, diagnosis, treatment and management of specific diseases and conditions."
+
+
+TWO-CODE SPLIT
+──────────────
+ 70%  3202  Clinical sciences
+      Justification: The primary focus is on treatment management decisions for low-risk differentiated thyroid cancer, including shared decision-making between active surveillance and surgical options, which is core clinical science.
+      Definition reference: "This group covers specific clinical aspects of medicine, including causes, diagnosis, treatment and management of specific diseases and conditions."
+
+ 30%  4203  Health services and systems
+      Justification: The discrete choice experiment methodology is used to quantify patient values and preferences to support shared decision-making frameworks and care pathway optimization, which relates to health services research.
+      Definition reference: "This group covers health services and systems."
+
+
+THREE-CODE SPLIT
+────────────────
+ 55%  3202  Clinical sciences
+      Justification: The study directly addresses management of differentiated thyroid cancer, comparing specific clinical treatment options (active surveillance, hemithyroidectomy, total thyroidectomy) and their associated risks and outcomes.
+      Definition reference: "This group covers specific clinical aspects of medicine, including causes, diagnosis, treatment and management of specific diseases and conditions."
+
+ 30%  4203  Health services and systems
+      Justification: The use of discrete choice experiments to quantify patient preferences for treatment pathways and the emphasis on shared decision-making as a care paradigm are central health services research themes.
+      Definition reference: "This group covers health services and systems."
+
+ 15%  3211  Oncology and carcinogenesis
+      Justification: The study focuses specifically on differentiated thyroid cancer, its recurrence risk, and oncological management decisions, situating a meaningful portion of the work within oncology.
+      Definition reference: "This group covers oncology and carcinogenesis."
+
+
+ADDITIONAL CODES (≥5% plausibility)
+───────────────────────────────────
+  8%  5201  Applied and developmental psychology
+      Justification: The discrete choice experiment draws on psychological methods to measure patient preferences, decisional regret, and fear of cancer recurrence as behavioural drivers of treatment choice.
+      Definition reference: "This group covers the development and application of psychological methods and psychological research findings to solve practical problems of human and animal behaviour."
