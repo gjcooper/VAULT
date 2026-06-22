@@ -1,0 +1,3 @@
+The term I have used for a component of a larger decision (say multi-attribute choice) that can be represented by it's own decision process.
+
+For example, for a choice about an option with two attributes, price and rating. If a consumer wants to take into account both attributes for their overall decision then they need to decide whether the price is acceptable and whether the rating is acceptable. These two elementary decision processes can then be combined using multiple possible decision strategies into a choice about the option as a whole.

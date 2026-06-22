@@ -50,4 +50,5 @@ R2 RT comments. Use Marley/Hawkins inspired likelihood of LBA where probabilitie
 - [[lee2004evidence|Evidence accumulation in decision making: Unifying the “take the best” and the “rational” models]] Marrying [[Take the Best]] and rational models of decision making.
 - [[schulze2021who|Who you know is what you know: Modeling boundedly rational social sampling.]] Details/comparison to my latent mixture approach.
 - [[pachur2017how|How the twain can meet: Prospect theory and models of heuristics in risky choice]]. Some latent mixture approaches here, but also the intersection of different models of decision making being integrated.
+- [[pachur2022strategy|Strategy selection in decisions from givens: Deciding at a glance?]]. Extending mixture models of decision strategies to incorporate response times.
 - [[krueger2024identifying|Identifying resource-rational heuristics for risky choice.]] A reference here for the [[Elementary Information Processes]] section but also the choices between strategies.

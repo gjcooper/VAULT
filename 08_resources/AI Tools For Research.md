@@ -16,3 +16,7 @@ What do I aim to use AI for in my scientific research.
     1. Can question me to look for missing information (like to fill out a preregistration report). This should be context aware based on reg reports that match the methods/field.
     2. Can look through my code for simple logic errors, suggest improvements, etc.
     3. Can assess suitability of the proposed analysis methods for the research questions being asked.
+
+## Plan Your Science
+
+An interesting addition to the toolset above is a new addition from [[Konrad Kording]] about planning your next science. It uses AI systems to help plan your research and output, and is available at https://www.planyourscience.com/
