@@ -22,6 +22,7 @@ Lee, D. G., & Usher, M. (2021). Value certainty in drift-diffusion models of pre
 
 Various possible models to capture the relationship between uncertainty and choice consistency/RT are introduced, including DDM variants where drift rate and/or threshold are adjusted based on  option specific uncertainty, and two signal-to-noise approaches where drift rate is adjusted based on the difference between the two options uncertainty, or both options uncertainty values. This last model (labelled model 5, Certainty Adjusted Drift Rate (Option values) captures the patterns in the data from the four experiments analysed better than the other 5 models.
 
+Possible connections to the [[Bayesian-Belief response time model]] - definitely requires a reread with that project in mind.
 ### Annotations
 
 %% begin annotations %%
