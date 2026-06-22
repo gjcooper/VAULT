@@ -1,0 +1,42 @@
+# Traditional and Modern Ideas
+
+List adapted from: https://www.eternityrose.com.au/anniversary-gifts-by-year
+
+| **Year**  | **Traditional Theme**                      | **Modern Theme**                                      | **Colour**               | **Gemstone**                                                               |
+| --------- | ------------------------------------------ | ----------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------- |
+| 1st Year  | Paper                                      | Clocks                                                | Gold; Yellow             | Gold Jewellery (no stone specified)<br><br>Alternate Stone: Peridot; Pearl |
+| 2nd Year  | Cotton                                     | China                                                 | Red                      | Garnet<br><br>Alternate Stone: Rose Quartz                                 |
+| 3rd Year  | Leather                                    | Crystal/Glass                                         | Jade; White              | Pearl<br><br>Alternate Stone: Moonstone; Crystal; Jade                     |
+| 4th Year  | Linen; Silk (UK)<br><br>Fruit/Flowers (US) | Appliances (electrical)                               | Blue; Green              | Blue Topaz<br><br>Alternate Stone: Blue Zircon; Amethyst                   |
+| 5th Year  | Wood                                       | Silverware                                            | Blue; Pink; Turquoise    | Sapphire<br><br>Alternate Stone: Pink Tourmaline; Rose Quartz; Turquoise   |
+| 6th Year  | Candy (UK)<br><br>Iron (US)                | Wood                                                  | Purple; White; Turquoise | Amethyst<br><br>Alternate Stone: Garnet; Turquoise                         |
+| 7th Year  | Wool (UK)<br><br>Copper (US)               | Brass; Desk Sets                                      | Yellow; Off-White        | Onyx<br><br>Alternate Stone: Yellow Sapphire; Copper; Lapis Lazuli         |
+| 8th Year  | Salt (UK)<br><br>Bronze; Pottery (US)      | Linen; Lace                                           | Bronze                   | Tourmaline<br><br>Alternate Stone: Tanzanite; Bronze; Aventurine           |
+| 9th Year  | Copper (UK)<br><br>Willow; Pottery (US)    | Leather                                               | Terracotta               | Lapis Lazuli<br><br>Alternate Stone: Tiger Eye; Andalusite                 |
+| 10th Year | Tin (US & UK)<br><br>Aluminum (US);        | Diamond Jewellery                                     | Silver; Blue             | Diamond<br><br>Alternate Stone: Crystal; Onyx; Green Tourmaline            |
+| 11th Year | Steel                                      | Fashion Jewellery; Accessories                        | Turquoise                | Turquoise<br><br>Alternate Stone: Hematite                                 |
+| 12th Year | Linen; Silk (UK)<br><br>Home Décor (US)    | Pearls                                                | Oyster-White             | Jade<br><br>Alternate Stone: Agate; Pearl; Garnet; Tsavorite               |
+| 13th Year | Lace                                       | Textiles; Furs                                        | White                    | Citrine<br><br>Alternate Stone: Moonstone; Malachite; Opal                 |
+| 14th Year | Ivory or Elephant ***                      | Gold Jewellery                                        | Ivory                    | Opal<br><br>Alternate Stone: Ivory; Gold; Kunzite; Moss Agate              |
+| 15th Year | Crystal                                    | Watches                                               | Red                      | Ruby<br><br>Alternate Stone: Rhodolite; Blue Sapphire                      |
+| 16th Year | Wax Silverware                             | Silver Holloware (silver table items but not cutlery) | Silver                   | Peridot<br><br>Alternate Stone: Aquamarine; Golden Topaz                   |
+| 17th Year | Furniture                                  |                                                       | Yellow                   | Carnelian <br><br>Alternate Stone: Amethyst; Citrine; Pink Tourmaline      |
+| 18th Year | Porcelain                                  |                                                       | Blue                     | Cat’s Eye<br><br>Alternate Stone: Opal; Aquamarine                         |
+| 19th Year | Bronze                                     |                                                       | Bronze                   | Aquamarine<br><br>Alternate Stone: Topaz; Golden Beryl                     |
+| 20th Year | China                                      | Platinum                                              | Emerald-Green; White     | Emerald<br><br>Alternate Stone: Platinum                                   |
+| 21st Year | Brass; Nickel                              |                                                       | Orange                   | Iolite                                                                     |
+| 22nd Year | Copper                                     |                                                       | Green                    | Spinel                                                                     |
+| 23rd Year | Silver Plate                               |                                                       | Silver                   | Imperial Topaz<br><br>Alternate Stone: Sapphire                            |
+| 24th Year | Opal (US)                                  | Musical Instruments                                   | Lavender                 | Tanzanite                                                                  |
+| 25th Year | Silver                                     |                                                       | Silver                   | Silver Jewellery (no specific stone)                                       |
+| 26th Year | Pictures                                   |                                                       | NA                       | NA                                                                         |
+| 27th Year | Sculptures                                 |                                                       | NA                       | NA                                                                         |
+| 28th Year | Orchids                                    |                                                       | Lavender                 | Alternate Stone: Amethyst;<br><br>Orchid Tourmaline                        |
+| 29th Year | Furniture                                  |                                                       | NA                       | NA                                                                         |
+| 30th Year | Pearl                                      | Diamond                                               | Green                    | Pearl<br><br>Alternate Stone: Diamond; Jade                                |
+| 35th Year | Coral (US & UK);<br><br>Jade (US)          | Jade                                                  | Coral                    | Emerald<br><br>Alternate Stone: Coral; Jade                                |
+| 40th Year | Ruby                                       |                                                       | Red                      | Ruby                                                                       |
+| 45th Year | Sapphire                                   |                                                       | Blue                     | Sapphire<br><br>Alternate Stone: Alexandrite                               |
+| 50th Year | Gold                                       |                                                       | Gold                     | Gold (no specific stone)<br><br>Alternate Stone: Gold or Imperial Topaz    |
+| 55th Year | Emerald                                    |                                                       | Emerald-Green            | Alexandrite<br><br>Alternate Stone: Emerald                                |
+| 60th Year | Diamond                                    |                                                       | Diamond-White            | Diamond                                                                    |

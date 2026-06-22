@@ -24,7 +24,24 @@ Location: 604, 88, -240  (Hill overlooking base)
 #### Underwater broken netherportal
 Location: 756, 63, -1035
 
+### Hole
+Location: 193, 63, 183
+
+#### Netherportal
+Location: 191, 68, 245
+
+## Dad together
+
+#### The Pit
+
+Location: -176, 60, -539
+
 ### Dadison Main
 
 Seed: 7304258263241260809
+
+### Eloise Home place
+
+#### Home Village
+Location: 122, 64, -192
 
