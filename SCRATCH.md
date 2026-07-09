@@ -89,20 +89,21 @@ Matt? - Front-end
 
 In STAN/PyMC can you fix group priors. Computational audit every 3 months.
 
-# Sound Testing Lab 2
+# Jolt for battery Linux
 
-Audio out is Sound Blaster Audigy 5/Rx
-Windows volume is 25
-A-weighting Fast Integration SPL on B&K
+https://getjolt.sh/?featured_on=pythonbytes
 
-Freq | Dur | Side | Level for 75dB
-1kHz | 50ms | R | 0.13, 0.12
-1KHz | 100ms | R | 0.095, 0.09
-1.2KHz | 100ms | R |  0.085, 0.075
-1.2KHz | 50ms | R | 0.11, 0.10
-1.2KHz | 50ms | L | 0.105, 0.1
-1.2KHz | 100ms | L | 0.08, 0.07
-1KHz | 100ms | L | 0.09, 0.08
-1KHz | 50ms | L | 0.12, 0.11
 
-- Transfer sound levels to main task.
+## Hypatia meeting
+
+Check the individual fits without group fitting for Stan/PyMC. bound decision temp 0.1 to ~ 20.
+
+# cabinet space
+
+400 deep, 1800 wide
+
+
+
+last_trial.err vs last_trial.error in PyTSWT
+
+Orygen, emyria and Perth clinic

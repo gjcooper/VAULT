@@ -69,9 +69,10 @@ aliases:
 > {% if annotation.type === "note" %}{{annotation.comment}}{%- endif %}
 {%- endif %}
 
----
+<br>
 {%- endfor %}{% endif %}{% endpersist %}
 
+---
 ## Item Notes
 
 {%- for note in notes %}
@@ -82,6 +83,7 @@ aliases:
 
 {%- endfor %}
 
+---
 #### Tags
 
 ##### Keywords
