@@ -22,7 +22,8 @@ Lee, D. G., & Usher, M. (2021). Value certainty in drift-diffusion models of pre
 
 Various possible models to capture the relationship between uncertainty and choice consistency/RT are introduced, including DDM variants where drift rate and/or threshold are adjusted based on  option specific uncertainty, and two signal-to-noise approaches where drift rate is adjusted based on the difference between the two options uncertainty, or both options uncertainty values. This last model (labelled model 5, Certainty Adjusted Drift Rate (Option values) captures the patterns in the data from the four experiments analysed better than the other 5 models.
 
-Possible connections to the [[Bayesian-Belief response time model]] - definitely requires a reread with that project in mind.
+An interesting piece including good simulation work that I should lean on for my work on the [[Bayesian-Belief response time model]] work.
+
 %% begin notes %%%% end notes %%
 
 ### Annotations
@@ -73,19 +74,6 @@ Possible connections to the [[Bayesian-Belief response time model]] - definitely
 
 ##### Note added on 2023-04-19 10:20 am
 
-# Annotations
-(19/04/2023, 10:20:50 am)
-
-[Go to annotation](zotero://open-pdf/library/items/9MQYEN8M?page=1&annotation=VSRYW84K) “central component of models of preference-based decisions (Basten et al, 2010;Busemeyer & Diederich, 2002 ;Busemeyer et al., 2019;Busemeyer & Townsend, 1993 ;Fudenberg et al., 2018 ;Krajbich et al., 2010;Milosavljevic et al, 2010 ;Philiastides & Ratcliff, 2013 ; Polanía et al., 2015;Roe et al., 2001 ;Tajima et al., 2016 ;Turner et al., 2018;Usher & McClelland, 2004 ).” ([Lee and Usher, 2021, p. 1](zotero://select/library/items/G6YE53DQ))
-
-[Go to annotation](zotero://open-pdf/library/items/9MQYEN8M?page=1&annotation=JS2SGPZK) “Decision Field Theory (DFT) model (Busemeyer & Diederich, 2002;Busemeyer et al., 2019;Busemeyer & Townsend, 1993 ;Roe et al., 2001 )” ([Lee and Usher, 2021, p. 1](zotero://select/library/items/G6YE53DQ))
-
-[Go to annotation](zotero://open-pdf/library/items/9MQYEN8M?page=6&annotation=YWX9CFF2) “multisensory integration (Drugowitsch et al., 2014;Fetsch et al., 2012 ).” ([Lee and Usher, 2021, p. 6](zotero://select/library/items/G6YE53DQ))
-
-[Go to annotation](zotero://open-pdf/library/items/9MQYEN8M?page=13&annotation=YRKGQ8CW) “The most influential model for preferential choice is the DFT (Busemeyer & Diederich, 2002;Busemeyer & Townsend, 1993 ; Busemeyer et al., 2019;Roe et al., 2001 ).” ([Lee and Usher, 2021, p. 13](zotero://select/library/items/G6YE53DQ))
-
-[Go to annotation](zotero://open-pdf/library/items/9MQYEN8M?page=13&annotation=CMRF2JJM) “to multi-attribute decisions (Roe et al., 2001),” ([Lee and Usher, 2021, p. 13](zotero://select/library/items/G6YE53DQ))
-
 ##### Note added on 2023-04-17 8:14 pm
 
 # Summary
@@ -98,7 +86,7 @@ Various possible models to capture the relationship between uncertainty and choi
 
 ##### Keywords
 
-#subject/decision_making #subject/choice #subject/dr #subject/dri #subject/employees #subject/interpersonal_communication #subject/metacognition #subject/organizational_climate #subject/performance #subject/subjective_value #subject/work_motivation #subject/bbmddm
+#subject/decision_making #subject/choice #subject/metacognition #subject/subjective_value #subject/bbmddm
 
 ##### Authors
 
@@ -106,7 +94,7 @@ Various possible models to capture the relationship between uncertainty and choi
 
 ##### Publication
 
-#pub/psychological_review
+[[Psychological Review]]
 
 
 %% Import Date: 2026-06-22T16:55:36.188+10:00 %%

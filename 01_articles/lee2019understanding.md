@@ -62,7 +62,9 @@ There are interesting differences between the highlighted strategies depending o
 >[!note]
 >We do not tackle this problem in our own work - but it should be mentioned as a limitation.
 
----%% end annotations %%
+---
+
+%% end annotations %%
 
 ## Item Notes
 
