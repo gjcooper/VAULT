@@ -29,6 +29,8 @@ The combination of the two models here is something that [[Joseph Barnby]] is in
 
 There are some nice methods here in the supplementary material that could be emulated.
 
+Useful for the [[Bayesian-Belief response time model]] paper.
+
 %% end notes %%
 
 ### Annotations

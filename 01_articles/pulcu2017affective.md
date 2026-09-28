@@ -26,6 +26,10 @@ Pulcu, E., & Browning, M. (2017). Affective bias as a rational response to the s
 This variation on a [[volatility]] based [[reinforcement learning]] task has some differences to the "standard" task I have already implemented. Specifically the probability of a win and the probability of a loss are independent, in that any particular option can give a win and loss at the same time and the participant needs to track these probabilities independently in order to respond effeiciently.
 
 This does not seem like too muc of a stretch to implement, and the modelling and visualisation should be simple to follow.
+
+One way to manage this would be the learning agent needs to keep track of both wins and losses independently. A win would be probability $p$ of 15 pts and a probability $1-p$ of 0, and similarly for a loss it would be probability $q$ of -15 pts and $1-q$ of 0.
+
+
 %% end notes %%
 
 ### Annotations
