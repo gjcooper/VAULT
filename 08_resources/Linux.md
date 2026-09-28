@@ -1,6 +1,12 @@
+# wayland
 
+Wayland transition - targeting Hyprland: https://www.fosslinux.com/158126/hyprland-on-linux-the-complete-wayland-tiling-compositor-guide.htm
 
-## Useful ssh/scp commands  
+# tools
+
+- Jolt for battery Linux: https://getjolt.sh/?featured_on=pythonbytes\
+
+# Useful ssh/scp commands  
 
 ### SCP copy via multi-hop ssh
 

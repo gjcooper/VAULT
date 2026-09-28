@@ -1,11 +1,6 @@
 # SCRATCH PAD
 
 _Notes placed here should be cleaned out regularly into the appropriate places, or actioned upon and removed_
-
-# Hours for Garston and Alex
-
-27 hours remaining on contract that are claimed but not used
-
 ## DDM Thoughts
 
 Related to the [[Bayesian-Belief response time model]] project.
@@ -55,55 +50,72 @@ Unlike most residents here it is unclear whether Heather has actually retired fr
 
 In terms of activities, a good book and some peace and quiet is usually enough to occupy her for quite some time. Or alternatively a glass (or three) of white wine and some family or friends to catch up with will keep her busy for hours as well.
 
-However If the library runs out of books (or the cask of win runs out), the last resort is to ask for her help to organise an event. I know for sure some of our other staff have taken advantage of her penchant for organisation, taking some of the weight off their own shoulders. I must admit though that she does get immense satisfaction out of seeing everything go smoothly.
-
-# DAAD Notes
-
-- Make sure at least 3 dev (including sad) between deviants/targets. - **Impossible given the current design**
-- Find better sources for time delays to perceived locations. Check sources for best frequency ranges.
-
-# KCL
-
-Oliver Howes Not great to work with
-
-## Cybersecurity Garston
-
-Cybersecurity posture Health, Water etc 36 unique interviews - qualitative analysis, extracted themes, wrote up into the paper Garston sent. The raw interviews data is perhaps under-utilised - what could we do with them. Intriguing to know can you build accurate predictions, especially from a psychological perspective. Running locally.
-
-AusCert Cyersecurity conference
-
-Stick with the DCE thing for now.
-
-## ToDo List Mattsen
-
-- Implement/test button response detection and response codes to EEG
-- Sound Calibration and timing
-
-
-# Notes for Hypatia meeting
-
-Research Manager
-Business Development Manager.
-Brennan - UXUI
-Matt? - Front-end
-
-In STAN/PyMC can you fix group priors. Computational audit every 3 months.
-
-# Jolt for battery Linux
-
-https://getjolt.sh/?featured_on=pythonbytes
-
-
-## Hypatia meeting
-
-Check the individual fits without group fitting for Stan/PyMC. bound decision temp 0.1 to ~ 20.
-
-# cabinet space
-
-400 deep, 1800 wide
+However If the library runs out of books (or the cask of win runs out), the last resort is to ask foAmortized Bayesian Workflowr her help to organise an event. I know for sure some of our other staff have taken advantage of her penchant for organisation, taking some of the weight off their own shoulders. I must admit though that she does get immense satisfaction out of seeing everything go smoothly.
 
 
 
-last_trial.err vs last_trial.error in PyTSWT
+.
 
-Orygen, emyria and Perth clinic
+# Research on RW RL task
+
+Yes. I found several papers on nonstationary bandit and reinforcement-learning settings where rewards drift over time, and the closest match to a literal random-walk formulation is a 2016 contextual-bandit paper that says the reward drift is modeled as “a set of random walk particles.” A 2015 human restless-bandit study had participants choosing among options “for which the average rewards changed over time,” ([Uncertainty and Exploration in a Restless Bandit Problem](https://doi.org/10.1111/tops.12145)
+M. Speekenbrink, E. Konstantinidis) and a 2019/2020 line on reinforcement learning under drift formalizes settings where “both the reward and state transition distributions are allowed to evolve over time.”
+
+I did not find many papers that combine that exact nonstationary-reward setup with clinical treatment comparison in the same study; the treatment-response literature mostly uses RL parameters or neural signatures from probabilistic learning tasks rather than a literal random-walk reward environment. Still, the clinical side is clearly there, especially in psychiatry: in a 101-person depression study, symptom improvement after CBT was associated with normalization of learning parameters; ([Reinforcement Learning Disruptions in Individuals With Depression and Sensitivity to Symptom Change Following Cognitive Behavioral Therapy](https://doi.org/10.1001/jamapsychiatry.2021.1844)) a small behavioral-activation pilot found that task- and self-report-derived RL measures captured individual differences in treatment response; a JAMA Psychiatry study reported that pretreatment RL-related activity gave significant out-of-sample classification of CBT response; ([Neural correlates of weighted reward prediction error during reinforcement learning classify response to cognitive behavioral therapy in depression](https://doi.org/10.1126/sciadv.aav4962)) and a Parkinson’s disease CBT study suggested reward/punishment-learning differences may help predict who benefits from therapy. ([Reward and Punishment Learning as Predictors of Cognitive Behavioral Therapy Response in Parkinson’s Disease Comorbid with Clinical Depression](https://doi.org/10.1177/08919887231218753)) I also found a pramipexole study aiming to predict response using computational reward learning and neuroimaging. ([Computational Approaches to Improving Treatment Precision for Anhedonia](https://doi.org/10.1016/j.biopsych.2020.02.153))
+
+This is an initial scan, so a more targeted follow-up could surface additional papers in computational psychiatry or the bandit-learning literature.
+
+
+BBB
+https://currumbinsanctuary.com.au/support-us/donate/wishlist-items/kroombit-tinkerfrog-wishlist/
+
+
+# Roxy talks cybernetic to healthcare innovation
+[[Roxanne R. Jackson]] from [[University of Newcastle]] talking about physical therapy applications from a systems engineering perspective.
+
+Currently for physical therapy, the flow is patient seeks medical guidance, diagnosis, physical therapy goals, treatment plan, then treatment plan is “followed” by the patient, with limited feedback.
+
+Cybernetic approach is the gamify the exercise sessions, use modelling of personalised approach based on physiological signals. Allows updating of personalised treatment plan without more appointments.
+
+Case study in pelvic floor exercises, more options needed that are less invasive, and reduce requirements on discussing issues with medical practitioners. New tools.
+
+Data driven approaches that are completely uninterpretable. White-box models vs black-box models.
+
+Interesting grey-box approach where we model what we can using a formal model of the processes, but any unexplained variation is fed through a neural network to improve predictions.
+
+
+# ninja park
+
+1.1 m height for climbing areas.
+
+
+# SoCR meeting
+
+- Survey for interaction with AI agents, particularly with a social agent bent.
+- saam.zangeneh@kcl.ac.uk
+
+
+
+# DAAD changes
+
+- Access HRTF dataset(s)
+- New frequencies
+- Regenerate time delays, convolve with HRTF
+- Provide new stimuli to Mattsen etcetera.
+
+
+
+DDM work
+
+Look at model responsibility and the entropy jumps - see any relationship
+
+New data look at CON_OMN data
+
+SocR meeting
+
+Contact sidharth.2.sanjeev@kcl.ac.uk about pmwg and emc2 for his new PhD
+
+Get copy of scale from saam.zangeneh@kcl.ac.uk
+
+ 
+

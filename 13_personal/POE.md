@@ -17,3 +17,18 @@
 - Promenade
 - Dry Sea
 - Cemetery
+
+
+## Breach strat
+Jungle valley, 2 x  instability scarab, 2 x monstrous lineage
+
+## Settlers strat
+Any map, 2 x kalguuran, 1 x enriching, + quant
+
+## Abyss strat
+City Square map, 3 x abyss, 2 x multitudes
+
+# Regexes
+
+### Map Mods Ignite elementalist
+"!te of|id el|lier$|ur$|m resistances$|t reg|teo"
